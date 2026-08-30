@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bone: #f6f1e7;
+  --color-bone-dim: #ece3d1;
+  --color-ink: #221d16;
+  --color-ink-soft: #4a4234;
+  --color-bronze: #9c7a3f;
+  --color-bronze-dark: #6f4f24;
+  --color-bronze-light: #c9a361;
+  --color-patina: #4c5c47;
+  --color-patina-dark: #35402f;
+  --color-whatsapp: #1f9e4d;
+  --color-whatsapp-dark: #167a3c;
+  --color-line: #d9cdb2;
+
+  --font-display: var(--font-fraunces);
+  --font-body: var(--font-instrument);
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background-color: var(--color-bone);
+  color: var(--color-ink);
+  font-family: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+  background-image:
+    radial-gradient(circle at 1px 1px, rgba(34, 29, 22, 0.055) 1px, transparent 0);
+  background-size: 22px 22px;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: var(--font-display), ui-serif, Georgia, serif;
+}
+
+::selection {
+  background-color: var(--color-bronze);
+  color: var(--color-bone);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-rise {
+  animation: rise-in 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+}

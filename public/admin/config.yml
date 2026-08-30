@@ -1,0 +1,94 @@
+# Decap CMS configuration for Heykelsan.
+#
+# Local backend: edits are written straight to the files on disk during
+# development. Run `npx decap-server` in a separate terminal alongside
+# `npm run dev`, then open /admin in the browser.
+backend:
+  name: proxy
+  proxy_url: http://localhost:8081/api/v1
+  branch: main
+
+local_backend: true
+
+media_folder: "public/images/products"
+public_folder: "/images/products"
+
+collections:
+  - name: "products"
+    label: "Ürünler"
+    label_singular: "Ürün"
+    description: "Heykelsan katalog verisi (data/products.json)"
+    files:
+      - name: "products"
+        label: "Ürün Kataloğu"
+        file: "data/products.json"
+        fields:
+          - label: "Ürünler"
+            name: "products"
+            widget: "list"
+            label_singular: "Ürün"
+            summary: "{{fields.title}} — {{fields.id}}"
+            fields:
+              - label: "Ürün Kodu (ID)"
+                name: "id"
+                widget: "string"
+                hint: "Örn: SAK016, ATA011"
+
+              - label: "Başlık"
+                name: "title"
+                widget: "string"
+
+              - label: "Slug"
+                name: "slug"
+                widget: "string"
+                hint: "URL'de kullanılır, örn: konik-saksi-sak019"
+
+              - label: "Kategori"
+                name: "category"
+                widget: "select"
+                options:
+                  - { label: "Heykeller", value: "heykeller" }
+                  - { label: "Hayvan Heykelleri", value: "hayvan-heykelleri" }
+                  - { label: "Sütunlar", value: "sutunlar" }
+                  - { label: "Atatürk Heykelleri", value: "ataturk-heykelleri" }
+                  - { label: "Rölyefler ve Tuğralar", value: "rolyefler-ve-tugralar" }
+                  - { label: "Duvar Kaplama Plakaları", value: "duvar-kaplama-plakalari" }
+                  - { label: "Saksılar", value: "saksilar" }
+                  - { label: "Bahçe Aksesuarları", value: "bahce-aksesuarlari" }
+                  - { label: "Osmanlı Heykelleri ve Büstleri", value: "osmanli-heykelleri-bustleri" }
+
+              - label: "Açıklama"
+                name: "description"
+                widget: "text"
+                required: false
+
+              - label: "Ölçüler"
+                name: "dimensions"
+                widget: "string"
+                required: false
+                hint: "Örn: Yükseklik: 70 cm, Genişlik: 40 cm"
+
+              - label: "Fiyat"
+                name: "price"
+                widget: "number"
+                value_type: "float"
+                required: false
+                hint: "Boş bırakılırsa fiyat sitede gösterilmez"
+
+              - label: "Görseller"
+                name: "image_urls"
+                widget: "list"
+                required: false
+                summary: "{{fields.image}}"
+                field:
+                  label: "Görsel"
+                  name: "image"
+                  widget: "image"
+                  media_library:
+                    config:
+                      multiple: false
+
+              - label: "Kaynak URL"
+                name: "url"
+                widget: "hidden"
+                required: false
