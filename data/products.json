@@ -1,2500 +1,2511 @@
 {
   "products": [
     {
-      "id": "AHSAP-KARTAL",
-      "title": "Ahşap Kartal HAY039",
-      "slug": "ahsap-kartal",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/ahsap-kartal-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ahsap-kartal"
+      "price": null,
+      "slug": "ahsap-kartal",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/ahsap-kartal",
+      "title": "Ahşap Kartal HAY039",
+      "id": "AHSAP-KARTAL",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY001",
-      "title": "Alçı At Heykeli HAY001",
-      "slug": "alci-at-heykeli-hay001",
-      "category": "hayvan-heykelleri",
-      "description": "Alçı At Heykeli Yükseklik 65 cm Genişlik 32 cm",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/alci-at-heykeli-hay001-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-at-heykeli-hay001"
+      "price": null,
+      "slug": "alci-at-heykeli-hay001",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/alci-at-heykeli-hay001",
+      "title": "Alçı At Heykeli HAY001",
+      "id": "HAY001",
+      "description": "Alçı At Heykeli Yükseklik 65 cm Genişlik 32 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "ATA009",
-      "title": "Alçı Atatürk Büstü ATA009      Ebatları:60 cm",
-      "slug": "alci-ataturk-bustu-ata009",
-      "category": "ataturk-heykelleri",
-      "description": "Atatürk Büstü;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. . Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç- mermer- alçı döküm yapılabilir.  Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır, Okullarda -Anaokullarında -Diğer Eğitim kurumlarında- Üniversitelerde ve Resmi Devlet Kurumlarında kullanılabilir. Yönetmeliğe uygun olarak imalatı yapılmıştır. Toptan ve parakende satışımız bulunmaktadır. Atatürk Büstü",
-      "dimensions": "Boyutları: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-ataturk-bustu-ata009-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/alci-ataturk-bustu-ata009"
+      "price": null,
+      "slug": "alci-ataturk-bustu-ata009",
+      "dimensions": "Boyutları: 60 cm",
+      "url": "https://heykelsan.com/urunler/alci-ataturk-bustu-ata009",
+      "title": "Alçı Atatürk Büstü ATA009      Ebatları:60 cm",
+      "id": "ATA009",
+      "description": "Atatürk Büstü;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. . Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç- mermer- alçı döküm yapılabilir.  Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır, Okullarda -Anaokullarında -Diğer Eğitim kurumlarında- Üniversitelerde ve Resmi Devlet Kurumlarında kullanılabilir. Yönetmeliğe uygun olarak imalatı yapılmıştır. Toptan ve parakende satışımız bulunmaktadır. Atatürk Büstü",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ROL001",
-      "title": "Alçı Atatürk Duvar Rölyefi ROL001",
-      "slug": "alci-ataturk-duvar-rolyefi-rol001",
-      "category": "ataturk-heykelleri",
-      "description": "Alçı Atatürk Duvar Rölyefi Uzunluk:  120 cm",
-      "dimensions": "Yükseklik: 250 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-ataturk-duvar-rolyefi-rol001-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-ataturk-duvar-rolyefi-rol001"
+      "price": null,
+      "slug": "alci-ataturk-duvar-rolyefi-rol001",
+      "dimensions": "Yükseklik: 250 cm",
+      "url": "https://heykelsan.com/urunler/alci-ataturk-duvar-rolyefi-rol001",
+      "title": "Alçı Atatürk Duvar Rölyefi ROL001",
+      "id": "ROL001",
+      "description": "Alçı Atatürk Duvar Rölyefi Uzunluk:  120 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "HEY003",
-      "title": "Çift Başlı Davut Büst HEY003",
-      "slug": "alci-bust-hey003",
-      "category": "heykeller",
-      "description": "Alçı Büst",
-      "dimensions": "Boyutları: 50 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-bust-hey003-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-bust-hey003"
+      "price": null,
+      "slug": "alci-bust-hey003",
+      "dimensions": "Boyutları: 50 cm",
+      "url": "https://heykelsan.com/urunler/alci-bust-hey003",
+      "title": "Çift Başlı Davut Büst HEY003",
+      "id": "HEY003",
+      "description": "Alçı Büst",
+      "category": "heykeller"
     },
     {
-      "id": "HEY004",
-      "title": "Apollo Büst HEY004",
-      "slug": "alci-bust-hey004",
-      "category": "heykeller",
-      "description": "Alçı Büst",
-      "dimensions": "Boyutları: 80 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-bust-hey004-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-bust-hey004"
+      "price": null,
+      "slug": "alci-bust-hey004",
+      "dimensions": "Boyutları: 80 cm",
+      "url": "https://heykelsan.com/urunler/alci-bust-hey004",
+      "title": "Apollo Büst HEY004",
+      "id": "HEY004",
+      "description": "Alçı Büst",
+      "category": "heykeller"
     },
     {
-      "id": "SUT002",
-      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT002",
-      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut002",
-      "category": "sutunlar",
-      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-iyon-baslikli-yivli-duz-sutun-sut002-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut002"
+      "price": null,
+      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut002",
+      "dimensions": "Yükseklik: 60 cm",
+      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut002",
+      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT002",
+      "id": "SUT002",
+      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT003",
-      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT003",
-      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut003",
-      "category": "sutunlar",
-      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 90 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-iyon-baslikli-yivli-duz-sutun-sut003-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut003"
+      "price": null,
+      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut003",
+      "dimensions": "Yükseklik: 90 cm",
+      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut003",
+      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT003",
+      "id": "SUT003",
+      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT004",
-      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT004",
-      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut004",
-      "category": "sutunlar",
-      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-iyon-baslikli-yivli-duz-sutun-sut004-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut004"
+      "price": null,
+      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut004",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut004",
+      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT004",
+      "id": "SUT004",
+      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT005",
-      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT005",
-      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut005",
-      "category": "sutunlar",
-      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 150 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-iyon-baslikli-yivli-duz-sutun-sut005-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut005"
+      "price": null,
+      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut005",
+      "dimensions": "Yükseklik: 150 cm",
+      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut005",
+      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT005",
+      "id": "SUT005",
+      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT007",
-      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUt007",
-      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut007",
-      "category": "sutunlar",
-      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 170 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-iyon-baslikli-yivli-duz-sutun-sut007-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut007"
+      "price": null,
+      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut007",
+      "dimensions": "Yükseklik: 170 cm",
+      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut007",
+      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUt007",
+      "id": "SUT007",
+      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT008",
-      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT008",
-      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut008",
-      "category": "sutunlar",
-      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 175 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-iyon-baslikli-yivli-duz-sutun-sut008-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut008"
+      "price": null,
+      "slug": "alci-iyon-baslikli-yivli-duz-sutun-sut008",
+      "dimensions": "Yükseklik: 175 cm",
+      "url": "https://heykelsan.com/urunler/alci-iyon-baslikli-yivli-duz-sutun-sut008",
+      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT008",
+      "id": "SUT008",
+      "description": "Alçı İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "ALCI-IYON-BASLIKLIK-YIVLI-DUZ-SUTUN-SUT006",
-      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT006",
-      "slug": "alci-iyon-basliklik-yivli-duz-sutun-sut006",
-      "category": "sutunlar",
-      "description": "Alçı İyon Başlıklı Yivli Düz Sütun Ürün Kodu: SUT006",
-      "dimensions": "Yükseklik: 150 cm",
-      "price": null,
       "image_urls": [
         "/images/products/alci-iyon-basliklik-yivli-duz-sutun-sut006-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/alci-iyon-basliklik-yivli-duz-sutun-sut006"
+      "price": null,
+      "slug": "alci-iyon-basliklik-yivli-duz-sutun-sut006",
+      "dimensions": "Yükseklik: 150 cm",
+      "url": "https://heykelsan.com/urunler/alci-iyon-basliklik-yivli-duz-sutun-sut006",
+      "title": "Alçı İyon Başlıklı Yivli Düz Sütun SUT006",
+      "id": "ALCI-IYON-BASLIKLIK-YIVLI-DUZ-SUTUN-SUT006",
+      "description": "Alçı İyon Başlıklı Yivli Düz Sütun Ürün Kodu: SUT006",
+      "category": "sutunlar"
     },
     {
-      "id": "ANTIK-DUVAR-ROLYEFI-ROL006",
-      "title": "Antik Duvar Rölyefi ROL006",
-      "slug": "antik-duvar-rolyefi-rol006",
-      "category": "rolyefler-ve-tugralar",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/antik-duvar-rolyefi-rol006-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/antik-duvar-rolyefi-rol006"
+      "price": null,
+      "slug": "antik-duvar-rolyefi-rol006",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/antik-duvar-rolyefi-rol006",
+      "title": "Antik Duvar Rölyefi ROL006",
+      "id": "ANTIK-DUVAR-ROLYEFI-ROL006",
+      "description": "",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "SAK016",
-      "title": "Antik Saksı SAK016",
-      "slug": "antik-saksi-sak016",
-      "category": "saksilar",
-      "description": "Antik Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/antik-saksi-sak016-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/antik-saksi-sak016"
+      "price": null,
+      "slug": "antik-saksi-sak016",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/antik-saksi-sak016",
+      "title": "Antik Saksı SAK016",
+      "id": "SAK016",
+      "description": "Antik Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "HAY031",
-      "title": "Aslan Heykeli HAY031",
-      "slug": "aslan-heykeli-hay031",
-      "category": "hayvan-heykelleri",
-      "description": "Aslan Heykeli :1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Aslan Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Polyester Aslan Heykeli",
-      "dimensions": "Yükseklik: 80 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/aslan-heykeli-hay031-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/aslan-heykeli-hay031"
+      "price": null,
+      "slug": "aslan-heykeli-hay031",
+      "dimensions": "Yükseklik: 80 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/aslan-heykeli-hay031",
+      "title": "Aslan Heykeli HAY031",
+      "id": "HAY031",
+      "description": "Aslan Heykeli :1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Aslan Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Polyester Aslan Heykeli",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "AT-HEYKELI-HAY-050",
-      "title": "At Heykeli HAY050",
-      "slug": "at-heykeli-hay-050",
-      "category": "hayvan-heykelleri",
-      "description": "Fiberglas polyester olarak üretilmiştir. Dış ve iç mekanda kullanılabilir. Tüm hava koşullarına dayanıklıdır. Sağlamdır. Kırılmaz. İstenilen renkte boyanabilir. Bronz- mermer ve beton döküm yapılabilir. Park ve bahçelerde kullanımına uygundur. Tanıtım amaçlı kullanılabilir. Yapım şirketlerinde reklam ve sinema sektörü için kiralama yapılabilir.",
-      "dimensions": "En: 60 cm, Boy: 260 cm, Yükseklik: 220 cm, Ağırlık: 40 kg.",
-      "price": null,
       "image_urls": [
         "/images/products/at-heykeli-hay-050-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/at-heykeli-hay-050"
+      "price": null,
+      "slug": "at-heykeli-hay-050",
+      "dimensions": "En: 60 cm, Boy: 260 cm, Yükseklik: 220 cm, Ağırlık: 40 kg.",
+      "url": "https://heykelsan.com/urunler/at-heykeli-hay-050",
+      "title": "At Heykeli HAY050",
+      "id": "AT-HEYKELI-HAY-050",
+      "description": "Fiberglas polyester olarak üretilmiştir. Dış ve iç mekanda kullanılabilir. Tüm hava koşullarına dayanıklıdır. Sağlamdır. Kırılmaz. İstenilen renkte boyanabilir. Bronz- mermer ve beton döküm yapılabilir. Park ve bahçelerde kullanımına uygundur. Tanıtım amaçlı kullanılabilir. Yapım şirketlerinde reklam ve sinema sektörü için kiralama yapılabilir.",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY027",
-      "title": "At Kafası HAY027",
-      "slug": "at-kafasi-hay027",
-      "category": "hayvan-heykelleri",
-      "description": "At Kafası",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/at-kafasi-hay027-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/at-kafasi-hay027"
+      "price": null,
+      "slug": "at-kafasi-hay027",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/at-kafasi-hay027",
+      "title": "At Kafası HAY027",
+      "id": "HAY027",
+      "description": "At Kafası",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "ATA006",
-      "title": "Atatürk Büstü ATA006 Ebatları :70x40 cm.",
-      "slug": "ataturk-bustu-ata006",
-      "category": "ataturk-heykelleri",
-      "description": "Ürün Bilgisi :Atatürk Büstü;Sivil kıyafetli karşıya bakar şekildedir. Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır,Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır.",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/ataturk-bustu-ata006-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ataturk-bustu-ata006"
+      "price": null,
+      "slug": "ataturk-bustu-ata006",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/ataturk-bustu-ata006",
+      "title": "Atatürk Büstü ATA006 Ebatları :70x40 cm.",
+      "id": "ATA006",
+      "description": "Ürün Bilgisi :Atatürk Büstü;Sivil kıyafetli karşıya bakar şekildedir. Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır,Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır.",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ATA007",
-      "title": "Atatürk Büstü ATA007     Ebatları: 70x70 cm.",
-      "slug": "ataturk-bustu-ata007",
-      "category": "ataturk-heykelleri",
-      "description": "Atatürk Büstü;Sivil kıyafetli karşıya bakar şekildedir. Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır,Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır.Dış ve iç mekanda kullanılabilir. Tüm hava koşullarına dayanıklıdır. Sağlamdır. Kırılmaz. İstenilen renkte boyanabilir. Bronz-pirinç ve mermer döküm yapılabilir. Okullarda -Anaokullarında -Diğer Eğitim kurumlarında ve Resmi Devlet Kurumlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Atatürk Büstü",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/ataturk-bustu-ata007-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ataturk-bustu-ata007"
+      "price": null,
+      "slug": "ataturk-bustu-ata007",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/ataturk-bustu-ata007",
+      "title": "Atatürk Büstü ATA007     Ebatları: 70x70 cm.",
+      "id": "ATA007",
+      "description": "Atatürk Büstü;Sivil kıyafetli karşıya bakar şekildedir. Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır,Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır.Dış ve iç mekanda kullanılabilir. Tüm hava koşullarına dayanıklıdır. Sağlamdır. Kırılmaz. İstenilen renkte boyanabilir. Bronz-pirinç ve mermer döküm yapılabilir. Okullarda -Anaokullarında -Diğer Eğitim kurumlarında ve Resmi Devlet Kurumlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Atatürk Büstü",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ATA008",
-      "title": "Atatürk Büstü ATA008     Boyutları:57x44 cm",
-      "slug": "ataturk-bustu-ata008",
-      "category": "ataturk-heykelleri",
-      "description": "Atatürk Büstü;Sivil kıyafetli karşıya bakar şekildedir. Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır,Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır. . Dış ve iç mekanda kullanılabilir. Tüm hava koşullarına dayanıklıdır. Sağlamdır. Kırılmaz. İstenilen renkte boyanabilir. Bronz-pirinç ve mermer döküm yapılabilir. Okullarda -Anaokullarında -Diğer Eğitim kurumlarında ve Resmi Devlet Kurumlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Atatürk Büstü",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/ataturk-bustu-ata008-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ataturk-bustu-ata008"
+      "price": null,
+      "slug": "ataturk-bustu-ata008",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/ataturk-bustu-ata008",
+      "title": "Atatürk Büstü ATA008     Boyutları:57x44 cm",
+      "id": "ATA008",
+      "description": "Atatürk Büstü;Sivil kıyafetli karşıya bakar şekildedir. Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır,Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır. . Dış ve iç mekanda kullanılabilir. Tüm hava koşullarına dayanıklıdır. Sağlamdır. Kırılmaz. İstenilen renkte boyanabilir. Bronz-pirinç ve mermer döküm yapılabilir. Okullarda -Anaokullarında -Diğer Eğitim kurumlarında ve Resmi Devlet Kurumlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Atatürk Büstü",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ATATURK-BUSTU-ATA011",
-      "title": "Atatürk Büstü ATA011",
-      "slug": "ataturk-bustu-ata011",
-      "category": "ataturk-heykelleri",
-      "description": "Yüksek kaliteli malzemeler kullanılarak üretilen **ATA011 Atatürk Büstü**, reçine ve polyester karışımının cam elyafla güçlendirilmesiyle elde edilen dayanıklı fiberglas yapıya sahiptir. Sağlam ve mukavemetli gövdesi sayesinde darbelere ve farklı hava koşullarına karşı dayanıklıdır. Hem iç hem de dış mekânlarda uzun yıllar güvenle kullanılabilir. Yönetmeliklere uygun olarak üretilen **fiberglas Atatürk büstü**; okullar, anaokulları, üniversiteler, diğer eğitim kurumları, belediyeler ve resmî devlet kurumlarında kullanıma uygundur. Atatürk’ün karakteristik yüz hatlarını ve güçlü duruşunu yansıtan detaylı tasarımıyla bulunduğu alana saygın ve estetik bir görünüm kazandırır. Ürün; **altın yaldız, gümüş yaldız, bronz patina, eskitme** ve talep edilen diğer renk seçenekleriyle hazırlanabilir. Fiberglas üretimin yanı sıra özel sipariş üzerine bronz, pirinç veya mermer döküm seçenekleri de uygulanabilir. Büstün alt kaidesi kullanılacağı mekâna ve müşterinin tercihine göre özel ölçülerde üretilebilir. Kaidenin ön yüzüne, Atatürk’ün vecizelerinden biri pirinç kabartma harflerle uygulanabilir. Böylece kuruma ve kullanım alanına özel, prestijli bir çalışma oluşturulabilir. ### Ürün özellikleri - **Ürün adı:** Atatürk Büstü - **Ürün kodu:** ATA011 - **Yükseklik:** 70 cm - **Malzeme:** Cam elyaf takviyeli fiberglas polyester - **Kullanım alanı:** İç ve dış mekân - **Renk seçenekleri:** Altın yaldız, gümüş yaldız, bronz patina, eskitme ve özel renkler - **Döküm seçenekleri:** Fiberglas, bronz, pirinç ve mermer - **Kaide:** Talebe ve uygulama alanına göre özel üretim - **Dayanıklılık:** Darbelere ve farklı hava koşullarına karşı yüksek mukavemet - **Satış şekli:** Toptan ve perakende **ATA011 Atatürk Büstü** hakkında fiyat bilgisi almak, renk ve kaide seçeneklerini değerlendirmek veya toplu sipariş oluşturmak için bizimle iletişime geçebilirsiniz.",
-      "dimensions": "Yükseklik: 70 cm",
-      "price": null,
       "image_urls": [
         "/images/products/ataturk-bustu-ata011-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/ataturk-bustu-ata011"
+      "price": null,
+      "slug": "ataturk-bustu-ata011",
+      "dimensions": "Yükseklik: 70 cm",
+      "url": "https://heykelsan.com/urunler/ataturk-bustu-ata011",
+      "title": "Atatürk Büstü ATA011",
+      "id": "ATATURK-BUSTU-ATA011",
+      "description": "Yüksek kaliteli malzemeler kullanılarak üretilen **ATA011 Atatürk Büstü**, reçine ve polyester karışımının cam elyafla güçlendirilmesiyle elde edilen dayanıklı fiberglas yapıya sahiptir. Sağlam ve mukavemetli gövdesi sayesinde darbelere ve farklı hava koşullarına karşı dayanıklıdır. Hem iç hem de dış mekânlarda uzun yıllar güvenle kullanılabilir. Yönetmeliklere uygun olarak üretilen **fiberglas Atatürk büstü**; okullar, anaokulları, üniversiteler, diğer eğitim kurumları, belediyeler ve resmî devlet kurumlarında kullanıma uygundur. Atatürk’ün karakteristik yüz hatlarını ve güçlü duruşunu yansıtan detaylı tasarımıyla bulunduğu alana saygın ve estetik bir görünüm kazandırır. Ürün; **altın yaldız, gümüş yaldız, bronz patina, eskitme** ve talep edilen diğer renk seçenekleriyle hazırlanabilir. Fiberglas üretimin yanı sıra özel sipariş üzerine bronz, pirinç veya mermer döküm seçenekleri de uygulanabilir. Büstün alt kaidesi kullanılacağı mekâna ve müşterinin tercihine göre özel ölçülerde üretilebilir. Kaidenin ön yüzüne, Atatürk’ün vecizelerinden biri pirinç kabartma harflerle uygulanabilir. Böylece kuruma ve kullanım alanına özel, prestijli bir çalışma oluşturulabilir. ### Ürün özellikleri - **Ürün adı:** Atatürk Büstü - **Ürün kodu:** ATA011 - **Yükseklik:** 70 cm - **Malzeme:** Cam elyaf takviyeli fiberglas polyester - **Kullanım alanı:** İç ve dış mekân - **Renk seçenekleri:** Altın yaldız, gümüş yaldız, bronz patina, eskitme ve özel renkler - **Döküm seçenekleri:** Fiberglas, bronz, pirinç ve mermer - **Kaide:** Talebe ve uygulama alanına göre özel üretim - **Dayanıklılık:** Darbelere ve farklı hava koşullarına karşı yüksek mukavemet - **Satış şekli:** Toptan ve perakende **ATA011 Atatürk Büstü** hakkında fiyat bilgisi almak, renk ve kaide seçeneklerini değerlendirmek veya toplu sipariş oluşturmak için bizimle iletişime geçebilirsiniz.",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ATA010",
-      "title": "Atatürk Büstü Pirinç  ATA010",
-      "slug": "ataturk-bustu-pirinc-ata010",
-      "category": "ataturk-heykelleri",
-      "description": "Atatürk Büstü;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. . Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır, Okullarda -Anaokullarında -Diğer Eğitim kurumlarında ve Resmi Devlet Kurumlarında kullanılabilir. Yönetmeliğe uygun olarak imalatı yapılmıştır. Toptan ve parakende satışımız bulunmaktadır. Atatürk Büstü",
-      "dimensions": "Boyutları: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/ataturk-bustu-pirinc-ata010-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/ataturk-bustu-pirinc-ata010"
+      "price": null,
+      "slug": "ataturk-bustu-pirinc-ata010",
+      "dimensions": "Boyutları: 60 cm",
+      "url": "https://heykelsan.com/urunler/ataturk-bustu-pirinc-ata010",
+      "title": "Atatürk Büstü Pirinç  ATA010",
+      "id": "ATA010",
+      "description": "Atatürk Büstü;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. . Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır, Okullarda -Anaokullarında -Diğer Eğitim kurumlarında ve Resmi Devlet Kurumlarında kullanılabilir. Yönetmeliğe uygun olarak imalatı yapılmıştır. Toptan ve parakende satışımız bulunmaktadır. Atatürk Büstü",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ATATURK-MASKI-MASK001",
-      "title": "Atatürk Maskı Mask001",
-      "slug": "ataturk-maski-mask001",
-      "category": "ataturk-heykelleri",
-      "description": "Ürünümüz 1. sınıf kalitede üretilmiştir. Anaokullarına, Devlet Kurumlarına, Üniversitelere, Liselere Tüm eğitim kurumlarına uygun bir üründür. Atatürk Maskı Yönetmeliğe uygun şekilde imalatı yapılmıştır. İç ve dış mekanda rahatlıkla kullanılabilir. İstenilen renkte ( Yaldız -Gümüş-Eskitme) yapılabilir. Ebatları : 40 cm",
-      "dimensions": "Ebatları: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/ataturk-maski-mask001-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ataturk-maski-mask001"
+      "price": null,
+      "slug": "ataturk-maski-mask001",
+      "dimensions": "Ebatları: 40 cm",
+      "url": "https://heykelsan.com/urunler/ataturk-maski-mask001",
+      "title": "Atatürk Maskı Mask001",
+      "id": "ATATURK-MASKI-MASK001",
+      "description": "Ürünümüz 1. sınıf kalitede üretilmiştir. Anaokullarına, Devlet Kurumlarına, Üniversitelere, Liselere Tüm eğitim kurumlarına uygun bir üründür. Atatürk Maskı Yönetmeliğe uygun şekilde imalatı yapılmıştır. İç ve dış mekanda rahatlıkla kullanılabilir. İstenilen renkte ( Yaldız -Gümüş-Eskitme) yapılabilir. Ebatları : 40 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ATATURK-MASKI-MASK002",
-      "title": "Atatürk Maskı Mask002",
-      "slug": "ataturk-maski-mask002",
-      "category": "ataturk-heykelleri",
-      "description": "Ürünümüz 1. sınıf kalitede üretilmiştir. Anaokullarına, Devlet Kurumlarına, Üniversitelere, Liselere Tüm eğitim kurumlarına uygun bir üründür. Atatürk Maskı Yönetmeliğe uygun şekilde imalatı yapılmıştır. İç ve dış mekanda rahatlıkla kullanılabilir. İstenilen renkte ( Yaldız -Gümüş-Eskitme) yapılabilir. Ebatları : 40 cm",
-      "dimensions": "Ebatları: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/ataturk-maski-mask002-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ataturk-maski-mask002"
+      "price": null,
+      "slug": "ataturk-maski-mask002",
+      "dimensions": "Ebatları: 40 cm",
+      "url": "https://heykelsan.com/urunler/ataturk-maski-mask002",
+      "title": "Atatürk Maskı Mask002",
+      "id": "ATATURK-MASKI-MASK002",
+      "description": "Ürünümüz 1. sınıf kalitede üretilmiştir. Anaokullarına, Devlet Kurumlarına, Üniversitelere, Liselere Tüm eğitim kurumlarına uygun bir üründür. Atatürk Maskı Yönetmeliğe uygun şekilde imalatı yapılmıştır. İç ve dış mekanda rahatlıkla kullanılabilir. İstenilen renkte ( Yaldız -Gümüş-Eskitme) yapılabilir. Ebatları : 40 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ATATURK-MASKI-MASK003",
-      "title": "Atatürk Maskı Mask003",
-      "slug": "ataturk-maski-mask003",
-      "category": "ataturk-heykelleri",
-      "description": "Ürünümüz 1. sınıf kalitede üretilmiştir. Anaokullarına, Devlet Kurumlarına, Üniversitelere, Liselere Tüm eğitim kurumlarına uygun bir üründür. Atatürk Maskı Yönetmeliğe uygun şekilde imalatı yapılmıştır. İç ve dış mekanda rahatlıkla kullanılabilir. İstenilen renkte ( Yaldız -Gümüş-Eskitme) yapılabilir. Ebatları : 40 cm",
-      "dimensions": "Ebatları: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/ataturk-maski-mask003-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ataturk-maski-mask003"
+      "price": null,
+      "slug": "ataturk-maski-mask003",
+      "dimensions": "Ebatları: 40 cm",
+      "url": "https://heykelsan.com/urunler/ataturk-maski-mask003",
+      "title": "Atatürk Maskı Mask003",
+      "id": "ATATURK-MASKI-MASK003",
+      "description": "Ürünümüz 1. sınıf kalitede üretilmiştir. Anaokullarına, Devlet Kurumlarına, Üniversitelere, Liselere Tüm eğitim kurumlarına uygun bir üründür. Atatürk Maskı Yönetmeliğe uygun şekilde imalatı yapılmıştır. İç ve dış mekanda rahatlıkla kullanılabilir. İstenilen renkte ( Yaldız -Gümüş-Eskitme) yapılabilir. Ebatları : 40 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ATATURK-MASKI-MASK004",
-      "title": "Atatürk Maskı Mask004",
-      "slug": "ataturk-maski-mask004",
-      "category": "ataturk-heykelleri",
-      "description": "Ürünümüz 1. sınıf kalitede üretilmiştir. Anaokullarına, Devlet Kurumlarına, Üniversitelere, Liselere Tüm eğitim kurumlarına uygun bir üründür. Atatürk Maskı Yönetmeliğe uygun şekilde imalatı yapılmıştır. İç ve dış mekanda rahatlıkla kullanılabilir. İstenilen renkte ( Yaldız -Gümüş-Eskitme) yapılabilir. Ebatları : 40 cm",
-      "dimensions": "Ebatları: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/ataturk-maski-mask004-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ataturk-maski-mask004"
+      "price": null,
+      "slug": "ataturk-maski-mask004",
+      "dimensions": "Ebatları: 40 cm",
+      "url": "https://heykelsan.com/urunler/ataturk-maski-mask004",
+      "title": "Atatürk Maskı Mask004",
+      "id": "ATATURK-MASKI-MASK004",
+      "description": "Ürünümüz 1. sınıf kalitede üretilmiştir. Anaokullarına, Devlet Kurumlarına, Üniversitelere, Liselere Tüm eğitim kurumlarına uygun bir üründür. Atatürk Maskı Yönetmeliğe uygun şekilde imalatı yapılmıştır. İç ve dış mekanda rahatlıkla kullanılabilir. İstenilen renkte ( Yaldız -Gümüş-Eskitme) yapılabilir. Ebatları : 40 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "AYI-HEYKELI",
-      "title": "Ayı Heykeli HAY033",
-      "slug": "ayi-heykeli",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/ayi-heykeli-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ayi-heykeli"
+      "price": null,
+      "slug": "ayi-heykeli",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/ayi-heykeli",
+      "title": "Ayı Heykeli HAY033",
+      "id": "AYI-HEYKELI",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "BAH012",
-      "title": "Bahçe Aksesuar 3 Maymun Heykeli BAH012",
-      "slug": "bahce-aksesuar-3-maymun-heykeli-bah012",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar 3 Maymun Heykeli",
-      "dimensions": "Yükseklik: 70 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-3-maymun-heykeli-bah012-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-3-maymun-heykeli-bah012"
+      "price": null,
+      "slug": "bahce-aksesuar-3-maymun-heykeli-bah012",
+      "dimensions": "Yükseklik: 70 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-3-maymun-heykeli-bah012",
+      "title": "Bahçe Aksesuar 3 Maymun Heykeli BAH012",
+      "id": "BAH012",
+      "description": "Bahçe Aksesuar 3 Maymun Heykeli",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH002",
-      "title": "Bahçe Aksesuar Aşçı BAH002",
-      "slug": "bahce-aksesuar-asci-bah002",
-      "category": "heykeller",
-      "description": "Bahçe Aksesuar Aşçı",
-      "dimensions": "Yükseklik: 120 cm, Genişlik: 45 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-asci-bah002-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-asci-bah002"
+      "price": null,
+      "slug": "bahce-aksesuar-asci-bah002",
+      "dimensions": "Yükseklik: 120 cm, Genişlik: 45 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-asci-bah002",
+      "title": "Bahçe Aksesuar Aşçı BAH002",
+      "id": "BAH002",
+      "description": "Bahçe Aksesuar Aşçı",
+      "category": "heykeller"
     },
     {
-      "id": "BAH003",
-      "title": "Bahçe Aksesuar Cüce Heykeli BAH003",
-      "slug": "bahce-aksesuar-cuca-heykeli-bah003",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Cüce Heykeli",
-      "dimensions": "Yükseklik: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-cuca-heykeli-bah003-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-cuca-heykeli-bah003"
+      "price": null,
+      "slug": "bahce-aksesuar-cuca-heykeli-bah003",
+      "dimensions": "Yükseklik: 60 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-cuca-heykeli-bah003",
+      "title": "Bahçe Aksesuar Cüce Heykeli BAH003",
+      "id": "BAH003",
+      "description": "Bahçe Aksesuar Cüce Heykeli",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH022",
-      "title": "Bahçe Aksesuar Kadın Ayakkabı BAH022",
-      "slug": "bahce-aksesuar-kadin-ayakkabi-bah022",
-      "category": "heykeller",
-      "description": "Bahçe Aksesuar Kadın Ayakkabı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-kadin-ayakkabi-bah022-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-kadin-ayakkabi-bah022"
+      "price": null,
+      "slug": "bahce-aksesuar-kadin-ayakkabi-bah022",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-kadin-ayakkabi-bah022",
+      "title": "Bahçe Aksesuar Kadın Ayakkabı BAH022",
+      "id": "BAH022",
+      "description": "Bahçe Aksesuar Kadın Ayakkabı",
+      "category": "heykeller"
     },
     {
-      "id": "BAH004",
-      "title": "Bahçe Aksesuar Minyon Heykeli BAH004",
-      "slug": "bahce-aksesuar-minyon-heykeli-bah004",
-      "category": "heykeller",
-      "description": "Bahçe Aksesuar Minyon Heykeli",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-minyon-heykeli-bah004-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-minyon-heykeli-bah004"
+      "price": null,
+      "slug": "bahce-aksesuar-minyon-heykeli-bah004",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-minyon-heykeli-bah004",
+      "title": "Bahçe Aksesuar Minyon Heykeli BAH004",
+      "id": "BAH004",
+      "description": "Bahçe Aksesuar Minyon Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "BAH005",
-      "title": "Bahçe Aksesuar Pamuk Prenses BAH005",
-      "slug": "bahce-aksesuar-pamuk-prenses-bah005",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Pamuk Prenses",
-      "dimensions": "Yükseklik: 45 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-pamuk-prenses-bah005-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-pamuk-prenses-bah005"
+      "price": null,
+      "slug": "bahce-aksesuar-pamuk-prenses-bah005",
+      "dimensions": "Yükseklik: 45 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-pamuk-prenses-bah005",
+      "title": "Bahçe Aksesuar Pamuk Prenses BAH005",
+      "id": "BAH005",
+      "description": "Bahçe Aksesuar Pamuk Prenses",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH006",
-      "title": "Bahçe Aksesuar Postmodern Heykel BAH006",
-      "slug": "bahce-aksesuar-postmodern-heykel-bah006",
-      "category": "heykeller",
-      "description": "Bahçe Aksesuar Postmodern Heykel",
-      "dimensions": "Yükseklik: 45 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-postmodern-heykel-bah006-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-postmodern-heykel-bah006"
+      "price": null,
+      "slug": "bahce-aksesuar-postmodern-heykel-bah006",
+      "dimensions": "Yükseklik: 45 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-postmodern-heykel-bah006",
+      "title": "Bahçe Aksesuar Postmodern Heykel BAH006",
+      "id": "BAH006",
+      "description": "Bahçe Aksesuar Postmodern Heykel",
+      "category": "heykeller"
     },
     {
-      "id": "BAH007",
-      "title": "Bahçe Aksesuar Romantik Heykel BAH007",
-      "slug": "bahce-aksesuar-romantik-heykel-bah007",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Romantik Heykel",
-      "dimensions": "Yükseklik: 80 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-romantik-heykel-bah007-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-romantik-heykel-bah007"
+      "price": null,
+      "slug": "bahce-aksesuar-romantik-heykel-bah007",
+      "dimensions": "Yükseklik: 80 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-romantik-heykel-bah007",
+      "title": "Bahçe Aksesuar Romantik Heykel BAH007",
+      "id": "BAH007",
+      "description": "Bahçe Aksesuar Romantik Heykel",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH008",
-      "title": "Bahçe Aksesuar Salyangoz Heykeli BAH008",
-      "slug": "bahce-aksesuar-salyangoz-heykeli-bah008",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Salyangoz Heykeli",
-      "dimensions": "Yükseklik: 25 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-salyangoz-heykeli-bah008-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-salyangoz-heykeli-bah008"
+      "price": null,
+      "slug": "bahce-aksesuar-salyangoz-heykeli-bah008",
+      "dimensions": "Yükseklik: 25 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-salyangoz-heykeli-bah008",
+      "title": "Bahçe Aksesuar Salyangoz Heykeli BAH008",
+      "id": "BAH008",
+      "description": "Bahçe Aksesuar Salyangoz Heykeli",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH009",
-      "title": "Bahçe Aksesuar Su Çeşmesi Heykeli BAH009",
-      "slug": "bahce-aksesuar-su-cesmesi-heykeli-bah009",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Su Çeşmesi Heykeli",
-      "dimensions": "Yükseklik: 80 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-su-cesmesi-heykeli-bah009-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-su-cesmesi-heykeli-bah009"
+      "price": null,
+      "slug": "bahce-aksesuar-su-cesmesi-heykeli-bah009",
+      "dimensions": "Yükseklik: 80 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-su-cesmesi-heykeli-bah009",
+      "title": "Bahçe Aksesuar Su Çeşmesi Heykeli BAH009",
+      "id": "BAH009",
+      "description": "Bahçe Aksesuar Su Çeşmesi Heykeli",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH010",
-      "title": "Bahçe Aksesuar Su Çeşmesi Heykeli BAH010",
-      "slug": "bahce-aksesuar-su-cesmesi-heykeli-bah010",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Su Çeşmesi Heykeli",
-      "dimensions": "Yükseklik: 80 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-su-cesmesi-heykeli-bah010-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-su-cesmesi-heykeli-bah010"
+      "price": null,
+      "slug": "bahce-aksesuar-su-cesmesi-heykeli-bah010",
+      "dimensions": "Yükseklik: 80 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-su-cesmesi-heykeli-bah010",
+      "title": "Bahçe Aksesuar Su Çeşmesi Heykeli BAH010",
+      "id": "BAH010",
+      "description": "Bahçe Aksesuar Su Çeşmesi Heykeli",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH011",
-      "title": "Bahçe Aksesuar Sünger Bob Yengeç Heykeli BAH011",
-      "slug": "bahce-aksesuar-sunger-bob-yengec-heykeli-bah011",
-      "category": "heykeller",
-      "description": "Bahçe Aksesuar Uzaylı Heykeli",
-      "dimensions": "Yükseklik: 120 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-sunger-bob-yengec-heykeli-bah011-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-sunger-bob-yengec-heykeli-bah011"
+      "price": null,
+      "slug": "bahce-aksesuar-sunger-bob-yengec-heykeli-bah011",
+      "dimensions": "Yükseklik: 120 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-sunger-bob-yengec-heykeli-bah011",
+      "title": "Bahçe Aksesuar Sünger Bob Yengeç Heykeli BAH011",
+      "id": "BAH011",
+      "description": "Bahçe Aksesuar Uzaylı Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "BAH013",
-      "title": "Bahçe Aksesuar Varil BAH013",
-      "slug": "bahce-aksesuar-varil-bah013",
-      "category": "heykeller",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-varil-bah013-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-varil-bah013"
+      "price": null,
+      "slug": "bahce-aksesuar-varil-bah013",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-varil-bah013",
+      "title": "Bahçe Aksesuar Varil BAH013",
+      "id": "BAH013",
+      "description": "",
+      "category": "heykeller"
     },
     {
-      "id": "BAH014",
-      "title": "Bahçe Aksesuar Yatan Köpek BAH014",
-      "slug": "bahce-aksesuar-yatan-kopek-bah014",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Yatan Köpek Boyutlar: 60 cm",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-yatan-kopek-bah014-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yatan-kopek-bah014"
+      "price": null,
+      "slug": "bahce-aksesuar-yatan-kopek-bah014",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yatan-kopek-bah014",
+      "title": "Bahçe Aksesuar Yatan Köpek BAH014",
+      "id": "BAH014",
+      "description": "Bahçe Aksesuar Yatan Köpek Boyutlar: 60 cm",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH015",
-      "title": "Bahçe Aksesuar Yedi Cüceler BAH016",
-      "slug": "bahce-aksesuar-yedi-cuceler-bah016",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Yedi Cüceler",
-      "dimensions": "Yükseklik: 35 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-yedi-cuceler-bah016-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah016"
+      "price": null,
+      "slug": "bahce-aksesuar-yedi-cuceler-bah016",
+      "dimensions": "Yükseklik: 35 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah016",
+      "title": "Bahçe Aksesuar Yedi Cüceler BAH016",
+      "id": "BAH015",
+      "description": "Bahçe Aksesuar Yedi Cüceler",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH017",
-      "title": "Bahçe Aksesuar Yedi Cüceler BAH017",
-      "slug": "bahce-aksesuar-yedi-cuceler-bah017",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Yedi Cüceler",
-      "dimensions": "Yükseklik: 35 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-yedi-cuceler-bah017-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah017"
+      "price": null,
+      "slug": "bahce-aksesuar-yedi-cuceler-bah017",
+      "dimensions": "Yükseklik: 35 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah017",
+      "title": "Bahçe Aksesuar Yedi Cüceler BAH017",
+      "id": "BAH017",
+      "description": "Bahçe Aksesuar Yedi Cüceler",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH018",
-      "title": "Bahçe Aksesuar Yedi Cüceler BAH018",
-      "slug": "bahce-aksesuar-yedi-cuceler-bah018",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Yedi Cüceler",
-      "dimensions": "Yükseklik: 35 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-yedi-cuceler-bah018-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah018"
+      "price": null,
+      "slug": "bahce-aksesuar-yedi-cuceler-bah018",
+      "dimensions": "Yükseklik: 35 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah018",
+      "title": "Bahçe Aksesuar Yedi Cüceler BAH018",
+      "id": "BAH018",
+      "description": "Bahçe Aksesuar Yedi Cüceler",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH019",
-      "title": "Bahçe Aksesuar Yedi Cüceler BAH019",
-      "slug": "bahce-aksesuar-yedi-cuceler-bah019",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Yedi Cüceler",
-      "dimensions": "Yükseklik: 35 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-yedi-cuceler-bah019-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah019"
+      "price": null,
+      "slug": "bahce-aksesuar-yedi-cuceler-bah019",
+      "dimensions": "Yükseklik: 35 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah019",
+      "title": "Bahçe Aksesuar Yedi Cüceler BAH019",
+      "id": "BAH019",
+      "description": "Bahçe Aksesuar Yedi Cüceler",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH020",
-      "title": "Bahçe Aksesuar Yedi Cüceler BAH020",
-      "slug": "bahce-aksesuar-yedi-cuceler-bah020",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Yedi Cüceler",
-      "dimensions": "Yükseklik: 35 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-yedi-cuceler-bah020-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah020"
+      "price": null,
+      "slug": "bahce-aksesuar-yedi-cuceler-bah020",
+      "dimensions": "Yükseklik: 35 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah020",
+      "title": "Bahçe Aksesuar Yedi Cüceler BAH020",
+      "id": "BAH020",
+      "description": "Bahçe Aksesuar Yedi Cüceler",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH021",
-      "title": "Bahçe Aksesuar Yedi Cüceler BAH021",
-      "slug": "bahce-aksesuar-yedi-cuceler-bah021",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Yedi Cüceler",
-      "dimensions": "Yükseklik: 35 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-yedi-cuceler-bah021-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah021"
+      "price": null,
+      "slug": "bahce-aksesuar-yedi-cuceler-bah021",
+      "dimensions": "Yükseklik: 35 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuceler-bah021",
+      "title": "Bahçe Aksesuar Yedi Cüceler BAH021",
+      "id": "BAH021",
+      "description": "Bahçe Aksesuar Yedi Cüceler",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BAH015",
-      "title": "Bahçe Aksesuar Yedi Cüceler BAH015",
-      "slug": "bahce-aksesuar-yedi-cuculer-bah015",
-      "category": "bahce-aksesuarlari",
-      "description": "Bahçe Aksesuar Yedi Cüceler",
-      "dimensions": "Yükseklik: 35 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bahce-aksesuar-yedi-cuculer-bah015-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuculer-bah015"
+      "price": null,
+      "slug": "bahce-aksesuar-yedi-cuculer-bah015",
+      "dimensions": "Yükseklik: 35 cm",
+      "url": "https://heykelsan.com/urunler/bahce-aksesuar-yedi-cuculer-bah015",
+      "title": "Bahçe Aksesuar Yedi Cüceler BAH015",
+      "id": "BAH015",
+      "description": "Bahçe Aksesuar Yedi Cüceler",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "BETON-KARTAL-HEYKELI",
-      "title": "Beton Kartal Heykeli HAY040",
-      "slug": "beton-kartal-heykeli",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/beton-kartal-heykeli-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/beton-kartal-heykeli"
+      "price": null,
+      "slug": "beton-kartal-heykeli",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/beton-kartal-heykeli",
+      "title": "Beton Kartal Heykeli HAY040",
+      "id": "BETON-KARTAL-HEYKELI",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "ATA001",
-      "title": "Bronz Atatürk Biblosu ATA001",
-      "slug": "brons-ataturk-biblosu",
-      "category": "ataturk-heykelleri",
-      "description": "Bronz Atatürk Biblosu",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "https://heykelsan.com/images/urun/40334247_D%EF%BF%BD?K%EF%BF%BD?M_ATAT%EF%BF%BD?RK_B%C4%B0BLOSU__12x4-removebg-preview.png"
       ],
-      "url": "https://heykelsan.com/urunler/brons-ataturk-biblosu"
+      "price": null,
+      "slug": "brons-ataturk-biblosu",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/brons-ataturk-biblosu",
+      "title": "Bronz Atatürk Biblosu ATA001",
+      "id": "ATA001",
+      "description": "Bronz Atatürk Biblosu",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "HEY016",
-      "title": "Bronz Afrikalı Kız HEY016 Ebatları:120x30 cm",
-      "slug": "bronz-afrikali-kiz-hey016",
-      "category": "heykeller",
-      "description": "Bronz Afrikalı Kız Heykeli:1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Bronz Afrikalı Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Bronz Afrikalı Kız Ebatları:",
-      "dimensions": "Yükseklik: 120 cm, En: 30 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bronz-afrikali-kiz-hey016-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/bronz-afrikali-kiz-hey016"
+      "price": null,
+      "slug": "bronz-afrikali-kiz-hey016",
+      "dimensions": "Yükseklik: 120 cm, En: 30 cm",
+      "url": "https://heykelsan.com/urunler/bronz-afrikali-kiz-hey016",
+      "title": "Bronz Afrikalı Kız HEY016 Ebatları:120x30 cm",
+      "id": "HEY016",
+      "description": "Bronz Afrikalı Kız Heykeli:1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Bronz Afrikalı Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Bronz Afrikalı Kız Ebatları:",
+      "category": "heykeller"
     },
     {
-      "id": "HEY017",
-      "title": "Bronz Afrikalı Kız HEY017 Ebatları:90x30 cm",
-      "slug": "bronz-afrikali-kiz-hey017",
-      "category": "heykeller",
-      "description": "Bronz Afrikalı Kız Heykeli:1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Bronz Afrikalı Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Bronz Afrikalı Kız Ebatları:",
-      "dimensions": "Yükseklik: 90 cm, En: 30 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bronz-afrikali-kiz-hey017-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/bronz-afrikali-kiz-hey017"
+      "price": null,
+      "slug": "bronz-afrikali-kiz-hey017",
+      "dimensions": "Yükseklik: 90 cm, En: 30 cm",
+      "url": "https://heykelsan.com/urunler/bronz-afrikali-kiz-hey017",
+      "title": "Bronz Afrikalı Kız HEY017 Ebatları:90x30 cm",
+      "id": "HEY017",
+      "description": "Bronz Afrikalı Kız Heykeli:1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Bronz Afrikalı Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Bronz Afrikalı Kız Ebatları:",
+      "category": "heykeller"
     },
     {
-      "id": "ATA005",
-      "title": "Bronz Atatürk Büstü ATA005     Ebatları:57x44 cm",
-      "slug": "bronz-ataturk-bustu-ata005",
-      "category": "ataturk-heykelleri",
-      "description": "Atatürk Büstü;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. . Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç- mermer- alçı döküm yapılabilir. Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır, Okullarda -Anaokullarında -Diğer Eğitim kurumlarında- Üniversitelerde ve Resmi Devlet Kurumlarında kullanılabilir. Yönetmeliğe uygun olarak imalatı yapılmıştır. Toptan ve parakende satışımız bulunmaktadır. Bronz Atatürk Büstü Boyutlar: 57x44 cm",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/bronz-ataturk-bustu-ata005-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bronz-ataturk-bustu-ata005"
+      "price": null,
+      "slug": "bronz-ataturk-bustu-ata005",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/bronz-ataturk-bustu-ata005",
+      "title": "Bronz Atatürk Büstü ATA005     Ebatları:57x44 cm",
+      "id": "ATA005",
+      "description": "Atatürk Büstü;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. . Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç- mermer- alçı döküm yapılabilir. Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır, Okullarda -Anaokullarında -Diğer Eğitim kurumlarında- Üniversitelerde ve Resmi Devlet Kurumlarında kullanılabilir. Yönetmeliğe uygun olarak imalatı yapılmıştır. Toptan ve parakende satışımız bulunmaktadır. Bronz Atatürk Büstü Boyutlar: 57x44 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "HEY005",
-      "title": "Sappho Büstü HEY005",
-      "slug": "bronz-bust-hey005",
-      "category": "heykeller",
-      "description": "Bronz Büst",
-      "dimensions": "Boyutları: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bronz-bust-hey005-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bronz-bust-hey005"
+      "price": null,
+      "slug": "bronz-bust-hey005",
+      "dimensions": "Boyutları: 40 cm",
+      "url": "https://heykelsan.com/urunler/bronz-bust-hey005",
+      "title": "Sappho Büstü HEY005",
+      "id": "HEY005",
+      "description": "Bronz Büst",
+      "category": "heykeller"
     },
     {
-      "id": "HEY006",
-      "title": "Bronz Büst HEY006",
-      "slug": "bronz-bust-hey006",
-      "category": "sutunlar",
-      "description": "Bronz Büst",
-      "dimensions": "Boyutları: 80 cm",
-      "price": null,
       "image_urls": [
         "/images/products/bronz-bust-hey006-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/bronz-bust-hey006"
+      "price": null,
+      "slug": "bronz-bust-hey006",
+      "dimensions": "Boyutları: 80 cm",
+      "url": "https://heykelsan.com/urunler/bronz-bust-hey006",
+      "title": "Bronz Büst HEY006",
+      "id": "HEY006",
+      "description": "Bronz Büst",
+      "category": "sutunlar"
     },
     {
-      "id": "SAK017",
-      "title": "Büyük Antik Saksı SAK017",
-      "slug": "buyuk-antik-saksi-sak017",
-      "category": "saksilar",
-      "description": "Büyük Antik Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/buyuk-antik-saksi-sak017-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/buyuk-antik-saksi-sak017"
+      "price": null,
+      "slug": "buyuk-antik-saksi-sak017",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/buyuk-antik-saksi-sak017",
+      "title": "Büyük Antik Saksı SAK017",
+      "id": "SAK017",
+      "description": "Büyük Antik Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "HEY032",
-      "title": "Çıplak Kız Heykeli HEY032     Ebatları : 80x40 cm",
-      "slug": "ciplak-kiz-heykeli-hey032",
-      "category": "heykeller",
-      "description": "Çıplak Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Çıplak Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Çıplak Kız Heykeli",
-      "dimensions": "Yükseklik: 80 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/ciplak-kiz-heykeli-hey032-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/ciplak-kiz-heykeli-hey032"
+      "price": null,
+      "slug": "ciplak-kiz-heykeli-hey032",
+      "dimensions": "Yükseklik: 80 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/ciplak-kiz-heykeli-hey032",
+      "title": "Çıplak Kız Heykeli HEY032     Ebatları : 80x40 cm",
+      "id": "HEY032",
+      "description": "Çıplak Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Çıplak Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Çıplak Kız Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "DALMACYALI-KOPEK-HEYKELI",
-      "title": "Dalmaçyalı Köpek Heykeli HAY048",
-      "slug": "dalmacyali-kopek-heykeli",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/dalmacyali-kopek-heykeli-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/dalmacyali-kopek-heykeli"
+      "price": null,
+      "slug": "dalmacyali-kopek-heykeli",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/dalmacyali-kopek-heykeli",
+      "title": "Dalmaçyalı Köpek Heykeli HAY048",
+      "id": "DALMACYALI-KOPEK-HEYKELI",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "DENIZ-ATI",
-      "title": "Deniz Atı HAY035",
-      "slug": "deniz-ati",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/deniz-ati-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/deniz-ati"
+      "price": null,
+      "slug": "deniz-ati",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/deniz-ati",
+      "title": "Deniz Atı HAY035",
+      "id": "DENIZ-ATI",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HEY029",
-      "title": "Deniz Kızı Heykeli HEY029     Ebatları :70x40 cm",
-      "slug": "deniz-kizi-heykeli-hey029",
-      "category": "heykeller",
-      "description": "Deniz Kızı Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Deniz Kızı Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Polyester Deniz Kızı Heykeli",
-      "dimensions": "Yükseklik: 70 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/deniz-kizi-heykeli-hey029-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/deniz-kizi-heykeli-hey029"
+      "price": null,
+      "slug": "deniz-kizi-heykeli-hey029",
+      "dimensions": "Yükseklik: 70 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/deniz-kizi-heykeli-hey029",
+      "title": "Deniz Kızı Heykeli HEY029     Ebatları :70x40 cm",
+      "id": "HEY029",
+      "description": "Deniz Kızı Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Deniz Kızı Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Polyester Deniz Kızı Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "HAY002",
-      "title": "Döküm At Heykeli HAY002",
-      "slug": "dokum-at-heykeli-hay002",
-      "category": "hayvan-heykelleri",
-      "description": "Döküm At Heykeli",
-      "dimensions": "Yükseklik: 60 cm, Genişlik: 20 cm",
-      "price": null,
       "image_urls": [
         "/images/products/dokum-at-heykeli-hay002-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/dokum-at-heykeli-hay002"
+      "price": null,
+      "slug": "dokum-at-heykeli-hay002",
+      "dimensions": "Yükseklik: 60 cm, Genişlik: 20 cm",
+      "url": "https://heykelsan.com/urunler/dokum-at-heykeli-hay002",
+      "title": "Döküm At Heykeli HAY002",
+      "id": "HAY002",
+      "description": "Döküm At Heykeli",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "ATA003",
-      "title": "Döküm Atatürk Biblosu ATA003",
-      "slug": "dokum-ataturk-biblosu-ata003",
-      "category": "ataturk-heykelleri",
-      "description": "Döküm Atatürk Biblosu Ürün Boyutları: 12x4 cm",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/dokum-ataturk-biblosu-ata003-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/dokum-ataturk-biblosu-ata003"
+      "price": null,
+      "slug": "dokum-ataturk-biblosu-ata003",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/dokum-ataturk-biblosu-ata003",
+      "title": "Döküm Atatürk Biblosu ATA003",
+      "id": "ATA003",
+      "description": "Döküm Atatürk Biblosu Ürün Boyutları: 12x4 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "HEY007",
-      "title": "Marcus Büstü HEY007",
-      "slug": "dokum-bust-hey007",
-      "category": "heykeller",
-      "description": "Döküm Büst",
-      "dimensions": "Boyutları: 70 cm",
-      "price": null,
       "image_urls": [
         "/images/products/dokum-bust-hey007-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/dokum-bust-hey007"
+      "price": null,
+      "slug": "dokum-bust-hey007",
+      "dimensions": "Boyutları: 70 cm",
+      "url": "https://heykelsan.com/urunler/dokum-bust-hey007",
+      "title": "Marcus Büstü HEY007",
+      "id": "HEY007",
+      "description": "Döküm Büst",
+      "category": "heykeller"
     },
     {
-      "id": "HEY008",
-      "title": "Herkül Büstü HEY008",
-      "slug": "dokum-bust-hey008",
-      "category": "heykeller",
-      "description": "Döküm Büst",
-      "dimensions": "Boyutları: 80 cm",
-      "price": null,
       "image_urls": [
         "/images/products/dokum-bust-hey008-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/dokum-bust-hey008"
+      "price": null,
+      "slug": "dokum-bust-hey008",
+      "dimensions": "Boyutları: 80 cm",
+      "url": "https://heykelsan.com/urunler/dokum-bust-hey008",
+      "title": "Herkül Büstü HEY008",
+      "id": "HEY008",
+      "description": "Döküm Büst",
+      "category": "heykeller"
     },
     {
-      "id": "HEY018",
-      "title": "Döküm Osmanlı Askeri HEY018",
-      "slug": "dokum-osmanli-askeri-hey018",
-      "category": "heykeller",
-      "description": "Döküm Osmanlı Askeri",
-      "dimensions": "Boyutları: 160 cm",
-      "price": null,
       "image_urls": [
         "/images/products/dokum-osmanli-askeri-hey018-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/dokum-osmanli-askeri-hey018"
+      "price": null,
+      "slug": "dokum-osmanli-askeri-hey018",
+      "dimensions": "Boyutları: 160 cm",
+      "url": "https://heykelsan.com/urunler/dokum-osmanli-askeri-hey018",
+      "title": "Döküm Osmanlı Askeri HEY018",
+      "id": "HEY018",
+      "description": "Döküm Osmanlı Askeri",
+      "category": "heykeller"
     },
     {
-      "id": "BAH001",
-      "title": "Düşünen Çocuk Heykeli BAH001",
-      "slug": "dusunen-cocuk-heykeli-bah001",
-      "category": "bahce-aksesuarlari",
-      "description": "Düşünen Çocuk Heykeli",
-      "dimensions": "Yükseklik: 45 cm",
-      "price": null,
       "image_urls": [
         "/images/products/dusunen-cocuk-heykeli-bah001-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/dusunen-cocuk-heykeli-bah001"
+      "price": null,
+      "slug": "dusunen-cocuk-heykeli-bah001",
+      "dimensions": "Yükseklik: 45 cm",
+      "url": "https://heykelsan.com/urunler/dusunen-cocuk-heykeli-bah001",
+      "title": "Düşünen Çocuk Heykeli BAH001",
+      "id": "BAH001",
+      "description": "Düşünen Çocuk Heykeli",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP002",
-      "title": "Duvar Kaplama Plakaları KAP002",
-      "slug": "duvar-kaplama-plakalari-kap002",
-      "category": "duvar-kaplama-plakalari",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/duvar-kaplama-plakalari-kap002-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap002"
+      "price": null,
+      "slug": "duvar-kaplama-plakalari-kap002",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap002",
+      "title": "Duvar Kaplama Plakaları KAP002",
+      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP002",
+      "description": "",
+      "category": "duvar-kaplama-plakalari"
     },
     {
-      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP003",
-      "title": "Duvar Kaplama Plakaları KAP003",
-      "slug": "duvar-kaplama-plakalari-kap003",
-      "category": "duvar-kaplama-plakalari",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/duvar-kaplama-plakalari-kap003-1.jfif"
       ],
-      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap003"
+      "price": null,
+      "slug": "duvar-kaplama-plakalari-kap003",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap003",
+      "title": "Duvar Kaplama Plakaları KAP003",
+      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP003",
+      "description": "",
+      "category": "duvar-kaplama-plakalari"
     },
     {
-      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP004",
-      "title": "Duvar Kaplama Plakaları KAP004",
-      "slug": "duvar-kaplama-plakalari-kap004",
-      "category": "duvar-kaplama-plakalari",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/duvar-kaplama-plakalari-kap004-1.jpeg"
       ],
-      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap004"
+      "price": null,
+      "slug": "duvar-kaplama-plakalari-kap004",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap004",
+      "title": "Duvar Kaplama Plakaları KAP004",
+      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP004",
+      "description": "",
+      "category": "duvar-kaplama-plakalari"
     },
     {
-      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP005",
-      "title": "Duvar Kaplama Plakaları KAP005",
-      "slug": "duvar-kaplama-plakalari-kap005",
-      "category": "duvar-kaplama-plakalari",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/duvar-kaplama-plakalari-kap005-1.jfif"
       ],
-      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap005"
+      "price": null,
+      "slug": "duvar-kaplama-plakalari-kap005",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap005",
+      "title": "Duvar Kaplama Plakaları KAP005",
+      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP005",
+      "description": "",
+      "category": "duvar-kaplama-plakalari"
     },
     {
-      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP006",
-      "title": "Duvar Kaplama Plakaları KAP006",
-      "slug": "duvar-kaplama-plakalari-kap006",
-      "category": "duvar-kaplama-plakalari",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/duvar-kaplama-plakalari-kap006-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap006"
+      "price": null,
+      "slug": "duvar-kaplama-plakalari-kap006",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap006",
+      "title": "Duvar Kaplama Plakaları KAP006",
+      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP006",
+      "description": "",
+      "category": "duvar-kaplama-plakalari"
     },
     {
-      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP007",
-      "title": "Duvar Kaplama Plakaları KAP007",
-      "slug": "duvar-kaplama-plakalari-kap007",
-      "category": "duvar-kaplama-plakalari",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/duvar-kaplama-plakalari-kap007-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap007"
+      "price": null,
+      "slug": "duvar-kaplama-plakalari-kap007",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap007",
+      "title": "Duvar Kaplama Plakaları KAP007",
+      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP007",
+      "description": "",
+      "category": "duvar-kaplama-plakalari"
     },
     {
-      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP008",
-      "title": "Duvar Kaplama Plakaları KAP008",
-      "slug": "duvar-kaplama-plakalari-kap008",
-      "category": "duvar-kaplama-plakalari",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/duvar-kaplama-plakalari-kap008-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap008"
+      "price": null,
+      "slug": "duvar-kaplama-plakalari-kap008",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/duvar-kaplama-plakalari-kap008",
+      "title": "Duvar Kaplama Plakaları KAP008",
+      "id": "DUVAR-KAPLAMA-PLAKALARI-KAP008",
+      "description": "",
+      "category": "duvar-kaplama-plakalari"
     },
     {
-      "id": "DUVAR-KAPLAMASI-KAP001",
-      "title": "Duvar Kaplaması KAP001",
-      "slug": "duvar-kaplamasi-kap001",
-      "category": "duvar-kaplama-plakalari",
-      "description": "Kaliteli ve Uygun Fiyatlarla sizlerin ev ve işyerleriniz için özel olarak hazırladığımız duvar kaplamaları ile mekanlara farklı bir hava katıyoruz.",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/duvar-kaplamasi-kap001-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/duvar-kaplamasi-kap001"
+      "price": null,
+      "slug": "duvar-kaplamasi-kap001",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/duvar-kaplamasi-kap001",
+      "title": "Duvar Kaplaması KAP001",
+      "id": "DUVAR-KAPLAMASI-KAP001",
+      "description": "Kaliteli ve Uygun Fiyatlarla sizlerin ev ve işyerleriniz için özel olarak hazırladığımız duvar kaplamaları ile mekanlara farklı bir hava katıyoruz.",
+      "category": "duvar-kaplama-plakalari"
     },
     {
-      "id": "ESSEK-HEYKELI",
-      "title": "Eşşek Heykeli HAY036",
-      "slug": "essek-heykeli",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/essek-heykeli-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/essek-heykeli"
+      "price": null,
+      "slug": "essek-heykeli",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/essek-heykeli",
+      "title": "Eşşek Heykeli HAY036",
+      "id": "ESSEK-HEYKELI",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HEY009",
-      "title": "Kadın Büstü HEY009",
-      "slug": "fibesglas-bust-hey009",
-      "category": "heykeller",
-      "description": "Fiberglas Büst",
-      "dimensions": "Boyutları: 30 cm",
-      "price": null,
       "image_urls": [
         "/images/products/fibesglas-bust-hey009-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/fibesglas-bust-hey009"
+      "price": null,
+      "slug": "fibesglas-bust-hey009",
+      "dimensions": "Boyutları: 30 cm",
+      "url": "https://heykelsan.com/urunler/fibesglas-bust-hey009",
+      "title": "Kadın Büstü HEY009",
+      "id": "HEY009",
+      "description": "Fiberglas Büst",
+      "category": "heykeller"
     },
     {
-      "id": "FIBESGLAS-BUST-HEY010",
-      "title": "Kadın Büstü HEY010",
-      "slug": "fibesglas-bust-hey010",
-      "category": "heykeller",
-      "description": "Fibesglas Büst Ürü Kodu: HEY010",
-      "dimensions": "Boyutları: 65 cm",
-      "price": null,
       "image_urls": [
         "/images/products/fibesglas-bust-hey010-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/fibesglas-bust-hey010"
+      "price": null,
+      "slug": "fibesglas-bust-hey010",
+      "dimensions": "Boyutları: 65 cm",
+      "url": "https://heykelsan.com/urunler/fibesglas-bust-hey010",
+      "title": "Kadın Büstü HEY010",
+      "id": "FIBESGLAS-BUST-HEY010",
+      "description": "Fibesglas Büst Ürü Kodu: HEY010",
+      "category": "heykeller"
     },
     {
-      "id": "HACI-BEKTAS-VELI-ROLYEFI-ROL003",
-      "title": "Hacı Bektaş Veli Rölyefi ROL003",
-      "slug": "haci-bektas-veli-rolyefi-rol003",
-      "category": "rolyefler-ve-tugralar",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/haci-bektas-veli-rolyefi-rol003-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/haci-bektas-veli-rolyefi-rol003"
+      "price": null,
+      "slug": "haci-bektas-veli-rolyefi-rol003",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/haci-bektas-veli-rolyefi-rol003",
+      "title": "Hacı Bektaş Veli Rölyefi ROL003",
+      "id": "HACI-BEKTAS-VELI-ROLYEFI-ROL003",
+      "description": "",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "HEY040",
-      "title": "Heykel-Büyük Kadın Heykeli HEY040  Ebatları:172x60 cm",
-      "slug": "heykel-buyuk-kadin-heykeli-hey040",
-      "category": "heykeller",
-      "description": "Büyük Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Büyük Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Büyük Kız Heykeli",
-      "dimensions": "Yükseklik: 172 cm, En: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/heykel-buyuk-kadin-heykeli-hey040-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/heykel-buyuk-kadin-heykeli-hey040"
+      "price": null,
+      "slug": "heykel-buyuk-kadin-heykeli-hey040",
+      "dimensions": "Yükseklik: 172 cm, En: 60 cm",
+      "url": "https://heykelsan.com/urunler/heykel-buyuk-kadin-heykeli-hey040",
+      "title": "Heykel-Büyük Kadın Heykeli HEY040  Ebatları:172x60 cm",
+      "id": "HEY040",
+      "description": "Büyük Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Büyük Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Büyük Kız Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "SAK018",
-      "title": "İkiz Saksı SAK018",
-      "slug": "ikiz-saksi-sak018",
-      "category": "saksilar",
-      "description": "İkiz Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/ikiz-saksi-sak018-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ikiz-saksi-sak018"
+      "price": null,
+      "slug": "ikiz-saksi-sak018",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/ikiz-saksi-sak018",
+      "title": "İkiz Saksı SAK018",
+      "id": "SAK018",
+      "description": "İkiz Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "ISPANYOL-KARTALI",
-      "title": "İspanyol Kartalı HAY038",
-      "slug": "ispanyol-kartali",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/ispanyol-kartali-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/ispanyol-kartali"
+      "price": null,
+      "slug": "ispanyol-kartali",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/ispanyol-kartali",
+      "title": "İspanyol Kartalı HAY038",
+      "id": "ISPANYOL-KARTALI",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HEY033",
-      "title": "Kadın Büst HEY033",
-      "slug": "kadin-bust-hey033",
-      "category": "heykeller",
-      "description": "Kadın Büst",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/kadin-bust-hey033-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/kadin-bust-hey033"
+      "price": null,
+      "slug": "kadin-bust-hey033",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/kadin-bust-hey033",
+      "title": "Kadın Büst HEY033",
+      "id": "HEY033",
+      "description": "Kadın Büst",
+      "category": "heykeller"
     },
     {
-      "id": "ATA002",
-      "title": "Kalpatlı Atatürk Biblosu ATA002",
-      "slug": "kalpatli-ataturk-biblosu-ata002",
-      "category": "ataturk-heykelleri",
-      "description": "Bronz Atatürk Biblosu 25x20",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "https://heykelsan.com/images/urun/34275832_BRONZ_ATAT%EF%BF%BD?RK_B%C4%B0BLOSU_8x4-removebg-preview.png"
       ],
-      "url": "https://heykelsan.com/urunler/kalpatli-ataturk-biblosu-ata002"
+      "price": null,
+      "slug": "kalpatli-ataturk-biblosu-ata002",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/kalpatli-ataturk-biblosu-ata002",
+      "title": "Kalpatlı Atatürk Biblosu ATA002",
+      "id": "ATA002",
+      "description": "Bronz Atatürk Biblosu 25x20",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "HAY030",
-      "title": "Karakartal Heykeli Büyük Boy HAY030",
-      "slug": "karakartal-heykeli-buyuk-boy-hay030",
-      "category": "hayvan-heykelleri",
-      "description": "Karakartal Heykeli Büyük Boy",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/karakartal-heykeli-buyuk-boy-hay030-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/karakartal-heykeli-buyuk-boy-hay030"
+      "price": null,
+      "slug": "karakartal-heykeli-buyuk-boy-hay030",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/karakartal-heykeli-buyuk-boy-hay030",
+      "title": "Karakartal Heykeli Büyük Boy HAY030",
+      "id": "HAY030",
+      "description": "Karakartal Heykeli Büyük Boy",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY029",
-      "title": "Karakartal Heykeli Büyük Boy HAY029",
-      "slug": "karakartal-heykeli-buyukboy-hay029",
-      "category": "hayvan-heykelleri",
-      "description": "Karakartal Heykeli Büyük Boy",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/karakartal-heykeli-buyukboy-hay029-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/karakartal-heykeli-buyukboy-hay029"
+      "price": null,
+      "slug": "karakartal-heykeli-buyukboy-hay029",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/karakartal-heykeli-buyukboy-hay029",
+      "title": "Karakartal Heykeli Büyük Boy HAY029",
+      "id": "HAY029",
+      "description": "Karakartal Heykeli Büyük Boy",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY028",
-      "title": "Karakartal Heykeli HAY028",
-      "slug": "karakartal-heykeli-hay028",
-      "category": "hayvan-heykelleri",
-      "description": "Karakartal Heykeli",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/karakartal-heykeli-hay028-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/karakartal-heykeli-hay028"
+      "price": null,
+      "slug": "karakartal-heykeli-hay028",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/karakartal-heykeli-hay028",
+      "title": "Karakartal Heykeli HAY028",
+      "id": "HAY028",
+      "description": "Karakartal Heykeli",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY003",
-      "title": "Karakartal Polyester Alçı Heykel HAY003",
-      "slug": "karakartal-polyester-alci-heykel-hay003",
-      "category": "hayvan-heykelleri",
-      "description": "Karakartal Polyester Alçı Heykel",
-      "dimensions": "Yükseklik: 40 cm, Genişlik: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/karakartal-polyester-alci-heykel-hay003-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/karakartal-polyester-alci-heykel-hay003"
+      "price": null,
+      "slug": "karakartal-polyester-alci-heykel-hay003",
+      "dimensions": "Yükseklik: 40 cm, Genişlik: 40 cm",
+      "url": "https://heykelsan.com/urunler/karakartal-polyester-alci-heykel-hay003",
+      "title": "Karakartal Polyester Alçı Heykel HAY003",
+      "id": "HAY003",
+      "description": "Karakartal Polyester Alçı Heykel",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "KARTAL-HEYKELI",
-      "title": "Kartal Heykeli HAY041",
-      "slug": "kartal-heykeli",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/kartal-heykeli-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/kartal-heykeli"
+      "price": null,
+      "slug": "kartal-heykeli",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/kartal-heykeli",
+      "title": "Kartal Heykeli HAY041",
+      "id": "KARTAL-HEYKELI",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "KARTAL-ROLYEFI-HEYKELI",
-      "title": "Kartal Rölyefi Heykeli HAY037",
-      "slug": "kartal-rolyefi-heykeli",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/kartal-rolyefi-heykeli-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/kartal-rolyefi-heykeli"
+      "price": null,
+      "slug": "kartal-rolyefi-heykeli",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/kartal-rolyefi-heykeli",
+      "title": "Kartal Rölyefi Heykeli HAY037",
+      "id": "KARTAL-ROLYEFI-HEYKELI",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "KEDI-HEYKELI-001",
-      "title": "KEDİ HEYKELİ KEDİ001",
-      "slug": "kedi-heykeli-001",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/kedi-heykeli-001-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/kedi-heykeli-001"
+      "price": null,
+      "slug": "kedi-heykeli-001",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/kedi-heykeli-001",
+      "title": "KEDİ HEYKELİ KEDİ001",
+      "id": "KEDI-HEYKELI-001",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HEY034",
-      "title": "Heykel-Kolsuz Kız Heykeli HEY034     Ebatları :120x40 cm",
-      "slug": "kolsuz-kiz-heykeli-hey034",
-      "category": "heykeller",
-      "description": "**Kolsuz Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Kolsuz Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır.** **Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir.** **Toptan ve parakende satışımız bulunmaktadır.** **Kolsuz Kız Heykeli** **Ürün Kodu: HEY034** **Yükseklik: 120 cm** **En           : 40 cm**",
-      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/kolsuz-kiz-heykeli-hey034-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/kolsuz-kiz-heykeli-hey034"
+      "price": null,
+      "slug": "kolsuz-kiz-heykeli-hey034",
+      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/kolsuz-kiz-heykeli-hey034",
+      "title": "Heykel-Kolsuz Kız Heykeli HEY034     Ebatları :120x40 cm",
+      "id": "HEY034",
+      "description": "**Kolsuz Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Kolsuz Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır.** **Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir.** **Toptan ve parakende satışımız bulunmaktadır.** **Kolsuz Kız Heykeli** **Ürün Kodu: HEY034** **Yükseklik: 120 cm** **En           : 40 cm**",
+      "category": "heykeller"
     },
     {
-      "id": "SAK019",
-      "title": "Konik Saksı SAK019",
-      "slug": "konik-saksi-sak019",
-      "category": "saksilar",
-      "description": "Konik Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/konik-saksi-sak019-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/konik-saksi-sak019"
+      "price": null,
+      "slug": "konik-saksi-sak019",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/konik-saksi-sak019",
+      "title": "Konik Saksı SAK019",
+      "id": "SAK019",
+      "description": "Konik Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "KUZUCUK-HEYKELI",
-      "title": "Kuzucuk Heykeli HAY044",
-      "slug": "kuzucuk-heykeli",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/kuzucuk-heykeli-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/kuzucuk-heykeli"
+      "price": null,
+      "slug": "kuzucuk-heykeli",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/kuzucuk-heykeli",
+      "title": "Kuzucuk Heykeli HAY044",
+      "id": "KUZUCUK-HEYKELI",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "LIR-CALAN-KIZ-DUVAR-ROLYEFI-ROL005",
-      "title": "Lir Çalan Kız Duvar Rölyefi ROL005",
-      "slug": "lir-calan-kiz-duvar-rolyefi-rol005",
-      "category": "rolyefler-ve-tugralar",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/lir-calan-kiz-duvar-rolyefi-rol005-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/lir-calan-kiz-duvar-rolyefi-rol005"
+      "price": null,
+      "slug": "lir-calan-kiz-duvar-rolyefi-rol005",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/lir-calan-kiz-duvar-rolyefi-rol005",
+      "title": "Lir Çalan Kız Duvar Rölyefi ROL005",
+      "id": "LIR-CALAN-KIZ-DUVAR-ROLYEFI-ROL005",
+      "description": "",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "HEY035",
-      "title": "Heykel Lir Çalan Kız Heykeli HEY035     Ebatları :120x40 cm",
-      "slug": "lir-calan-kiz-heykeli-hey035",
-      "category": "heykeller",
-      "description": "Lir Çalan Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Lir Çalan Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Lir Çalan Kız Heykeli",
-      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/lir-calan-kiz-heykeli-hey035-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/lir-calan-kiz-heykeli-hey035"
+      "price": null,
+      "slug": "lir-calan-kiz-heykeli-hey035",
+      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/lir-calan-kiz-heykeli-hey035",
+      "title": "Heykel Lir Çalan Kız Heykeli HEY035     Ebatları :120x40 cm",
+      "id": "HEY035",
+      "description": "Lir Çalan Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Lir Çalan Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Lir Çalan Kız Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "HAY004",
-      "title": "Masaüstü Kartal Alçı Heykel HAY004",
-      "slug": "masaustu-kartal-alci-heykel-hay004",
-      "category": "heykeller",
-      "description": "Masaüstü Kartal Alçı Heykel",
-      "dimensions": "Yükseklik: 40 cm, Genişlik: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/masaustu-kartal-alci-heykel-hay004-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/masaustu-kartal-alci-heykel-hay004"
+      "price": null,
+      "slug": "masaustu-kartal-alci-heykel-hay004",
+      "dimensions": "Yükseklik: 40 cm, Genişlik: 40 cm",
+      "url": "https://heykelsan.com/urunler/masaustu-kartal-alci-heykel-hay004",
+      "title": "Masaüstü Kartal Alçı Heykel HAY004",
+      "id": "HAY004",
+      "description": "Masaüstü Kartal Alçı Heykel",
+      "category": "heykeller"
     },
     {
-      "id": "HEY011",
-      "title": "David Büstü HEY011",
-      "slug": "mermer-bust-hey011",
-      "category": "heykeller",
-      "description": "Mermer Büst",
-      "dimensions": "Boyutları: 30 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermer-bust-hey011-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermer-bust-hey011"
+      "price": null,
+      "slug": "mermer-bust-hey011",
+      "dimensions": "Boyutları: 30 cm",
+      "url": "https://heykelsan.com/urunler/mermer-bust-hey011",
+      "title": "David Büstü HEY011",
+      "id": "HEY011",
+      "description": "Mermer Büst",
+      "category": "heykeller"
     },
     {
-      "id": "HEY012",
-      "title": "Mermer Büst HEY012",
-      "slug": "mermer-bust-hey012",
-      "category": "heykeller",
-      "description": "Mermer Büst",
-      "dimensions": "Boyutları: 70 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermer-bust-hey012-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermer-bust-hey012"
+      "price": null,
+      "slug": "mermer-bust-hey012",
+      "dimensions": "Boyutları: 70 cm",
+      "url": "https://heykelsan.com/urunler/mermer-bust-hey012",
+      "title": "Mermer Büst HEY012",
+      "id": "HEY012",
+      "description": "Mermer Büst",
+      "category": "heykeller"
     },
     {
-      "id": "HEY021",
-      "title": "Mermer Heykel Testili Kız HEY021",
-      "slug": "mermer-heykel-testili-kiz-hey021",
-      "category": "heykeller",
-      "description": "Mermer Heykel Testili Kız",
-      "dimensions": "Boyutları: 120 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermer-heykel-testili-kiz-hey021-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermer-heykel-testili-kiz-hey021"
+      "price": null,
+      "slug": "mermer-heykel-testili-kiz-hey021",
+      "dimensions": "Boyutları: 120 cm",
+      "url": "https://heykelsan.com/urunler/mermer-heykel-testili-kiz-hey021",
+      "title": "Mermer Heykel Testili Kız HEY021",
+      "id": "HEY021",
+      "description": "Mermer Heykel Testili Kız",
+      "category": "heykeller"
     },
     {
-      "id": "HEY023",
-      "title": "Mermer Kadın Heykeli HEY023     Ebatları :120x40 cm",
-      "slug": "mermer-kadin-heykeli-hey023",
-      "category": "heykeller",
-      "description": "Mermer Kadın Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Mermer Kadın Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Mermer Kadın Heykeli",
-      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermer-kadin-heykeli-hey023-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermer-kadin-heykeli-hey023"
+      "price": null,
+      "slug": "mermer-kadin-heykeli-hey023",
+      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/mermer-kadin-heykeli-hey023",
+      "title": "Mermer Kadın Heykeli HEY023     Ebatları :120x40 cm",
+      "id": "HEY023",
+      "description": "Mermer Kadın Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Mermer Kadın Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Mermer Kadın Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "HEY020",
-      "title": "Mermer Testili Kız Heykeli HEY020 Ebatları:120x60 cm",
-      "slug": "mermer-testili-kiz-heykeli-hey020",
-      "category": "heykeller",
-      "description": "Mermer Testili Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde  Mermer Testili Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Mermer Testili Kız Heykeli",
-      "dimensions": "Yükseklik: 120 cm, En: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermer-testili-kiz-heykeli-hey020-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermer-testili-kiz-heykeli-hey020"
+      "price": null,
+      "slug": "mermer-testili-kiz-heykeli-hey020",
+      "dimensions": "Yükseklik: 120 cm, En: 60 cm",
+      "url": "https://heykelsan.com/urunler/mermer-testili-kiz-heykeli-hey020",
+      "title": "Mermer Testili Kız Heykeli HEY020 Ebatları:120x60 cm",
+      "id": "HEY020",
+      "description": "Mermer Testili Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde  Mermer Testili Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Mermer Testili Kız Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "HEY013",
-      "title": "Hacı Bektaşi Veli  HEY013",
-      "slug": "mermerit-bust-hey012",
-      "category": "heykeller",
-      "description": "Mermerit Büst",
-      "dimensions": "Boyutları: 30 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermerit-bust-hey012-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermerit-bust-hey012"
+      "price": null,
+      "slug": "mermerit-bust-hey012",
+      "dimensions": "Boyutları: 30 cm",
+      "url": "https://heykelsan.com/urunler/mermerit-bust-hey012",
+      "title": "Hacı Bektaşi Veli  HEY013",
+      "id": "HEY013",
+      "description": "Mermerit Büst",
+      "category": "heykeller"
     },
     {
-      "id": "SUT009",
-      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT009",
-      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut009",
-      "category": "sutunlar",
-      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 80 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermerit-iyon-baslikli-yivli-duz-sutun-sut009-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut009"
+      "price": null,
+      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut009",
+      "dimensions": "Yükseklik: 80 cm",
+      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut009",
+      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT009",
+      "id": "SUT009",
+      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT010",
-      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT010",
-      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut010",
-      "category": "sutunlar",
-      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 85 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermerit-iyon-baslikli-yivli-duz-sutun-sut010-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut010"
+      "price": null,
+      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut010",
+      "dimensions": "Yükseklik: 85 cm",
+      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut010",
+      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT010",
+      "id": "SUT010",
+      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT011",
-      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT011",
-      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut011",
-      "category": "sutunlar",
-      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 90 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermerit-iyon-baslikli-yivli-duz-sutun-sut011-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut011"
+      "price": null,
+      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut011",
+      "dimensions": "Yükseklik: 90 cm",
+      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut011",
+      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT011",
+      "id": "SUT011",
+      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT012",
-      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT012",
-      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut012",
-      "category": "sutunlar",
-      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 125 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermerit-iyon-baslikli-yivli-duz-sutun-sut012-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut012"
+      "price": null,
+      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut012",
+      "dimensions": "Yükseklik: 125 cm",
+      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut012",
+      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT012",
+      "id": "SUT012",
+      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT013",
-      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT013",
-      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut013",
-      "category": "sutunlar",
-      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 180 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermerit-iyon-baslikli-yivli-duz-sutun-sut013-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut013"
+      "price": null,
+      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut013",
+      "dimensions": "Yükseklik: 180 cm",
+      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut013",
+      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT013",
+      "id": "SUT013",
+      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT014",
-      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT014",
-      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut014",
-      "category": "sutunlar",
-      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/mermerit-iyon-baslikli-yivli-duz-sutun-sut014-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut014"
+      "price": null,
+      "slug": "mermerit-iyon-baslikli-yivli-duz-sutun-sut014",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/mermerit-iyon-baslikli-yivli-duz-sutun-sut014",
+      "title": "Mermerit İyon Başlıklı Yivli Düz Sütun SUT014",
+      "id": "SUT014",
+      "description": "Mermerit İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "HEY024",
-      "title": "Mermerit Melek Heykeli HEY024     Ebatları :130x120 cm",
-      "slug": "mermerit-melek-heykeli-hey024",
-      "category": "heykeller",
-      "description": "Mermerit Melek Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Mermerit Melek  Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Mermerit Melek Heykeli",
-      "dimensions": "Yükseklik: 130 cm, En: 120 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermerit-melek-heykeli-hey024-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermerit-melek-heykeli-hey024"
+      "price": null,
+      "slug": "mermerit-melek-heykeli-hey024",
+      "dimensions": "Yükseklik: 130 cm, En: 120 cm",
+      "url": "https://heykelsan.com/urunler/mermerit-melek-heykeli-hey024",
+      "title": "Mermerit Melek Heykeli HEY024     Ebatları :130x120 cm",
+      "id": "HEY024",
+      "description": "Mermerit Melek Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Mermerit Melek  Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Mermerit Melek Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "BAH023",
-      "title": "Mermerit Tavus Kuşu Heykeli BAH023",
-      "slug": "mermerit-tavus-kusu-heykeli-bah023",
-      "category": "bahce-aksesuarlari",
-      "description": "Mermerit Tavus Kuşu Heykeli",
-      "dimensions": "Yükseklik: 100 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mermerit-tavus-kusu-heykeli-bah023-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/mermerit-tavus-kusu-heykeli-bah023"
+      "price": null,
+      "slug": "mermerit-tavus-kusu-heykeli-bah023",
+      "dimensions": "Yükseklik: 100 cm",
+      "url": "https://heykelsan.com/urunler/mermerit-tavus-kusu-heykeli-bah023",
+      "title": "Mermerit Tavus Kuşu Heykeli BAH023",
+      "id": "BAH023",
+      "description": "Mermerit Tavus Kuşu Heykeli",
+      "category": "bahce-aksesuarlari"
     },
     {
-      "id": "HEY036",
-      "title": "Meşaleli Kız Heykeli HEY036     Ebatları :120x40 cm",
-      "slug": "mesaleli-kiz-heykeli-hey036",
-      "category": "heykeller",
-      "description": "Meşaleli Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Meşaleli Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Meşaleli Kız Heykeli",
-      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/mesaleli-kiz-heykeli-hey036-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/mesaleli-kiz-heykeli-hey036"
+      "price": null,
+      "slug": "mesaleli-kiz-heykeli-hey036",
+      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/mesaleli-kiz-heykeli-hey036",
+      "title": "Meşaleli Kız Heykeli HEY036     Ebatları :120x40 cm",
+      "id": "HEY036",
+      "description": "Meşaleli Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Meşaleli Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Meşaleli Kız Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "OSMANLI-TUGRASI-1-ROL001",
-      "title": "Osmanlı Tuğrası 1 ROL001",
-      "slug": "osmanli-tugrasi-1-rol001",
-      "category": "rolyefler-ve-tugralar",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/osmanli-tugrasi-1-rol001-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/osmanli-tugrasi-1-rol001"
+      "price": null,
+      "slug": "osmanli-tugrasi-1-rol001",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/osmanli-tugrasi-1-rol001",
+      "title": "Osmanlı Tuğrası 1 ROL001",
+      "id": "OSMANLI-TUGRASI-1-ROL001",
+      "description": "",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "OSMANLI-TUGRASI-2-ROL002",
-      "title": "Osmanlı Tuğrası 2 ROL002",
-      "slug": "osmanli-tugrasi-2-rol002",
-      "category": "rolyefler-ve-tugralar",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/osmanli-tugrasi-2-rol002-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/osmanli-tugrasi-2-rol002"
+      "price": null,
+      "slug": "osmanli-tugrasi-2-rol002",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/osmanli-tugrasi-2-rol002",
+      "title": "Osmanlı Tuğrası 2 ROL002",
+      "id": "OSMANLI-TUGRASI-2-ROL002",
+      "description": "",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "OSMANLI-TUGRASI-3-ROL003",
-      "title": "Osmanlı Tuğrası 3 ROL003",
-      "slug": "osmanli-tugrasi-3-rol003",
-      "category": "rolyefler-ve-tugralar",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/osmanli-tugrasi-3-rol003-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/osmanli-tugrasi-3-rol003"
+      "price": null,
+      "slug": "osmanli-tugrasi-3-rol003",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/osmanli-tugrasi-3-rol003",
+      "title": "Osmanlı Tuğrası 3 ROL003",
+      "id": "OSMANLI-TUGRASI-3-ROL003",
+      "description": "",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "OSMANLI-TUGRASI-4-ROL004",
-      "title": "Osmanlı Tuğrası 4 ROL004",
-      "slug": "osmanli-tugrasi-4-rol004",
-      "category": "rolyefler-ve-tugralar",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/osmanli-tugrasi-4-rol004-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/osmanli-tugrasi-4-rol004"
+      "price": null,
+      "slug": "osmanli-tugrasi-4-rol004",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/osmanli-tugrasi-4-rol004",
+      "title": "Osmanlı Tuğrası 4 ROL004",
+      "id": "OSMANLI-TUGRASI-4-ROL004",
+      "description": "",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "OTURAN-KOPEK-HEYKELI",
-      "title": "Oturan Köpek Heykeli HAY043",
-      "slug": "oturan-kopek-heykeli",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/oturan-kopek-heykeli-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/oturan-kopek-heykeli"
+      "price": null,
+      "slug": "oturan-kopek-heykeli",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/oturan-kopek-heykeli",
+      "title": "Oturan Köpek Heykeli HAY043",
+      "id": "OTURAN-KOPEK-HEYKELI",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "SAK020",
-      "title": "Oval Saksı SAK020",
-      "slug": "oval-saksi-sak020",
-      "category": "saksilar",
-      "description": "Oval Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/oval-saksi-sak020-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/oval-saksi-sak020"
+      "price": null,
+      "slug": "oval-saksi-sak020",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/oval-saksi-sak020",
+      "title": "Oval Saksı SAK020",
+      "id": "SAK020",
+      "description": "Oval Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "ROL002",
-      "title": "Pirinç Bayrak Rölyefi ROL002",
-      "slug": "pirinc-bayrak-rolyefi-rol002",
-      "category": "ataturk-heykelleri",
-      "description": "Pirinç Bayrak Rölyefi",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/pirinc-bayrak-rolyefi-rol002-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/pirinc-bayrak-rolyefi-rol002"
+      "price": null,
+      "slug": "pirinc-bayrak-rolyefi-rol002",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/pirinc-bayrak-rolyefi-rol002",
+      "title": "Pirinç Bayrak Rölyefi ROL002",
+      "id": "ROL002",
+      "description": "Pirinç Bayrak Rölyefi",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "HEY014",
-      "title": "Helena Büst HEY014",
-      "slug": "pirinc-bust-hey014",
-      "category": "heykeller",
-      "description": "Pirinç Büst",
-      "dimensions": "Boyutları: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/pirinc-bust-hey014-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/pirinc-bust-hey014"
+      "price": null,
+      "slug": "pirinc-bust-hey014",
+      "dimensions": "Boyutları: 60 cm",
+      "url": "https://heykelsan.com/urunler/pirinc-bust-hey014",
+      "title": "Helena Büst HEY014",
+      "id": "HEY014",
+      "description": "Pirinç Büst",
+      "category": "heykeller"
     },
     {
-      "id": "HEY025",
-      "title": "Poliüretan Arap Heykeli HEY025",
-      "slug": "poliuretan-arap-heykeli-hey025",
-      "category": "heykeller",
-      "description": "Poliüretan Arap Heykeli",
-      "dimensions": "Yükseklik: 50 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-arap-heykeli-hey025-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-arap-heykeli-hey025"
+      "price": null,
+      "slug": "poliuretan-arap-heykeli-hey025",
+      "dimensions": "Yükseklik: 50 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-arap-heykeli-hey025",
+      "title": "Poliüretan Arap Heykeli HEY025",
+      "id": "HEY025",
+      "description": "Poliüretan Arap Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "HAY006",
-      "title": "Poliüretan At Heykeli HAY006",
-      "slug": "poliuretan-at-heykeli-hay006",
-      "category": "hayvan-heykelleri",
-      "description": "Poliüretan At Heykeli",
-      "dimensions": "Yükseklik: 60 cm, Genişlik: 20 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-at-heykeli-hay006-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-at-heykeli-hay006"
+      "price": null,
+      "slug": "poliuretan-at-heykeli-hay006",
+      "dimensions": "Yükseklik: 60 cm, Genişlik: 20 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-at-heykeli-hay006",
+      "title": "Poliüretan At Heykeli HAY006",
+      "id": "HAY006",
+      "description": "Poliüretan At Heykeli",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY007",
-      "title": "Poliüretan At Heykeli HAY007",
-      "slug": "poliuretan-at-heykeli-hay007",
-      "category": "hayvan-heykelleri",
-      "description": "Poliüretan At Heykeli",
-      "dimensions": "Genişlik: 280 cm, Yükseklik: 140 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-at-heykeli-hay007-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-at-heykeli-hay007"
+      "price": null,
+      "slug": "poliuretan-at-heykeli-hay007",
+      "dimensions": "Genişlik: 280 cm, Yükseklik: 140 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-at-heykeli-hay007",
+      "title": "Poliüretan At Heykeli HAY007",
+      "id": "HAY007",
+      "description": "Poliüretan At Heykeli",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HEY002",
-      "title": "Helena Büstü HEY002",
-      "slug": "poliuretan-bust-hey002",
-      "category": "heykeller",
-      "description": "Poliüretan Büst",
-      "dimensions": "Boyutları: 50 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-bust-hey002-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-bust-hey002"
+      "price": null,
+      "slug": "poliuretan-bust-hey002",
+      "dimensions": "Boyutları: 50 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-bust-hey002",
+      "title": "Helena Büstü HEY002",
+      "id": "HEY002",
+      "description": "Poliüretan Büst",
+      "category": "heykeller"
     },
     {
-      "id": "HAY008",
-      "title": "Poliüretan Çin Aslanı HAY008",
-      "slug": "poliuretan-cin-aslani-hay008",
-      "category": "hayvan-heykelleri",
-      "description": "Poliüretan Çin Aslanı Uzunluk: 125 cm",
-      "dimensions": "Yükseklik: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-cin-aslani-hay008-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-cin-aslani-hay008"
+      "price": null,
+      "slug": "poliuretan-cin-aslani-hay008",
+      "dimensions": "Yükseklik: 60 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-cin-aslani-hay008",
+      "title": "Poliüretan Çin Aslanı HAY008",
+      "id": "HAY008",
+      "description": "Poliüretan Çin Aslanı Uzunluk: 125 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY009",
-      "title": "Poliüretan Fil Heykeli HAY009",
-      "slug": "poliuretan-fil-heykeli-hay009",
-      "category": "hayvan-heykelleri",
-      "description": "Poliüretan Fil Heykeli Uzunluk: 280 cm",
-      "dimensions": "Yükseklik: 170 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-fil-heykeli-hay009-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-fil-heykeli-hay009"
+      "price": null,
+      "slug": "poliuretan-fil-heykeli-hay009",
+      "dimensions": "Yükseklik: 170 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-fil-heykeli-hay009",
+      "title": "Poliüretan Fil Heykeli HAY009",
+      "id": "HAY009",
+      "description": "Poliüretan Fil Heykeli Uzunluk: 280 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY010",
-      "title": "Poliüretan Ham Aslan HAY010",
-      "slug": "poliuretan-ham-aslan-hay010",
-      "category": "hayvan-heykelleri",
-      "description": "Poliüretan Ham Aslan Yüseklik: 120 cm Uzunluk: 60 cm",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-ham-aslan-hay010-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-ham-aslan-hay010"
+      "price": null,
+      "slug": "poliuretan-ham-aslan-hay010",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/poliuretan-ham-aslan-hay010",
+      "title": "Poliüretan Ham Aslan HAY010",
+      "id": "HAY010",
+      "description": "Poliüretan Ham Aslan Yüseklik: 120 cm Uzunluk: 60 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "SUT015",
-      "title": "Poliüretan İyon Başlıklı Yivli Düz Sütun SUT015",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut015",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-iyon-baslikli-duz-sutun-sut015-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut015"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut015",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut015",
+      "title": "Poliüretan İyon Başlıklı Yivli Düz Sütun SUT015",
+      "id": "SUT015",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT016",
-      "title": "Poliüretan İyon Başlıklı Yivli Düz Sütun SUT016",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut016",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 120 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-iyon-baslikli-duz-sutun-sut016-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut016"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut016",
+      "dimensions": "Yükseklik: 120 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut016",
+      "title": "Poliüretan İyon Başlıklı Yivli Düz Sütun SUT016",
+      "id": "SUT016",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT019",
-      "title": "Küçük Sütun SUT 019",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut019",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-iyon-baslikli-duz-sutun-sut019-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut019"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut019",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut019",
+      "title": "Küçük Sütun SUT 019",
+      "id": "SUT019",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT020",
-      "title": "Küçük Sütun SUT 020",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut020",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-iyon-baslikli-duz-sutun-sut020-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut020"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut020",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut020",
+      "title": "Küçük Sütun SUT 020",
+      "id": "SUT020",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT021",
-      "title": "Küçük Sütun SUT 021",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut021",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-iyon-baslikli-duz-sutun-sut021-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut021"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut021",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut021",
+      "title": "Küçük Sütun SUT 021",
+      "id": "SUT021",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT022",
-      "title": "Küçük Sütun SUT 022",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut022",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-iyon-baslikli-duz-sutun-sut022-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut022"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut022",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut022",
+      "title": "Küçük Sütun SUT 022",
+      "id": "SUT022",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT023",
-      "title": "Küçük Sütun SUT 023",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut023",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-iyon-baslikli-duz-sutun-sut023-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut023"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut023",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut023",
+      "title": "Küçük Sütun SUT 023",
+      "id": "SUT023",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT024",
-      "title": "Küçük Sütun SUT 024",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut024",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-iyon-baslikli-duz-sutun-sut024-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut024"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut024",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut024",
+      "title": "Küçük Sütun SUT 024",
+      "id": "SUT024",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT025",
-      "title": "Küçük Sütun SUT 025",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut025",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "https://heykelsan.com/images/urun/no-image"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut025"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut025",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut025",
+      "title": "Küçük Sütun SUT 025",
+      "id": "SUT025",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT026",
-      "title": "Küçük Sütun SUT 026",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut026",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-iyon-baslikli-duz-sutun-sut026-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut026"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut026",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut026",
+      "title": "Küçük Sütun SUT 026",
+      "id": "SUT026",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "SUT027",
-      "title": "Küçük Sütun SUT 027",
-      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut027",
-      "category": "sutunlar",
-      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-iyon-baslikli-duz-sutun-sut027-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut027"
+      "price": null,
+      "slug": "poliuretan-iyon-baslikli-duz-sutun-sut027",
+      "dimensions": "Yükseklik: 110 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-iyon-baslikli-duz-sutun-sut027",
+      "title": "Küçük Sütun SUT 027",
+      "id": "SUT027",
+      "description": "Poliüretan İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "HAY011",
-      "title": "Poliüretan Midilli At HAY011",
-      "slug": "poliuretan-midilli-at-hay011",
-      "category": "hayvan-heykelleri",
-      "description": "Poliüretan Midilli At Uzunluk: 80 cm",
-      "dimensions": "Yükseklik: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretan-midilli-at-hay011-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretan-midilli-at-hay011"
+      "price": null,
+      "slug": "poliuretan-midilli-at-hay011",
+      "dimensions": "Yükseklik: 60 cm",
+      "url": "https://heykelsan.com/urunler/poliuretan-midilli-at-hay011",
+      "title": "Poliüretan Midilli At HAY011",
+      "id": "HAY011",
+      "description": "Poliüretan Midilli At Uzunluk: 80 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "ROL004",
-      "title": "Poliüretan Başöğretmen Atatürk Rölyefi ROL004",
-      "slug": "poliuretran-basogretmen-ataturk-rolyefi-rol004",
-      "category": "ataturk-heykelleri",
-      "description": "Poliüretan Başöğretmen Atatürk Rölyefi Uzunluk: 300 cm",
-      "dimensions": "Yükseklik: 180 cm",
-      "price": null,
       "image_urls": [
         "/images/products/poliuretran-basogretmen-ataturk-rolyefi-rol004-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/poliuretran-basogretmen-ataturk-rolyefi-rol004"
+      "price": null,
+      "slug": "poliuretran-basogretmen-ataturk-rolyefi-rol004",
+      "dimensions": "Yükseklik: 180 cm",
+      "url": "https://heykelsan.com/urunler/poliuretran-basogretmen-ataturk-rolyefi-rol004",
+      "title": "Poliüretan Başöğretmen Atatürk Rölyefi ROL004",
+      "id": "ROL004",
+      "description": "Poliüretan Başöğretmen Atatürk Rölyefi Uzunluk: 300 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "POLYESTER-AT-HEYKELI-HAY051",
-      "title": "Polyester At Heykeli HAY051",
-      "slug": "polyester-at-heykeli-hay051",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-at-heykeli-hay051-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-at-heykeli-hay051"
+      "price": null,
+      "slug": "polyester-at-heykeli-hay051",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-at-heykeli-hay051",
+      "title": "Polyester At Heykeli HAY051",
+      "id": "POLYESTER-AT-HEYKELI-HAY051",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "POLYESTER-AT-HEYKELI-HAY052",
-      "title": "At heykeli HAY052",
-      "slug": "polyester-at-heykeli-hay052",
-      "category": "hayvan-heykelleri",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-at-heykeli-hay052-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-at-heykeli-hay052"
+      "price": null,
+      "slug": "polyester-at-heykeli-hay052",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-at-heykeli-hay052",
+      "title": "At heykeli HAY052",
+      "id": "POLYESTER-AT-HEYKELI-HAY052",
+      "description": "",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "ATA004",
-      "title": "Polyester Atatürk Büstü ATA004   Ebatları : 57x44",
-      "slug": "polyester-ataturk-bustu-ata004",
-      "category": "ataturk-heykelleri",
-      "description": "Atatürk Büstü;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. . Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç- mermer- alçı döküm yapılabilir.  Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır, Okullarda -Anaokullarında -Diğer Eğitim kurumlarında- Üniversitelerde ve Resmi Devlet Kurumlarında kullanılabilir. Yönetmeliğe uygun olarak imalatı yapılmıştır. Toptan ve parakende satışımız bulunmaktadır. Atatürk Büstü Boyutlar: 57x44 cm",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-ataturk-bustu-ata004-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-ataturk-bustu-ata004"
+      "price": null,
+      "slug": "polyester-ataturk-bustu-ata004",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-ataturk-bustu-ata004",
+      "title": "Polyester Atatürk Büstü ATA004   Ebatları : 57x44",
+      "id": "ATA004",
+      "description": "Atatürk Büstü;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. . Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç- mermer- alçı döküm yapılabilir.  Büstün alt kaidesi özel siparişe göre yapılmaktadır. Kaidenin ön tarafında Atatürk'ün kullandığı vecizesinin yazıları pirinç kabartma ile montajı yapılır, Okullarda -Anaokullarında -Diğer Eğitim kurumlarında- Üniversitelerde ve Resmi Devlet Kurumlarında kullanılabilir. Yönetmeliğe uygun olarak imalatı yapılmıştır. Toptan ve parakende satışımız bulunmaktadır. Atatürk Büstü Boyutlar: 57x44 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ROL003",
-      "title": "Polyester Atatürk Duvar Rölyefi ROL003",
-      "slug": "polyester-ataturk-duvar-rolyefi-rol003",
-      "category": "ataturk-heykelleri",
-      "description": "Polyester Atatürk Duvar Rölyefi Uzunluk: 300 cm",
-      "dimensions": "Yükseklik: 180 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-ataturk-duvar-rolyefi-rol003-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-ataturk-duvar-rolyefi-rol003"
+      "price": null,
+      "slug": "polyester-ataturk-duvar-rolyefi-rol003",
+      "dimensions": "Yükseklik: 180 cm",
+      "url": "https://heykelsan.com/urunler/polyester-ataturk-duvar-rolyefi-rol003",
+      "title": "Polyester Atatürk Duvar Rölyefi ROL003",
+      "id": "ROL003",
+      "description": "Polyester Atatürk Duvar Rölyefi Uzunluk: 300 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "ATA009",
-      "title": "Polyester Atatürk Heykeli ATA009",
-      "slug": "polyester-ataturk-heykeli-ata009",
-      "category": "ataturk-heykelleri",
-      "description": "Atatürk heykelinin mukavemetinin güçlendirilmesi için iç kısımlara metal konstrüksiyonlar ile güçlendirilmiştir.Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır. . Dış ve iç mekanda kullanılabilir. Tüm hava koşullarına dayanıklıdır. Sağlamdır. Kırılmaz. İstenilen renkte boyanabilir. Bronz-pirinç ve mermer döküm yapılabilir. Okullarda -Anaokullarında -Diğer Eğitim kurumlarında ve Resmi Devlet Kurumlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Polyester Atatürk Heykeli Yükseklik(h): 280cm   En :110 cm",
-      "dimensions": "En: 110 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-ataturk-heykeli-ata009-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-ataturk-heykeli-ata009"
+      "price": null,
+      "slug": "polyester-ataturk-heykeli-ata009",
+      "dimensions": "En: 110 cm",
+      "url": "https://heykelsan.com/urunler/polyester-ataturk-heykeli-ata009",
+      "title": "Polyester Atatürk Heykeli ATA009",
+      "id": "ATA009",
+      "description": "Atatürk heykelinin mukavemetinin güçlendirilmesi için iç kısımlara metal konstrüksiyonlar ile güçlendirilmiştir.Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır. . Dış ve iç mekanda kullanılabilir. Tüm hava koşullarına dayanıklıdır. Sağlamdır. Kırılmaz. İstenilen renkte boyanabilir. Bronz-pirinç ve mermer döküm yapılabilir. Okullarda -Anaokullarında -Diğer Eğitim kurumlarında ve Resmi Devlet Kurumlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Polyester Atatürk Heykeli Yükseklik(h): 280cm   En :110 cm",
+      "category": "ataturk-heykelleri"
     },
     {
-      "id": "HEY015",
-      "title": "Büyük İskender Büstü HEY015",
-      "slug": "polyester-bust-hey015",
-      "category": "heykeller",
-      "description": "Polyester Büst",
-      "dimensions": "Boyutları: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-bust-hey015-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-bust-hey015"
+      "price": null,
+      "slug": "polyester-bust-hey015",
+      "dimensions": "Boyutları: 40 cm",
+      "url": "https://heykelsan.com/urunler/polyester-bust-hey015",
+      "title": "Büyük İskender Büstü HEY015",
+      "id": "HEY015",
+      "description": "Polyester Büst",
+      "category": "heykeller"
     },
     {
-      "id": "HAY012",
-      "title": "Polyester Camel Deve HAY012",
-      "slug": "polyester-camel-deve-hay012",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Camel Deve Uzunluk: 85 cm",
-      "dimensions": "Yükseklik: 70 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-camel-deve-hay012-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-camel-deve-hay012"
+      "price": null,
+      "slug": "polyester-camel-deve-hay012",
+      "dimensions": "Yükseklik: 70 cm",
+      "url": "https://heykelsan.com/urunler/polyester-camel-deve-hay012",
+      "title": "Polyester Camel Deve HAY012",
+      "id": "HAY012",
+      "description": "Polyester Camel Deve Uzunluk: 85 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY013",
-      "title": "Polyester Dinazor Heykeli HAY013",
-      "slug": "polyester-dinazor-heykeli-hay013",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Dinazor Heykeli",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-dinazor-heykeli-hay013-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-dinazor-heykeli-hay013"
+      "price": null,
+      "slug": "polyester-dinazor-heykeli-hay013",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-dinazor-heykeli-hay013",
+      "title": "Polyester Dinazor Heykeli HAY013",
+      "id": "HAY013",
+      "description": "Polyester Dinazor Heykeli",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HEY026",
-      "title": "Polyester Dönerci Amca HEY026",
-      "slug": "polyester-donerci-amca-hey026",
-      "category": "heykeller",
-      "description": "Polyester Dönerci Amca",
-      "dimensions": "Yükseklik: 90 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-donerci-amca-hey026-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-donerci-amca-hey026"
+      "price": null,
+      "slug": "polyester-donerci-amca-hey026",
+      "dimensions": "Yükseklik: 90 cm",
+      "url": "https://heykelsan.com/urunler/polyester-donerci-amca-hey026",
+      "title": "Polyester Dönerci Amca HEY026",
+      "id": "HEY026",
+      "description": "Polyester Dönerci Amca",
+      "category": "heykeller"
     },
     {
-      "id": "HAY014",
-      "title": "Polyester Flamingo Heykeli HAY014",
-      "slug": "polyester-flamingo-heykeli-hay014",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Flamingo Heykeli Uzunluk: 80 cm",
-      "dimensions": "Yükseklik: 130 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-flamingo-heykeli-hay014-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-flamingo-heykeli-hay014"
+      "price": null,
+      "slug": "polyester-flamingo-heykeli-hay014",
+      "dimensions": "Yükseklik: 130 cm",
+      "url": "https://heykelsan.com/urunler/polyester-flamingo-heykeli-hay014",
+      "title": "Polyester Flamingo Heykeli HAY014",
+      "id": "HAY014",
+      "description": "Polyester Flamingo Heykeli Uzunluk: 80 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY015",
-      "title": "Polyester Geyik Noel Baba HAY015",
-      "slug": "polyester-geyik-noel-baba-hay015",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Geyik Noel Baba Uzunluk: 110 cm",
-      "dimensions": "Yükseklik: 90 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-geyik-noel-baba-hay015-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-geyik-noel-baba-hay015"
+      "price": null,
+      "slug": "polyester-geyik-noel-baba-hay015",
+      "dimensions": "Yükseklik: 90 cm",
+      "url": "https://heykelsan.com/urunler/polyester-geyik-noel-baba-hay015",
+      "title": "Polyester Geyik Noel Baba HAY015",
+      "id": "HAY015",
+      "description": "Polyester Geyik Noel Baba Uzunluk: 110 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY016",
-      "title": "Polyester Ham Aslan HAY016",
-      "slug": "polyester-ham-aslan-hay016",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Ham Aslan Uzunluk: 60 cm",
-      "dimensions": "Yükseklik: 120 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-ham-aslan-hay016-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-ham-aslan-hay016"
+      "price": null,
+      "slug": "polyester-ham-aslan-hay016",
+      "dimensions": "Yükseklik: 120 cm",
+      "url": "https://heykelsan.com/urunler/polyester-ham-aslan-hay016",
+      "title": "Polyester Ham Aslan HAY016",
+      "id": "HAY016",
+      "description": "Polyester Ham Aslan Uzunluk: 60 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "POLYESTER-IC-VE-DIS-MEKAN-MALZEMESI",
-      "title": "Küçük Oturan Aslan HAY032",
-      "slug": "polyester-ic-ve-dis-mekan-malzemesi",
-      "category": "hayvan-heykelleri",
-      "description": "en",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-ic-ve-dis-mekan-malzemesi-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-ic-ve-dis-mekan-malzemesi"
+      "price": null,
+      "slug": "polyester-ic-ve-dis-mekan-malzemesi",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-ic-ve-dis-mekan-malzemesi",
+      "title": "Küçük Oturan Aslan HAY032",
+      "id": "POLYESTER-IC-VE-DIS-MEKAN-MALZEMESI",
+      "description": "en",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "SUT017",
-      "title": "Polyester İyon Başlıklı Yivli Düz Sütun SUT017",
-      "slug": "polyester-iyon-baslikli-yivli-duz-sutun-sut017",
-      "category": "sutunlar",
-      "description": "Polyester Fiberglas İyon Başlıklı Yivli Düz Sütun",
-      "dimensions": "Yükseklik: 70 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-iyon-baslikli-yivli-duz-sutun-sut017-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-iyon-baslikli-yivli-duz-sutun-sut017"
+      "price": null,
+      "slug": "polyester-iyon-baslikli-yivli-duz-sutun-sut017",
+      "dimensions": "Yükseklik: 70 cm",
+      "url": "https://heykelsan.com/urunler/polyester-iyon-baslikli-yivli-duz-sutun-sut017",
+      "title": "Polyester İyon Başlıklı Yivli Düz Sütun SUT017",
+      "id": "SUT017",
+      "description": "Polyester Fiberglas İyon Başlıklı Yivli Düz Sütun",
+      "category": "sutunlar"
     },
     {
-      "id": "HEY027",
-      "title": "Polyester Kadın Heykeli  HEY027  Ebatları : 170x60 cm",
-      "slug": "polyester-kadin-heykeli-hey027",
-      "category": "heykeller",
-      "description": "Polyester Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Polyester Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Polyester Kız Heykeli",
-      "dimensions": "Yükseklik: 170 cm, En: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-kadin-heykeli-hey027-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-kadin-heykeli-hey027"
+      "price": null,
+      "slug": "polyester-kadin-heykeli-hey027",
+      "dimensions": "Yükseklik: 170 cm, En: 60 cm",
+      "url": "https://heykelsan.com/urunler/polyester-kadin-heykeli-hey027",
+      "title": "Polyester Kadın Heykeli  HEY027  Ebatları : 170x60 cm",
+      "id": "HEY027",
+      "description": "Polyester Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Polyester Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Polyester Kız Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "HAY018",
-      "title": "Polyester Karaca HAY018",
-      "slug": "polyester-karaca-hay018",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Karaca Uzunluk: 60 cm",
-      "dimensions": "Yükseklik: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-karaca-hay018-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-karaca-hay018"
+      "price": null,
+      "slug": "polyester-karaca-hay018",
+      "dimensions": "Yükseklik: 60 cm",
+      "url": "https://heykelsan.com/urunler/polyester-karaca-hay018",
+      "title": "Polyester Karaca HAY018",
+      "id": "HAY018",
+      "description": "Polyester Karaca Uzunluk: 60 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY017",
-      "title": "Polyester Karakartal HAY017",
-      "slug": "polyester-karakartal-hay017",
-      "category": "hayvan-heykelleri",
-      "description": "**Polyester Karakartal** **Ürün Kodu: HAY017** **Yükseklik: 80 cm** **Uzunluk: 80 cm**",
-      "dimensions": "Yükseklik: 80 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-karakartal-hay017-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-karakartal-hay017"
+      "price": null,
+      "slug": "polyester-karakartal-hay017",
+      "dimensions": "Yükseklik: 80 cm",
+      "url": "https://heykelsan.com/urunler/polyester-karakartal-hay017",
+      "title": "Polyester Karakartal HAY017",
+      "id": "HAY017",
+      "description": "**Polyester Karakartal** **Ürün Kodu: HAY017** **Yükseklik: 80 cm** **Uzunluk: 80 cm**",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY020",
-      "title": "Polyester Kartal Kanatlı HAY020",
-      "slug": "polyester-kartal-kanatli-hay020",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Kartal Kanatlı uzunluk: 20 cm",
-      "dimensions": "Yükseklik: 60 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-kartal-kanatli-hay020-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-kartal-kanatli-hay020"
+      "price": null,
+      "slug": "polyester-kartal-kanatli-hay020",
+      "dimensions": "Yükseklik: 60 cm",
+      "url": "https://heykelsan.com/urunler/polyester-kartal-kanatli-hay020",
+      "title": "Polyester Kartal Kanatlı HAY020",
+      "id": "HAY020",
+      "description": "Polyester Kartal Kanatlı uzunluk: 20 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY021",
-      "title": "Polyester Köpek Asil HAY021",
-      "slug": "polyester-kopek-asil-hay021",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Köpek Asil Uzunluk: 20 cm",
-      "dimensions": "Yükseklik: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-kopek-asil-hay021-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-kopek-asil-hay021"
+      "price": null,
+      "slug": "polyester-kopek-asil-hay021",
+      "dimensions": "Yükseklik: 40 cm",
+      "url": "https://heykelsan.com/urunler/polyester-kopek-asil-hay021",
+      "title": "Polyester Köpek Asil HAY021",
+      "id": "HAY021",
+      "description": "Polyester Köpek Asil Uzunluk: 20 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY022",
-      "title": "Polyester Köpek Modern HAY022",
-      "slug": "polyester-kopek-modern-hay022",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Köpek Modern Uzunluk: 20 cm",
-      "dimensions": "Yükseklik: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-kopek-modern-hay022-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-kopek-modern-hay022"
+      "price": null,
+      "slug": "polyester-kopek-modern-hay022",
+      "dimensions": "Yükseklik: 40 cm",
+      "url": "https://heykelsan.com/urunler/polyester-kopek-modern-hay022",
+      "title": "Polyester Köpek Modern HAY022",
+      "id": "HAY022",
+      "description": "Polyester Köpek Modern Uzunluk: 20 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY023",
-      "title": "Polyester Leylek HAY023",
-      "slug": "polyester-leylek-hay023",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Leylek Uzunluk: 50 cm",
-      "dimensions": "Yükseklik: 50 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-leylek-hay023-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-leylek-hay023"
+      "price": null,
+      "slug": "polyester-leylek-hay023",
+      "dimensions": "Yükseklik: 50 cm",
+      "url": "https://heykelsan.com/urunler/polyester-leylek-hay023",
+      "title": "Polyester Leylek HAY023",
+      "id": "HAY023",
+      "description": "Polyester Leylek Uzunluk: 50 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "ROL005",
-      "title": "Polyester Meryem Ana Rölyefi ROL001",
-      "slug": "polyester-meryem-ana-rolyefi-rol001",
-      "category": "rolyefler-ve-tugralar",
-      "description": "Polyester Meryem Ana Rölyefi",
-      "dimensions": "Yükseklik: 70 cm, Genişlik: 70 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-meryem-ana-rolyefi-rol001-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-meryem-ana-rolyefi-rol001"
+      "price": null,
+      "slug": "polyester-meryem-ana-rolyefi-rol001",
+      "dimensions": "Yükseklik: 70 cm, Genişlik: 70 cm",
+      "url": "https://heykelsan.com/urunler/polyester-meryem-ana-rolyefi-rol001",
+      "title": "Polyester Meryem Ana Rölyefi ROL001",
+      "id": "ROL005",
+      "description": "Polyester Meryem Ana Rölyefi",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "HEY028",
-      "title": "Polyester Osmanlı Askeri HEY028",
-      "slug": "polyester-osmanli-askeri-hey028",
-      "category": "osmanli-heykelleri-bustleri",
-      "description": "Polyester Osmanlı Askeri",
-      "dimensions": "Yükseklik: 160 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-osmanli-askeri-hey028-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-osmanli-askeri-hey028"
+      "price": null,
+      "slug": "polyester-osmanli-askeri-hey028",
+      "dimensions": "Yükseklik: 160 cm",
+      "url": "https://heykelsan.com/urunler/polyester-osmanli-askeri-hey028",
+      "title": "Polyester Osmanlı Askeri HEY028",
+      "id": "HEY028",
+      "description": "Polyester Osmanlı Askeri",
+      "category": "osmanli-heykelleri-bustleri"
     },
     {
-      "id": "ROL006",
-      "title": "Polyester Osmanlı Tuğrası ROL005",
-      "slug": "polyester-osmanli-tugrasi-rol005",
-      "category": "rolyefler-ve-tugralar",
-      "description": "Polyester Osmanlı Tuğrası",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-osmanli-tugrasi-rol005-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-osmanli-tugrasi-rol005"
+      "price": null,
+      "slug": "polyester-osmanli-tugrasi-rol005",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-osmanli-tugrasi-rol005",
+      "title": "Polyester Osmanlı Tuğrası ROL005",
+      "id": "ROL006",
+      "description": "Polyester Osmanlı Tuğrası",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "HEY001",
-      "title": "Polyester Romatik Biblo HEY001",
-      "slug": "polyester-romatik-biblo-hey001",
-      "category": "heykeller",
-      "description": "Polyester Romatik Biblo",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-romatik-biblo-hey001-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-romatik-biblo-hey001"
+      "price": null,
+      "slug": "polyester-romatik-biblo-hey001",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-romatik-biblo-hey001",
+      "title": "Polyester Romatik Biblo HEY001",
+      "id": "HEY001",
+      "description": "Polyester Romatik Biblo",
+      "category": "heykeller"
     },
     {
-      "id": "SAK001",
-      "title": "Polyester Saksı SAK001",
-      "slug": "polyester-saksi-sak001",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak001-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak001"
+      "price": null,
+      "slug": "polyester-saksi-sak001",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak001",
+      "title": "Polyester Saksı SAK001",
+      "id": "SAK001",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK002",
-      "title": "Polyester Saksı SAK002",
-      "slug": "polyester-saksi-sak002",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak002-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak002"
+      "price": null,
+      "slug": "polyester-saksi-sak002",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak002",
+      "title": "Polyester Saksı SAK002",
+      "id": "SAK002",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK003",
-      "title": "Polyester Saksı SAK003",
-      "slug": "polyester-saksi-sak003",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak003-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak003"
+      "price": null,
+      "slug": "polyester-saksi-sak003",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak003",
+      "title": "Polyester Saksı SAK003",
+      "id": "SAK003",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK004",
-      "title": "Polyester Saksı SAK004",
-      "slug": "polyester-saksi-sak004",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak004-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak004"
+      "price": null,
+      "slug": "polyester-saksi-sak004",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak004",
+      "title": "Polyester Saksı SAK004",
+      "id": "SAK004",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK005",
-      "title": "Polyester Saksı SAK005",
-      "slug": "polyester-saksi-sak005",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak005-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak005"
+      "price": null,
+      "slug": "polyester-saksi-sak005",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak005",
+      "title": "Polyester Saksı SAK005",
+      "id": "SAK005",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK006",
-      "title": "Polyester Saksı SAK006",
-      "slug": "polyester-saksi-sak006",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak006-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak006"
+      "price": null,
+      "slug": "polyester-saksi-sak006",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak006",
+      "title": "Polyester Saksı SAK006",
+      "id": "SAK006",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK007",
-      "title": "Polyester Saksı SAK007",
-      "slug": "polyester-saksi-sak007",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak007-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak007"
+      "price": null,
+      "slug": "polyester-saksi-sak007",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak007",
+      "title": "Polyester Saksı SAK007",
+      "id": "SAK007",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK008",
-      "title": "Polyester Saksı SAK008",
-      "slug": "polyester-saksi-sak008",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak008-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak008"
+      "price": null,
+      "slug": "polyester-saksi-sak008",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak008",
+      "title": "Polyester Saksı SAK008",
+      "id": "SAK008",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK009",
-      "title": "Polyester Saksı SAK009",
-      "slug": "polyester-saksi-sak009",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak009-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak009"
+      "price": null,
+      "slug": "polyester-saksi-sak009",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak009",
+      "title": "Polyester Saksı SAK009",
+      "id": "SAK009",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK010",
-      "title": "Polyester Saksı SAK010",
-      "slug": "polyester-saksi-sak010",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak010-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak010"
+      "price": null,
+      "slug": "polyester-saksi-sak010",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak010",
+      "title": "Polyester Saksı SAK010",
+      "id": "SAK010",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK011",
-      "title": "Polyester Saksı SAK011",
-      "slug": "polyester-saksi-sak011",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak011-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak011"
+      "price": null,
+      "slug": "polyester-saksi-sak011",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak011",
+      "title": "Polyester Saksı SAK011",
+      "id": "SAK011",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK012",
-      "title": "Polyester Saksı SAK012",
-      "slug": "polyester-saksi-sak012",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak012-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak012"
+      "price": null,
+      "slug": "polyester-saksi-sak012",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak012",
+      "title": "Polyester Saksı SAK012",
+      "id": "SAK012",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK013",
-      "title": "Polyester Saksı SAK013",
-      "slug": "polyester-saksi-sak013",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak013-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak013"
+      "price": null,
+      "slug": "polyester-saksi-sak013",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak013",
+      "title": "Polyester Saksı SAK013",
+      "id": "SAK013",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK014",
-      "title": "Polyester Saksı SAK014",
-      "slug": "polyester-saksi-sak014",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak014-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak014"
+      "price": null,
+      "slug": "polyester-saksi-sak014",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak014",
+      "title": "Polyester Saksı SAK014",
+      "id": "SAK014",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "SAK015",
-      "title": "Polyester Saksı SAK015",
-      "slug": "polyester-saksi-sak015",
-      "category": "saksilar",
-      "description": "Polyester Saksı",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-saksi-sak015-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-saksi-sak015"
+      "price": null,
+      "slug": "polyester-saksi-sak015",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-saksi-sak015",
+      "title": "Polyester Saksı SAK015",
+      "id": "SAK015",
+      "description": "Polyester Saksı",
+      "category": "saksilar"
     },
     {
-      "id": "POLYESTER-TAVUS-KUSU-ROLYEFI-ROL002",
-      "title": "Polyester Tavus Kuşu Rölyefi ROL002",
-      "slug": "polyester-tavus-kusu-rolyefi-rol002",
-      "category": "rolyefler-ve-tugralar",
-      "description": "1\\. Sınıf polyester üretimdir.",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-tavus-kusu-rolyefi-rol002-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-tavus-kusu-rolyefi-rol002"
+      "price": null,
+      "slug": "polyester-tavus-kusu-rolyefi-rol002",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/polyester-tavus-kusu-rolyefi-rol002",
+      "title": "Polyester Tavus Kuşu Rölyefi ROL002",
+      "id": "POLYESTER-TAVUS-KUSU-ROLYEFI-ROL002",
+      "description": "1\\. Sınıf polyester üretimdir.",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "HAY024",
-      "title": "Polyester Yunus Heykeli HAY024",
-      "slug": "polyester-yunus-heykeli-hay024",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Yunus Heykeli Uzunluk: 60 cm",
-      "dimensions": "Yükseklik: 90 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-yunus-heykeli-hay024-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-yunus-heykeli-hay024"
+      "price": null,
+      "slug": "polyester-yunus-heykeli-hay024",
+      "dimensions": "Yükseklik: 90 cm",
+      "url": "https://heykelsan.com/urunler/polyester-yunus-heykeli-hay024",
+      "title": "Polyester Yunus Heykeli HAY024",
+      "id": "HAY024",
+      "description": "Polyester Yunus Heykeli Uzunluk: 60 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY025",
-      "title": "Polyester Zürafa Heykeli HAY025",
-      "slug": "polyester-zurafa-heykeli-hay025",
-      "category": "hayvan-heykelleri",
-      "description": "Zürafa heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Zürafa Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Anaokullarında , mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Polyester Zürafa Heykeli Uzunluk: 120 cm",
-      "dimensions": "Yükseklik: 320 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyester-zurafa-heykeli-hay025-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyester-zurafa-heykeli-hay025"
+      "price": null,
+      "slug": "polyester-zurafa-heykeli-hay025",
+      "dimensions": "Yükseklik: 320 cm",
+      "url": "https://heykelsan.com/urunler/polyester-zurafa-heykeli-hay025",
+      "title": "Polyester Zürafa Heykeli HAY025",
+      "id": "HAY025",
+      "description": "Zürafa heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Zürafa Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Anaokullarında , mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Polyester Zürafa Heykeli Uzunluk: 120 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HAY019",
-      "title": "Polyester Kartal HAY019",
-      "slug": "polyuester-kartal-hay019",
-      "category": "hayvan-heykelleri",
-      "description": "Polyester Kartal Uzunluk: 70 cm",
-      "dimensions": "Yükseklik: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/polyuester-kartal-hay019-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/polyuester-kartal-hay019"
+      "price": null,
+      "slug": "polyuester-kartal-hay019",
+      "dimensions": "Yükseklik: 40 cm",
+      "url": "https://heykelsan.com/urunler/polyuester-kartal-hay019",
+      "title": "Polyester Kartal HAY019",
+      "id": "HAY019",
+      "description": "Polyester Kartal Uzunluk: 70 cm",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "ROMALI-SAVASCI-DUVAR-ROLYEFI-ROL004",
-      "title": "Romalı Savaşçı Duvar Rölyefi ROL004",
-      "slug": "romali-savasci-duvar-rolyefi-rol004",
-      "category": "rolyefler-ve-tugralar",
-      "description": "",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/romali-savasci-duvar-rolyefi-rol004-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/romali-savasci-duvar-rolyefi-rol004"
+      "price": null,
+      "slug": "romali-savasci-duvar-rolyefi-rol004",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/romali-savasci-duvar-rolyefi-rol004",
+      "title": "Romalı Savaşçı Duvar Rölyefi ROL004",
+      "id": "ROMALI-SAVASCI-DUVAR-ROLYEFI-ROL004",
+      "description": "",
+      "category": "rolyefler-ve-tugralar"
     },
     {
-      "id": "HEY037",
-      "title": "Sağlı Sollu Kız Heykeli HEY037     Ebatları :120x40cm",
-      "slug": "sagli-sollu-kiz-heykeli-hey037",
-      "category": "heykeller",
-      "description": "Sağlı Sollu  Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Sağlı Sollu Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Sağlı Sollu Kız Heykeli",
-      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/sagli-sollu-kiz-heykeli-hey037-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/sagli-sollu-kiz-heykeli-hey037"
+      "price": null,
+      "slug": "sagli-sollu-kiz-heykeli-hey037",
+      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/sagli-sollu-kiz-heykeli-hey037",
+      "title": "Sağlı Sollu Kız Heykeli HEY037     Ebatları :120x40cm",
+      "id": "HEY037",
+      "description": "Sağlı Sollu  Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Sağlı Sollu Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Sağlı Sollu Kız Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "HEY038",
-      "title": "Sepetli Kız Heykeli HEY038      Ebatları:120x40 cm",
-      "slug": "sepetli-kiz-heykeli-hey038",
-      "category": "heykeller",
-      "description": "Sepetli Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Sepetli Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Anaokullarında , mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Sepetli Kız Heykeli",
-      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/sepetli-kiz-heykeli-hey038-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/sepetli-kiz-heykeli-hey038"
+      "price": null,
+      "slug": "sepetli-kiz-heykeli-hey038",
+      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/sepetli-kiz-heykeli-hey038",
+      "title": "Sepetli Kız Heykeli HEY038      Ebatları:120x40 cm",
+      "id": "HEY038",
+      "description": "Sepetli Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Sepetli Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Anaokullarında , mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Sepetli Kız Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "HEY022",
-      "title": "Testili Kız Heykeli HEY022 Ebatları:172x60 cm",
-      "slug": "testili-kiz-heykeli-hey022",
-      "category": "heykeller",
-      "description": "Testili Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Testili Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Testili Kız Heykeli",
-      "dimensions": "Yükseklik: 172 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/testili-kiz-heykeli-hey022-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/testili-kiz-heykeli-hey022"
+      "price": null,
+      "slug": "testili-kiz-heykeli-hey022",
+      "dimensions": "Yükseklik: 172 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/testili-kiz-heykeli-hey022",
+      "title": "Testili Kız Heykeli HEY022 Ebatları:172x60 cm",
+      "id": "HEY022",
+      "description": "Testili Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Testili Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Testili Kız Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "HEY039",
-      "title": "Üzümlü Kız Heykeli HEY039     Ebatları :120x40 cm",
-      "slug": "uzumlu-kiz-heykeli-hey039",
-      "category": "heykeller",
-      "description": "Üzümlü Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Üzümlü Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Anaokullarında , mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Üzümlü Kız Heykeli",
-      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/uzumlu-kiz-heykeli-hey039-1.png"
       ],
-      "url": "https://heykelsan.com/urunler/uzumlu-kiz-heykeli-hey039"
+      "price": null,
+      "slug": "uzumlu-kiz-heykeli-hey039",
+      "dimensions": "Yükseklik: 120 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/uzumlu-kiz-heykeli-hey039",
+      "title": "Üzümlü Kız Heykeli HEY039     Ebatları :120x40 cm",
+      "id": "HEY039",
+      "description": "Üzümlü Kız Heykeli ;1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Üzümlü Kız Heykeli kullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Anaokullarında , mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Üzümlü Kız Heykeli",
+      "category": "heykeller"
     },
     {
-      "id": "HAY026",
-      "title": "Yavrulu Leylek Heykeli HAY026",
-      "slug": "yavrulu-leylek-heykeli-hay026",
-      "category": "hayvan-heykelleri",
-      "description": "Yavrulu Leylek Heykeli",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/yavrulu-leylek-heykeli-hay026-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/yavrulu-leylek-heykeli-hay026"
+      "price": null,
+      "slug": "yavrulu-leylek-heykeli-hay026",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/yavrulu-leylek-heykeli-hay026",
+      "title": "Yavrulu Leylek Heykeli HAY026",
+      "id": "HAY026",
+      "description": "Yavrulu Leylek Heykeli",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "YELELI-BUYUK-ASLAN-HEYKELI-HAY049",
-      "title": "Yeleli Büyük Aslan Heykeli HAY049",
-      "slug": "yeleli-buyuk-aslan-heykeli-hay049",
-      "category": "hayvan-heykelleri",
-      "description": "Atölyemizde polyester ve mermer aslan heykeli üretimi yapılmaktadır. İç ve dış mekan ürünü olarak sorunsuz şekilde kullanılabilir. İstenilen boy ve ebatta özel üretim yapılmaktadır.Renk seçeneği olarak  Bronz, eskitme yaldız vb. olarak  imalatı yapılmaktadır. Anlaşmalı kargomuz mevcuttur. Siparişleriniz sipariş tarihden itibaren 10 gün içerisinde teslim edilir. İsteğe göre yapılan özel siparişlerin iadesi mümkün değildir.",
-      "dimensions": "",
-      "price": null,
       "image_urls": [
         "/images/products/yeleli-buyuk-aslan-heykeli-hay049-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/yeleli-buyuk-aslan-heykeli-hay049"
+      "price": null,
+      "slug": "yeleli-buyuk-aslan-heykeli-hay049",
+      "dimensions": "",
+      "url": "https://heykelsan.com/urunler/yeleli-buyuk-aslan-heykeli-hay049",
+      "title": "Yeleli Büyük Aslan Heykeli HAY049",
+      "id": "YELELI-BUYUK-ASLAN-HEYKELI-HAY049",
+      "description": "Atölyemizde polyester ve mermer aslan heykeli üretimi yapılmaktadır. İç ve dış mekan ürünü olarak sorunsuz şekilde kullanılabilir. İstenilen boy ve ebatta özel üretim yapılmaktadır.Renk seçeneği olarak  Bronz, eskitme yaldız vb. olarak  imalatı yapılmaktadır. Anlaşmalı kargomuz mevcuttur. Siparişleriniz sipariş tarihden itibaren 10 gün içerisinde teslim edilir. İsteğe göre yapılan özel siparişlerin iadesi mümkün değildir.",
+      "category": "hayvan-heykelleri"
     },
     {
-      "id": "HEY019",
-      "title": "Yunan Kolsuz Kadın Heykeli HEY019 Ebatları:90x40 cm",
-      "slug": "yunan-kolsuz-kadin-heykeli-hey019",
-      "category": "heykeller",
-      "description": "Yunan Kolsuz Kadın Heykeli:1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Yunan Kolsuz Kadın Heykelikullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Yunan Kolsuz Kadın Heykeli Ebatları:",
-      "dimensions": "Yükseklik: 90 cm, En: 40 cm",
-      "price": null,
       "image_urls": [
         "/images/products/yunan-kolsuz-kadin-heykeli-hey019-1.jpg"
       ],
-      "url": "https://heykelsan.com/urunler/yunan-kolsuz-kadin-heykeli-hey019"
+      "price": null,
+      "slug": "yunan-kolsuz-kadin-heykeli-hey019",
+      "dimensions": "Yükseklik: 90 cm, En: 40 cm",
+      "url": "https://heykelsan.com/urunler/yunan-kolsuz-kadin-heykeli-hey019",
+      "title": "Yunan Kolsuz Kadın Heykeli HEY019 Ebatları:90x40 cm",
+      "id": "HEY019",
+      "description": "Yunan Kolsuz Kadın Heykeli:1.sınıf malzemeden üretilmiştir. Reçine polyester karışımı cam elyaf takviyeli Fiberglas polyesterden imalatı yapılmıştır Her türlü hava koşullarına dayanıklıdır. Dış ve iç mekanda kullanılabilir. Sağlamdır. Kırılmaz .İstenilen renkte boyanabilir. ALTIN YALDIZ,GÜMÜŞ,ESKİTME,VB .yapılabilmektedir. Bronz-pirinç ve mermer döküm yapılabilir.  Dekoratif amaçlı Mimarların kullandığı bir üründür. Birçok yerde Yunan Kolsuz Kadın Heykelikullanılmaktadır. Günümüzde popileritesi artmıştır. Ürün kendi imalatımızdır. Mağzalarda, hediyelik eşya satan mağzalarda , yazlıklarda , otellerde , park ve bahçelerde , doğum günü - düğün organizasyonlarında kullanılabilir. Toptan ve parakende satışımız bulunmaktadır. Yunan Kolsuz Kadın Heykeli Ebatları:",
+      "category": "heykeller"
+    },
+    {
+      "id": "DENEME!",
+      "title": "Deneme 1 örnek ürün",
+      "slug": "den-eme",
+      "category": "ataturk-heykelleri",
+      "description": "bu bir deneme ürünüdür ve silinecektir",
+      "dimensions": "ali sabir ceo",
+      "image_urls": [
+        "/images/products/img_5231.jpeg"
+      ]
     }
   ]
 }
