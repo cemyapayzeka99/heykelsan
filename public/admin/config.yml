@@ -1,11 +1,12 @@
 # Decap CMS configuration for Heykelsan.
 #
-# Local backend: edits are written straight to the files on disk during
-# development. Run `npx decap-server` in a separate terminal alongside
-# `npm run dev`, then open /admin in the browser.
+# Production backend: edits are committed directly to GitHub via OAuth login.
+# `local_backend: true` additionally lets `/admin` fall back to the local
+# proxy server when the panel is opened on localhost — run `npx decap-server`
+# alongside `npm run dev` for that.
 backend:
-  name: proxy
-  proxy_url: http://localhost:8081/api/v1
+  name: github
+  repo: cemyapayzeka99/heykelsan
   branch: main
 
 local_backend: true
