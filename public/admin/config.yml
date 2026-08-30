@@ -8,8 +8,8 @@ backend:
   name: github
   repo: cemyapayzeka99/heykelsan
   branch: main
-  base_url: https://heykelsan-auth.vercel.app
-  auth_endpoint: auth
+  base_url: https://heykelsan.vercel.app
+  auth_endpoint: /api/auth
 
 local_backend: true
 
