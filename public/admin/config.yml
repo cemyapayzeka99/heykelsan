@@ -8,6 +8,8 @@ backend:
   name: github
   repo: cemyapayzeka99/heykelsan
   branch: main
+  base_url: https://decap-bridge.vercel.app
+  auth_endpoint: /api/auth
 
 local_backend: true
 
