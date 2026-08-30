@@ -39,6 +39,9 @@ yarn-error.log*
 # firecrawl cache
 .firecrawl/
 
+# raw scrape dump (intermediate artifact, not project source)
+heykelsan-data/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
