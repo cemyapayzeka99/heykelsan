@@ -60,6 +60,14 @@ export function getProductBySlug(slug: string): Product | undefined {
   return products.find((p) => p.slug === slug);
 }
 
+const REF_INDEX = new Map(products.map((p, i) => [p.slug, i + 1]));
+
+/** Catalog-style technical reference, e.g. "REF-0182", stable per product slug. */
+export function refNumber(product: Product): string {
+  const n = REF_INDEX.get(product.slug) ?? 0;
+  return `REF-${String(n).padStart(4, "0")}`;
+}
+
 export function getProductsByCategory(category: string): Product[] {
   return products.filter((p) => p.category === category);
 }
@@ -99,6 +107,6 @@ export function getFeaturedProducts(count = 8): Product[] {
 export const WHATSAPP_NUMBER = "905322810273";
 
 export function whatsappOrderUrl(product: Product): string {
-  const message = `Merhabalar, "${product.title}" ürünü hakkında bilgi almak / sipariş vermek istiyorum.`;
+  const message = `Merhabalar, "${product.title}" (${refNumber(product)}) eseri için atölyenizden özel bilgi almak istiyorum.`;
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
 }

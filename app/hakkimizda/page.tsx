@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { MessageCircle, Hammer, ShieldCheck, Palette } from "lucide-react";
+import { MessageCircle, ArrowUpRight, Hammer, ShieldCheck, Palette } from "lucide-react";
 import { CONTACT } from "@/lib/contact";
 import { PRIMARY_CATEGORIES, categoryLabel, getProductsByCategory } from "@/lib/products";
 
@@ -13,13 +13,13 @@ export const metadata: Metadata = {
 export default function HakkimizdaPage() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
-      <span className="text-xs font-semibold uppercase tracking-[0.25em] text-bronze-dark">
+      <span className="font-mono text-xs uppercase tracking-[0.25em] text-bronze">
         Kurumsal
       </span>
-      <h1 className="mt-2 font-display text-4xl text-ink sm:text-5xl">
+      <h1 className="mt-3 font-display text-4xl font-bold uppercase tracking-[0.05em] text-bone sm:text-5xl">
         Hakkımızda
       </h1>
-      <p className="mt-6 max-w-2xl text-balance text-lg leading-relaxed text-ink-soft">
+      <p className="mt-6 max-w-2xl text-balance text-lg leading-relaxed text-bone/60">
         Heykelsan, İstanbul Beyoğlu&apos;ndaki atölyesinde 15 yılı aşkın
         süredir taş, bronz ve fiberglas eserler üretiyor. Atatürk büstlerinden
         bahçe heykellerine, anıtsal sütunlardan duvar rölyeflerine kadar geniş
@@ -27,42 +27,50 @@ export default function HakkimizdaPage() {
         bahçelere kalıcı sanat eserleri kazandırıyoruz.
       </p>
 
-      <div className="mt-12 grid gap-6 sm:grid-cols-3">
-        <div className="rounded-2xl border border-line bg-bone-dim/40 p-6">
-          <Hammer className="h-7 w-7 text-bronze-dark" strokeWidth={1.5} />
-          <h3 className="mt-4 font-display text-lg text-ink">El İşçiliği</h3>
-          <p className="mt-2 text-sm leading-relaxed text-ink-soft/80">
+      <div className="mt-12 grid gap-px border border-white/10 bg-white/10 sm:grid-cols-3">
+        <div className="bg-panel p-6">
+          <Hammer className="h-6 w-6 text-bronze" strokeWidth={1.25} />
+          <h3 className="mt-4 font-display text-base font-semibold uppercase tracking-[0.05em] text-bone">
+            El İşçiliği
+          </h3>
+          <p className="mt-2 text-sm leading-relaxed text-bone/50">
             Her eser atölyemizde ustalarımızın elinden özenle şekillendirilir.
           </p>
         </div>
-        <div className="rounded-2xl border border-line bg-bone-dim/40 p-6">
-          <Palette className="h-7 w-7 text-bronze-dark" strokeWidth={1.5} />
-          <h3 className="mt-4 font-display text-lg text-ink">Özel Üretim</h3>
-          <p className="mt-2 text-sm leading-relaxed text-ink-soft/80">
+        <div className="bg-panel p-6">
+          <Palette className="h-6 w-6 text-bronze" strokeWidth={1.25} />
+          <h3 className="mt-4 font-display text-base font-semibold uppercase tracking-[0.05em] text-bone">
+            Özel Üretim
+          </h3>
+          <p className="mt-2 text-sm leading-relaxed text-bone/50">
             Talebe göre ölçü, malzeme ve renk seçenekleriyle üretim yapıyoruz.
           </p>
         </div>
-        <div className="rounded-2xl border border-line bg-bone-dim/40 p-6">
-          <ShieldCheck className="h-7 w-7 text-bronze-dark" strokeWidth={1.5} />
-          <h3 className="mt-4 font-display text-lg text-ink">Kurumsal Güven</h3>
-          <p className="mt-2 text-sm leading-relaxed text-ink-soft/80">
+        <div className="bg-panel p-6">
+          <ShieldCheck className="h-6 w-6 text-bronze" strokeWidth={1.25} />
+          <h3 className="mt-4 font-display text-base font-semibold uppercase tracking-[0.05em] text-bone">
+            Kurumsal Güven
+          </h3>
+          <p className="mt-2 text-sm leading-relaxed text-bone/50">
             Belediye, üniversite ve eğitim kurumu projelerinde referanslarımız
             mevcuttur.
           </p>
         </div>
       </div>
 
-      <div className="mt-14 border-t border-line pt-10">
-        <h2 className="font-display text-2xl text-ink">Koleksiyonlarımız</h2>
-        <div className="mt-5 flex flex-wrap gap-2">
+      <div className="mt-14 border-t border-white/10 pt-10">
+        <h2 className="font-display text-xl font-bold uppercase tracking-[0.05em] text-bone">
+          Koleksiyonlarımız
+        </h2>
+        <div className="mt-5 flex flex-wrap gap-px border border-white/10 bg-white/10">
           {PRIMARY_CATEGORIES.map((cat) => (
             <Link
               key={cat}
               href={`/urunler?kategori=${cat}`}
-              className="rounded-full border border-line bg-white/40 px-4 py-2 text-sm font-medium text-ink-soft transition-colors hover:border-bronze/60 hover:text-bronze-dark"
+              className="border border-transparent bg-panel px-4 py-2.5 font-mono text-[11px] uppercase tracking-[0.1em] text-bone/60 transition-colors hover:border-bronze/60 hover:text-bronze"
             >
               {categoryLabel(cat)}{" "}
-              <span className="text-ink-soft/50">
+              <span className="text-bone/30">
                 ({getProductsByCategory(cat).length})
               </span>
             </Link>
@@ -70,23 +78,29 @@ export default function HakkimizdaPage() {
         </div>
       </div>
 
-      <div className="mt-14 flex flex-col items-start gap-4 rounded-3xl bg-ink px-8 py-10 text-bone sm:flex-row sm:items-center sm:justify-between">
+      <div className="mt-14 flex flex-col items-start gap-6 border border-bronze/40 bg-charcoal px-8 py-10 sm:flex-row sm:items-center sm:justify-between">
         <div>
-          <h2 className="font-display text-2xl italic">
-            Projenizi konuşalım.
+          <h2 className="font-display text-xl font-bold uppercase tracking-[0.05em] text-bone">
+            Projenizi Konuşalım
           </h2>
-          <p className="mt-2 text-sm text-bone/60">
-            {CONTACT.address}
-          </p>
+          <p className="mt-2 text-sm text-bone/50">{CONTACT.address}</p>
         </div>
         <a
           href={`https://wa.me/${CONTACT.whatsappNumber}`}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex shrink-0 items-center gap-2 rounded-full bg-whatsapp px-6 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-whatsapp-dark"
+          className="group flex shrink-0 items-center gap-3.5 border border-bronze bg-obsidian px-6 py-4 transition-colors duration-300 hover:bg-bronze"
         >
-          <MessageCircle className="h-4 w-4" strokeWidth={2.25} />
-          WhatsApp&apos;tan Yaz
+          <span className="flex h-9 w-9 shrink-0 items-center justify-center border border-whatsapp/40 text-whatsapp transition-colors group-hover:border-obsidian/30 group-hover:text-obsidian">
+            <MessageCircle className="h-4 w-4" strokeWidth={2.25} />
+          </span>
+          <span className="text-sm font-semibold uppercase tracking-[0.15em] text-bone transition-colors group-hover:text-obsidian">
+            Danışmana Yaz
+          </span>
+          <ArrowUpRight
+            className="h-4 w-4 shrink-0 text-bronze transition-colors group-hover:text-obsidian"
+            strokeWidth={2}
+          />
         </a>
       </div>
     </div>
