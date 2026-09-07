@@ -1,20 +1,18 @@
 import Link from "next/link";
+import Image from "next/image";
 import { ArrowRight, ArrowUpRight, MessageCircle, Hammer, ShieldCheck, Clock3 } from "lucide-react";
 import {
   getFeaturedProducts,
   PRIMARY_CATEGORIES,
   categoryLabel,
   getProductsByCategory,
-  refNumber,
 } from "@/lib/products";
 import { categoryIcon } from "@/lib/categoryIcons";
 import { CONTACT } from "@/lib/contact";
 import ProductCard from "@/components/ProductCard";
-import ProductImage from "@/components/ProductImage";
 
 export default function Home() {
   const featured = getFeaturedProducts(8);
-  const heroPieces = featured.slice(0, 3);
 
   return (
     <div>
@@ -79,31 +77,20 @@ export default function Home() {
             </dl>
           </div>
 
-          <div className="relative hidden h-[30rem] gap-px bg-white/10 sm:grid sm:grid-cols-2 sm:border sm:border-white/10">
-            {heroPieces[0] ? (
-              <div className="relative col-span-2 overflow-hidden bg-charcoal">
-                <ProductImage product={heroPieces[0]} priority />
-                <span className="absolute left-0 top-0 border-b border-r border-white/10 bg-obsidian/85 px-3 py-1.5 font-mono text-[10px] uppercase tracking-[0.2em] text-bronze backdrop-blur-sm">
-                  Plate 01 — {refNumber(heroPieces[0])}
-                </span>
-              </div>
-            ) : null}
-            {heroPieces[1] ? (
-              <div className="relative overflow-hidden bg-charcoal">
-                <ProductImage product={heroPieces[1]} priority />
-                <span className="absolute left-0 top-0 border-b border-r border-white/10 bg-obsidian/85 px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.15em] text-bronze backdrop-blur-sm">
-                  Plate 02
-                </span>
-              </div>
-            ) : null}
-            {heroPieces[2] ? (
-              <div className="relative overflow-hidden bg-charcoal">
-                <ProductImage product={heroPieces[2]} priority />
-                <span className="absolute left-0 top-0 border-b border-r border-white/10 bg-obsidian/85 px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.15em] text-bronze backdrop-blur-sm">
-                  Plate 03
-                </span>
-              </div>
-            ) : null}
+          <div className="relative hidden h-[30rem] flex-col border border-white/10 bg-charcoal sm:flex">
+            <span className="border-b border-white/10 bg-obsidian/85 px-3 py-1.5 font-mono text-[10px] uppercase tracking-[0.2em] text-bronze">
+              Marka Mührü — Est. 2004
+            </span>
+            <div className="relative flex flex-1 items-center justify-center p-16">
+              <Image
+                src="/images/logo/heykelsan-logo.png"
+                alt="Heykelsan Sculpture Studio, since 2004"
+                width={1476}
+                height={497}
+                priority
+                className="w-full max-w-md"
+              />
+            </div>
           </div>
         </div>
       </section>

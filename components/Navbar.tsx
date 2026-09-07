@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
 import { Phone, MessageCircle, Menu, X } from "lucide-react";
 import { CONTACT } from "@/lib/contact";
@@ -46,10 +47,15 @@ export default function Navbar() {
       <div className="border-b border-white/10 bg-obsidian/95 backdrop-blur supports-[backdrop-filter]:bg-obsidian/85">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
           <Link href="/" className="group flex flex-col leading-none">
-            <span className="font-display text-xl font-bold uppercase tracking-[0.2em] text-bone">
-              Heykelsan
-            </span>
-            <span className="mt-1 font-mono text-[10px] uppercase tracking-[0.3em] text-bronze">
+            <Image
+              src="/images/logo/heykelsan-wordmark.png"
+              alt="Heykelsan"
+              width={220}
+              height={37}
+              priority
+              className="h-7 w-auto"
+            />
+            <span className="mt-1.5 font-mono text-[10px] uppercase tracking-[0.3em] text-bronze">
               {CONTACT.tagline}
             </span>
           </Link>
