@@ -4,8 +4,9 @@ import { useEffect } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { ChevronRight, Ruler, Tag, Hash } from "lucide-react";
-import { getProductBySlug, getProductsByCategory, categoryLabel } from "@/lib/products";
+import { getProductBySlug, getProductsByCategory } from "@/lib/products";
 import { useProducts } from "@/lib/useProducts";
+import { useCategories, categoryLabelFrom } from "@/lib/categories";
 import ProductGallery from "@/components/ProductGallery";
 import WhatsAppButton from "@/components/WhatsAppButton";
 import ProductCard from "@/components/ProductCard";
@@ -14,6 +15,7 @@ export default function ProductDetailView() {
   const searchParams = useSearchParams();
   const slug = searchParams.get("slug") ?? "";
   const { products, loading } = useProducts();
+  const { categories } = useCategories();
   const product = getProductBySlug(products, slug);
 
   useEffect(() => {
@@ -66,7 +68,7 @@ export default function ProductDetailView() {
           href={`/urunler?kategori=${product.category}`}
           className="transition-colors hover:text-bronze-dark"
         >
-          {categoryLabel(product.category)}
+          {categoryLabelFrom(categories, product.category)}
         </Link>
         <ChevronRight className="h-3.5 w-3.5" />
         <span className="text-ink">{product.title}</span>
@@ -81,7 +83,7 @@ export default function ProductDetailView() {
             className="inline-flex w-fit items-center gap-1.5 rounded-full bg-patina/10 px-3 py-1.5 text-xs font-semibold uppercase tracking-wider text-patina-dark transition-colors hover:bg-patina/20"
           >
             <Tag className="h-3.5 w-3.5" />
-            {categoryLabel(product.category)}
+            {categoryLabelFrom(categories, product.category)}
           </Link>
 
           <h1 className="mt-4 font-display text-3xl leading-tight text-ink sm:text-4xl">
@@ -127,7 +129,7 @@ export default function ProductDetailView() {
       {related.length > 0 ? (
         <section className="mt-20 border-t border-line pt-12">
           <h2 className="font-display text-2xl text-ink">
-            {categoryLabel(product.category)} koleksiyonundan diğer eserler
+            {categoryLabelFrom(categories, product.category)} koleksiyonundan diğer eserler
           </h2>
           <div className="mt-6 grid grid-cols-2 gap-5 sm:grid-cols-3 lg:grid-cols-4">
             {related.map((p) => (

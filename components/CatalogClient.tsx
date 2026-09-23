@@ -3,8 +3,8 @@
 import { useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { Search, X, PackageSearch } from "lucide-react";
-import { categoryLabel, getAllCategories } from "@/lib/products";
 import { useProducts } from "@/lib/useProducts";
+import { useCategories } from "@/lib/categories";
 import ProductCard from "@/components/ProductCard";
 
 const TR_FOLD: Record<string, string> = {
@@ -22,7 +22,7 @@ function normalize(text: string): string {
 
 export default function CatalogClient() {
   const { products, loading } = useProducts();
-  const categories = useMemo(() => getAllCategories(products), [products]);
+  const { categories } = useCategories();
 
   const searchParams = useSearchParams();
   const initialCategory = searchParams.get("kategori");
@@ -82,16 +82,16 @@ export default function CatalogClient() {
           </button>
           {categories.map((cat) => (
             <button
-              key={cat}
+              key={cat.slug}
               type="button"
-              onClick={() => setActiveCategory(cat)}
+              onClick={() => setActiveCategory(cat.slug)}
               className={`shrink-0 rounded-full border px-4 py-2 text-sm font-medium transition-colors ${
-                activeCategory === cat
+                activeCategory === cat.slug
                   ? "border-bronze-dark bg-bronze-dark text-bone"
                   : "border-line bg-white/40 text-ink-soft hover:border-bronze/50"
               }`}
             >
-              {categoryLabel(cat)}
+              {cat.label}
             </button>
           ))}
         </div>

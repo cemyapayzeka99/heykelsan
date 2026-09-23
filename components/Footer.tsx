@@ -1,11 +1,14 @@
+"use client";
+
 import Link from "next/link";
 import Image from "next/image";
 import { MapPin, Phone, Mail, Clock, MessageCircle } from "lucide-react";
 import { CONTACT } from "@/lib/contact";
-import { PRIMARY_CATEGORIES, categoryLabel } from "@/lib/products";
+import { useCategories } from "@/lib/categories";
 
 export default function Footer() {
   const year = new Date().getFullYear();
+  const { categories } = useCategories();
 
   return (
     <footer className="border-t border-line bg-ink text-bone">
@@ -75,13 +78,13 @@ export default function Footer() {
             Ürün Kategorileri
           </h3>
           <ul className="mt-4 space-y-2.5 text-sm text-bone/70">
-            {PRIMARY_CATEGORIES.slice(0, 6).map((cat) => (
-              <li key={cat}>
+            {categories.slice(0, 6).map((cat) => (
+              <li key={cat.slug}>
                 <Link
-                  href={`/urunler?kategori=${cat}`}
+                  href={`/urunler?kategori=${cat.slug}`}
                   className="transition-colors hover:text-bone"
                 >
-                  {categoryLabel(cat)}
+                  {cat.label}
                 </Link>
               </li>
             ))}

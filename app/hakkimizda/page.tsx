@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { MessageCircle, Hammer, ShieldCheck, Palette } from "lucide-react";
 import { CONTACT } from "@/lib/contact";
-import { PRIMARY_CATEGORIES, categoryLabel } from "@/lib/products";
+import CategoryLinks from "@/components/CategoryLinks";
 
 export const metadata: Metadata = {
   title: "Hakkımızda | Heykelsan",
@@ -54,17 +53,7 @@ export default function HakkimizdaPage() {
 
       <div className="mt-14 border-t border-line pt-10">
         <h2 className="font-display text-2xl text-ink">Koleksiyonlarımız</h2>
-        <div className="mt-5 flex flex-wrap gap-2">
-          {PRIMARY_CATEGORIES.map((cat) => (
-            <Link
-              key={cat}
-              href={`/urunler?kategori=${cat}`}
-              className="rounded-full border border-line bg-white/40 px-4 py-2 text-sm font-medium text-ink-soft transition-colors hover:border-bronze/60 hover:text-bronze-dark"
-            >
-              {categoryLabel(cat)}
-            </Link>
-          ))}
-        </div>
+        <CategoryLinks />
       </div>
 
       <div className="mt-14 flex flex-col items-start gap-4 rounded-3xl bg-ink px-8 py-10 text-bone sm:flex-row sm:items-center sm:justify-between">

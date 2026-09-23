@@ -8,34 +8,7 @@ export interface Product {
   price: number | null;
   image_urls: string[];
   url?: string;
-}
-
-export const CATEGORY_LABELS: Record<string, string> = {
-  "heykeller": "Heykeller",
-  "hayvan-heykelleri": "Hayvan Heykelleri",
-  "sutunlar": "Sütunlar",
-  "ataturk-heykelleri": "Atatürk Heykelleri",
-  "rolyefler-ve-tugralar": "Rölyefler ve Tuğralar",
-  "duvar-kaplama-plakalari": "Duvar Kaplama Plakaları",
-  "saksilar": "Saksılar",
-  "bahce-aksesuarlari": "Bahçe Aksesuarları",
-  "osmanli-heykelleri-bustleri": "Osmanlı Heykelleri ve Büstleri",
-};
-
-// Primary taxonomy in the order the workshop presents it on the original site.
-export const PRIMARY_CATEGORIES = [
-  "heykeller",
-  "hayvan-heykelleri",
-  "sutunlar",
-  "ataturk-heykelleri",
-  "rolyefler-ve-tugralar",
-  "duvar-kaplama-plakalari",
-  "saksilar",
-  "bahce-aksesuarlari",
-];
-
-export function categoryLabel(slug: string): string {
-  return CATEGORY_LABELS[slug] ?? slug;
+  updatedAt?: unknown;
 }
 
 /** A local static asset (public/images/...) or a Cloudinary-hosted upload. */
@@ -43,13 +16,6 @@ export function hasUsableImage(product: Product): boolean {
   const src = product.image_urls[0];
   if (!src) return false;
   return src.startsWith("/") || src.startsWith("https://res.cloudinary.com/");
-}
-
-export function getAllCategories(products: Product[]): string[] {
-  const set = new Set(products.map((p) => p.category));
-  return PRIMARY_CATEGORIES.filter((c) => set.has(c)).concat(
-    [...set].filter((c) => !PRIMARY_CATEGORIES.includes(c))
-  );
 }
 
 export function getProductBySlug(
@@ -67,10 +33,14 @@ export function getProductsByCategory(
 }
 
 /**
- * Curated, deterministic pick spread across categories so the homepage
- * doesn't just show the first N rows of a single category.
+ * Curated, deterministic pick spread across categories (in the given order)
+ * so the homepage doesn't just show the first N rows of a single category.
  */
-export function getFeaturedProducts(products: Product[], count = 8): Product[] {
+export function getFeaturedProducts(
+  products: Product[],
+  categoryOrder: string[],
+  count = 8
+): Product[] {
   const withImages = products.filter(hasUsableImage);
   const byCategory = new Map<string, Product[]>();
   for (const p of withImages) {
@@ -83,7 +53,7 @@ export function getFeaturedProducts(products: Product[], count = 8): Product[] {
   let round = 0;
   while (featured.length < count) {
     let addedThisRound = false;
-    for (const category of PRIMARY_CATEGORIES) {
+    for (const category of categoryOrder) {
       const list = byCategory.get(category);
       if (list && list[round]) {
         featured.push(list[round]);
@@ -105,7 +75,7 @@ export function whatsappOrderUrl(product: Product): string {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
 }
 
-/** Simple ASCII slugifier for the admin panel's "new product" form. */
+/** Simple ASCII slugifier for the admin panel's "new" forms. */
 export function slugify(text: string): string {
   const trFold: Record<string, string> = {
     ç: "c", ğ: "g", ı: "i", ö: "o", ş: "s", ü: "u",

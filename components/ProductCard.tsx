@@ -1,9 +1,14 @@
+"use client";
+
 import Link from "next/link";
 import { Ruler } from "lucide-react";
-import { type Product, categoryLabel } from "@/lib/products";
+import { type Product } from "@/lib/products";
+import { useCategories, categoryLabelFrom } from "@/lib/categories";
 import ProductImage from "@/components/ProductImage";
 
 export default function ProductCard({ product }: { product: Product }) {
+  const { categories } = useCategories();
+
   return (
     <Link
       href={`/urunler/detay?slug=${product.slug}`}
@@ -15,7 +20,7 @@ export default function ProductCard({ product }: { product: Product }) {
           className="transition-transform duration-500 group-hover:scale-105"
         />
         <span className="absolute left-3 top-3 rounded-full bg-ink/80 px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider text-bone backdrop-blur-sm">
-          {categoryLabel(product.category)}
+          {categoryLabelFrom(categories, product.category)}
         </span>
       </div>
       <div className="flex flex-1 flex-col gap-1.5 p-4">

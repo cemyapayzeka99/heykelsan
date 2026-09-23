@@ -2,13 +2,9 @@
 
 import Link from "next/link";
 import { ArrowRight, MessageCircle, Hammer, ShieldCheck, Clock3 } from "lucide-react";
-import {
-  getFeaturedProducts,
-  PRIMARY_CATEGORIES,
-  categoryLabel,
-  getProductsByCategory,
-} from "@/lib/products";
+import { getFeaturedProducts, getProductsByCategory } from "@/lib/products";
 import { useProducts } from "@/lib/useProducts";
+import { useCategories } from "@/lib/categories";
 import { categoryIcon } from "@/lib/categoryIcons";
 import { CONTACT } from "@/lib/contact";
 import ProductCard from "@/components/ProductCard";
@@ -16,7 +12,9 @@ import ProductImage from "@/components/ProductImage";
 
 export default function Home() {
   const { products, loading } = useProducts();
-  const featured = getFeaturedProducts(products, 8);
+  const { categories } = useCategories();
+  const categorySlugs = categories.map((c) => c.slug);
+  const featured = getFeaturedProducts(products, categorySlugs, 8);
   const heroPieces = featured.slice(0, 3);
 
   return (
@@ -69,14 +67,14 @@ export default function Home() {
               </div>
               <div>
                 <dt className="sr-only">Ürün çeşidi</dt>
-                <dd className="font-display text-3xl text-ink">190+</dd>
+                <dd className="font-display text-3xl text-ink">{products.length}+</dd>
                 <span className="text-xs uppercase tracking-wide text-ink-soft/70">
                   Eser Modeli
                 </span>
               </div>
               <div>
                 <dt className="sr-only">Kategori</dt>
-                <dd className="font-display text-3xl text-ink">8</dd>
+                <dd className="font-display text-3xl text-ink">{categories.length}</dd>
                 <span className="text-xs uppercase tracking-wide text-ink-soft/70">
                   Koleksiyon
                 </span>
@@ -148,13 +146,13 @@ export default function Home() {
         </div>
 
         <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
-          {PRIMARY_CATEGORIES.map((cat) => {
-            const Icon = categoryIcon(cat);
-            const count = getProductsByCategory(products, cat).length;
+          {categories.map((cat) => {
+            const Icon = categoryIcon(cat.slug);
+            const count = getProductsByCategory(products, cat.slug).length;
             return (
               <Link
-                key={cat}
-                href={`/urunler?kategori=${cat}`}
+                key={cat.slug}
+                href={`/urunler?kategori=${cat.slug}`}
                 className="group relative flex flex-col justify-between overflow-hidden rounded-2xl border border-line bg-white/40 p-5 transition-all duration-300 hover:-translate-y-1 hover:border-bronze/60 hover:shadow-lg hover:shadow-ink/5"
               >
                 <Icon
@@ -163,7 +161,7 @@ export default function Home() {
                 />
                 <div className="mt-8">
                   <h3 className="font-display text-lg leading-snug text-ink">
-                    {categoryLabel(cat)}
+                    {cat.label}
                   </h3>
                   <span className="text-xs text-ink-soft/60">
                     {count} model
