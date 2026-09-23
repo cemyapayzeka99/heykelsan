@@ -1,5 +1,3 @@
-import productsData from "@/data/products.json";
-
 export interface Product {
   id: string;
   title: string;
@@ -11,11 +9,6 @@ export interface Product {
   image_urls: string[];
   url?: string;
 }
-
-// data/products.json is edited through the Decap CMS panel (public/admin),
-// which requires file-collection JSON to be wrapped as { products: [...] }
-// rather than a bare top-level array.
-export const products = productsData.products as Product[];
 
 export const CATEGORY_LABELS: Record<string, string> = {
   "heykeller": "Heykeller",
@@ -45,22 +38,31 @@ export function categoryLabel(slug: string): string {
   return CATEGORY_LABELS[slug] ?? slug;
 }
 
-export function hasLocalImage(product: Product): boolean {
-  return Boolean(product.image_urls[0]?.startsWith("/"));
+/** A local static asset (public/images/...) or a Cloudinary-hosted upload. */
+export function hasUsableImage(product: Product): boolean {
+  const src = product.image_urls[0];
+  if (!src) return false;
+  return src.startsWith("/") || src.startsWith("https://res.cloudinary.com/");
 }
 
-export function getAllCategories(): string[] {
+export function getAllCategories(products: Product[]): string[] {
   const set = new Set(products.map((p) => p.category));
   return PRIMARY_CATEGORIES.filter((c) => set.has(c)).concat(
     [...set].filter((c) => !PRIMARY_CATEGORIES.includes(c))
   );
 }
 
-export function getProductBySlug(slug: string): Product | undefined {
+export function getProductBySlug(
+  products: Product[],
+  slug: string
+): Product | undefined {
   return products.find((p) => p.slug === slug);
 }
 
-export function getProductsByCategory(category: string): Product[] {
+export function getProductsByCategory(
+  products: Product[],
+  category: string
+): Product[] {
   return products.filter((p) => p.category === category);
 }
 
@@ -68,8 +70,8 @@ export function getProductsByCategory(category: string): Product[] {
  * Curated, deterministic pick spread across categories so the homepage
  * doesn't just show the first N rows of a single category.
  */
-export function getFeaturedProducts(count = 8): Product[] {
-  const withImages = products.filter(hasLocalImage);
+export function getFeaturedProducts(products: Product[], count = 8): Product[] {
+  const withImages = products.filter(hasUsableImage);
   const byCategory = new Map<string, Product[]>();
   for (const p of withImages) {
     const list = byCategory.get(p.category) ?? [];
@@ -101,4 +103,19 @@ export const WHATSAPP_NUMBER = "905322810273";
 export function whatsappOrderUrl(product: Product): string {
   const message = `Merhabalar, "${product.title}" ürünü hakkında bilgi almak / sipariş vermek istiyorum.`;
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
+}
+
+/** Simple ASCII slugifier for the admin panel's "new product" form. */
+export function slugify(text: string): string {
+  const trFold: Record<string, string> = {
+    ç: "c", ğ: "g", ı: "i", ö: "o", ş: "s", ü: "u",
+    Ç: "c", Ğ: "g", İ: "i", Ö: "o", Ş: "s", Ü: "u",
+  };
+  return text
+    .split("")
+    .map((ch) => trFold[ch] ?? ch)
+    .join("")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
 }

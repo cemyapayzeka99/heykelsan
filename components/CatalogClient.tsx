@@ -1,8 +1,10 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { useSearchParams } from "next/navigation";
 import { Search, X, PackageSearch } from "lucide-react";
-import { type Product, categoryLabel } from "@/lib/products";
+import { categoryLabel, getAllCategories } from "@/lib/products";
+import { useProducts } from "@/lib/useProducts";
 import ProductCard from "@/components/ProductCard";
 
 const TR_FOLD: Record<string, string> = {
@@ -18,22 +20,16 @@ function normalize(text: string): string {
     .toLowerCase();
 }
 
-interface CatalogClientProps {
-  products: Product[];
-  categories: string[];
-  initialCategory: string | null;
-}
+export default function CatalogClient() {
+  const { products, loading } = useProducts();
+  const categories = useMemo(() => getAllCategories(products), [products]);
 
-export default function CatalogClient({
-  products,
-  categories,
-  initialCategory,
-}: CatalogClientProps) {
+  const searchParams = useSearchParams();
+  const initialCategory = searchParams.get("kategori");
+
   const [query, setQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState<string | null>(
-    initialCategory && categories.includes(initialCategory)
-      ? initialCategory
-      : null
+    initialCategory
   );
 
   const filtered = useMemo(() => {
@@ -101,33 +97,39 @@ export default function CatalogClient({
         </div>
       </div>
 
-      <p className="mt-6 text-sm text-ink-soft/70">
-        {filtered.length} eser bulundu
-      </p>
-
-      {filtered.length > 0 ? (
-        <div className="mt-6 grid grid-cols-2 gap-5 sm:grid-cols-3 lg:grid-cols-4">
-          {filtered.map((product) => (
-            <ProductCard key={product.slug} product={product} />
-          ))}
-        </div>
+      {loading ? (
+        <p className="mt-6 text-sm text-ink-soft/60">Yükleniyor...</p>
       ) : (
-        <div className="mt-16 flex flex-col items-center gap-3 py-16 text-center">
-          <PackageSearch className="h-10 w-10 text-bronze/60" strokeWidth={1.25} />
-          <p className="text-ink-soft">
-            Aramanızla eşleşen bir eser bulamadık.
+        <>
+          <p className="mt-6 text-sm text-ink-soft/70">
+            {filtered.length} eser bulundu
           </p>
-          <button
-            type="button"
-            onClick={() => {
-              setQuery("");
-              setActiveCategory(null);
-            }}
-            className="text-sm font-semibold text-bronze-dark hover:text-bronze"
-          >
-            Filtreleri temizle
-          </button>
-        </div>
+
+          {filtered.length > 0 ? (
+            <div className="mt-6 grid grid-cols-2 gap-5 sm:grid-cols-3 lg:grid-cols-4">
+              {filtered.map((product) => (
+                <ProductCard key={product.slug} product={product} />
+              ))}
+            </div>
+          ) : (
+            <div className="mt-16 flex flex-col items-center gap-3 py-16 text-center">
+              <PackageSearch className="h-10 w-10 text-bronze/60" strokeWidth={1.25} />
+              <p className="text-ink-soft">
+                Aramanızla eşleşen bir eser bulamadık.
+              </p>
+              <button
+                type="button"
+                onClick={() => {
+                  setQuery("");
+                  setActiveCategory(null);
+                }}
+                className="text-sm font-semibold text-bronze-dark hover:text-bronze"
+              >
+                Filtreleri temizle
+              </button>
+            </div>
+          )}
+        </>
       )}
     </div>
   );

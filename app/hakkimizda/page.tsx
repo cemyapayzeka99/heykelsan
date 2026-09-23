@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { MessageCircle, Hammer, ShieldCheck, Palette } from "lucide-react";
 import { CONTACT } from "@/lib/contact";
-import { PRIMARY_CATEGORIES, categoryLabel, getProductsByCategory } from "@/lib/products";
+import { PRIMARY_CATEGORIES, categoryLabel } from "@/lib/products";
 
 export const metadata: Metadata = {
   title: "Hakkımızda | Heykelsan",
@@ -61,10 +61,7 @@ export default function HakkimizdaPage() {
               href={`/urunler?kategori=${cat}`}
               className="rounded-full border border-line bg-white/40 px-4 py-2 text-sm font-medium text-ink-soft transition-colors hover:border-bronze/60 hover:text-bronze-dark"
             >
-              {categoryLabel(cat)}{" "}
-              <span className="text-ink-soft/50">
-                ({getProductsByCategory(cat).length})
-              </span>
+              {categoryLabel(cat)}
             </Link>
           ))}
         </div>

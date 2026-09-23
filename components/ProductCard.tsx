@@ -6,7 +6,7 @@ import ProductImage from "@/components/ProductImage";
 export default function ProductCard({ product }: { product: Product }) {
   return (
     <Link
-      href={`/urunler/${product.slug}`}
+      href={`/urunler/detay?slug=${product.slug}`}
       className="group flex flex-col overflow-hidden rounded-2xl border border-line bg-white/40 transition-all duration-300 hover:-translate-y-1 hover:border-bronze/60 hover:shadow-lg hover:shadow-ink/5"
     >
       <div className="relative aspect-[4/5] overflow-hidden bg-bone-dim">

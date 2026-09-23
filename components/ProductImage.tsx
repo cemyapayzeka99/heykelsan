@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Gem } from "lucide-react";
-import { type Product, hasLocalImage } from "@/lib/products";
+import { type Product, hasUsableImage } from "@/lib/products";
 
 interface ProductImageProps {
   product: Product;
@@ -15,7 +15,7 @@ export default function ProductImage({
   priority = false,
   className = "",
 }: ProductImageProps) {
-  if (!hasLocalImage(product)) {
+  if (!hasUsableImage(product)) {
     return (
       <div
         className={`absolute inset-0 flex flex-col items-center justify-center gap-2 bg-bone-dim text-bronze-dark ${className}`}

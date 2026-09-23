@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { products, getAllCategories } from "@/lib/products";
+import { Suspense } from "react";
 import CatalogClient from "@/components/CatalogClient";
 
 export const metadata: Metadata = {
@@ -8,14 +8,7 @@ export const metadata: Metadata = {
     "Heykel, Atatürk büstü, sütun, rölyef, saksı ve bahçe aksesuarı koleksiyonumuzun tamamını inceleyin.",
 };
 
-interface UrunlerPageProps {
-  searchParams: Promise<{ kategori?: string }>;
-}
-
-export default async function UrunlerPage({ searchParams }: UrunlerPageProps) {
-  const params = await searchParams;
-  const categories = getAllCategories();
-
+export default function UrunlerPage() {
   return (
     <div className="mx-auto max-w-6xl px-6 py-14">
       <div className="mb-10 max-w-2xl">
@@ -26,16 +19,13 @@ export default async function UrunlerPage({ searchParams }: UrunlerPageProps) {
           Tüm Eserlerimiz
         </h1>
         <p className="mt-4 text-ink-soft">
-          {products.length} modelden oluşan koleksiyonumuzda arama yapın veya
-          kategoriye göre filtreleyin.
+          Koleksiyonumuzda arama yapın veya kategoriye göre filtreleyin.
         </p>
       </div>
 
-      <CatalogClient
-        products={products}
-        categories={categories}
-        initialCategory={params.kategori ?? null}
-      />
+      <Suspense fallback={<p className="text-sm text-ink-soft/60">Yükleniyor...</p>}>
+        <CatalogClient />
+      </Suspense>
     </div>
   );
 }

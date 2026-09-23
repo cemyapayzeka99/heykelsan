@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { ArrowRight, MessageCircle, Hammer, ShieldCheck, Clock3 } from "lucide-react";
 import {
@@ -6,13 +8,15 @@ import {
   categoryLabel,
   getProductsByCategory,
 } from "@/lib/products";
+import { useProducts } from "@/lib/useProducts";
 import { categoryIcon } from "@/lib/categoryIcons";
 import { CONTACT } from "@/lib/contact";
 import ProductCard from "@/components/ProductCard";
 import ProductImage from "@/components/ProductImage";
 
 export default function Home() {
-  const featured = getFeaturedProducts(8);
+  const { products, loading } = useProducts();
+  const featured = getFeaturedProducts(products, 8);
   const heroPieces = featured.slice(0, 3);
 
   return (
@@ -146,7 +150,7 @@ export default function Home() {
         <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
           {PRIMARY_CATEGORIES.map((cat) => {
             const Icon = categoryIcon(cat);
-            const count = getProductsByCategory(cat).length;
+            const count = getProductsByCategory(products, cat).length;
             return (
               <Link
                 key={cat}
@@ -191,11 +195,15 @@ export default function Home() {
             </Link>
           </div>
 
-          <div className="grid grid-cols-2 gap-5 sm:grid-cols-3 lg:grid-cols-4">
-            {featured.map((product) => (
-              <ProductCard key={product.slug} product={product} />
-            ))}
-          </div>
+          {loading ? (
+            <p className="text-sm text-ink-soft/60">Yükleniyor...</p>
+          ) : (
+            <div className="grid grid-cols-2 gap-5 sm:grid-cols-3 lg:grid-cols-4">
+              {featured.map((product) => (
+                <ProductCard key={product.slug} product={product} />
+              ))}
+            </div>
+          )}
 
           <div className="mt-10 flex justify-center sm:hidden">
             <Link

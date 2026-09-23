@@ -3,12 +3,12 @@
 import { useState } from "react";
 import Image from "next/image";
 import { Gem } from "lucide-react";
-import { type Product, hasLocalImage } from "@/lib/products";
+import { type Product, hasUsableImage } from "@/lib/products";
 
 export default function ProductGallery({ product }: { product: Product }) {
   const images = product.image_urls;
   const [active, setActive] = useState(0);
-  const localOk = hasLocalImage(product);
+  const localOk = hasUsableImage(product);
 
   return (
     <div>

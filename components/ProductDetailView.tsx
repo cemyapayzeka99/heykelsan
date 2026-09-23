@@ -1,49 +1,50 @@
-import type { Metadata } from "next";
+"use client";
+
+import { useEffect } from "react";
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import { ChevronRight, Ruler, Tag, Hash } from "lucide-react";
-import {
-  products,
-  getProductBySlug,
-  getProductsByCategory,
-  categoryLabel,
-} from "@/lib/products";
+import { getProductBySlug, getProductsByCategory, categoryLabel } from "@/lib/products";
+import { useProducts } from "@/lib/useProducts";
 import ProductGallery from "@/components/ProductGallery";
 import WhatsAppButton from "@/components/WhatsAppButton";
 import ProductCard from "@/components/ProductCard";
 
-interface ProductPageProps {
-  params: Promise<{ slug: string }>;
-}
+export default function ProductDetailView() {
+  const searchParams = useSearchParams();
+  const slug = searchParams.get("slug") ?? "";
+  const { products, loading } = useProducts();
+  const product = getProductBySlug(products, slug);
 
-export function generateStaticParams() {
-  return products.map((p) => ({ slug: p.slug }));
-}
+  useEffect(() => {
+    if (product) {
+      document.title = `${product.title} | Heykelsan`;
+    }
+  }, [product]);
 
-export async function generateMetadata({
-  params,
-}: ProductPageProps): Promise<Metadata> {
-  const { slug } = await params;
-  const product = getProductBySlug(slug);
-  if (!product) return {};
-
-  return {
-    title: `${product.title} | Heykelsan`,
-    description:
-      product.description ||
-      `${product.title} - ${categoryLabel(product.category)} koleksiyonundan, Heykelsan atölyesi üretimi.`,
-  };
-}
-
-export default async function ProductPage({ params }: ProductPageProps) {
-  const { slug } = await params;
-  const product = getProductBySlug(slug);
-
-  if (!product) {
-    notFound();
+  if (loading) {
+    return (
+      <div className="mx-auto max-w-6xl px-6 py-20 text-center text-sm text-ink-soft/60">
+        Yükleniyor...
+      </div>
+    );
   }
 
-  const related = getProductsByCategory(product.category)
+  if (!product) {
+    return (
+      <div className="mx-auto max-w-6xl px-6 py-20 text-center">
+        <p className="text-ink-soft">Bu ürün bulunamadı.</p>
+        <Link
+          href="/urunler"
+          className="mt-4 inline-block text-sm font-semibold text-bronze-dark hover:text-bronze"
+        >
+          Tüm ürünlere dön
+        </Link>
+      </div>
+    );
+  }
+
+  const related = getProductsByCategory(products, product.category)
     .filter((p) => p.slug !== product.slug)
     .slice(0, 4);
 
