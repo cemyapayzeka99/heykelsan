@@ -7,13 +7,15 @@ import {
   signOut,
   type User,
 } from "firebase/auth";
-import { LayoutDashboard, Package, Tags, LogOut } from "lucide-react";
+import { LayoutDashboard, Package, Tags, Newspaper, LogOut } from "lucide-react";
 import { auth } from "@/lib/firebase";
 import { useProducts } from "@/lib/useProducts";
 import { useCategories } from "@/lib/categories";
+import { useBlogPosts } from "@/lib/useBlogPosts";
 import DashboardTab from "@/components/admin/DashboardTab";
 import ProductsTab from "@/components/admin/ProductsTab";
 import CategoriesTab from "@/components/admin/CategoriesTab";
+import BlogTab from "@/components/admin/BlogTab";
 
 export default function AdminPanel() {
   const [user, setUser] = useState<User | null | undefined>(undefined);
@@ -94,19 +96,21 @@ function LoginForm() {
   );
 }
 
-type Tab = "dashboard" | "products" | "categories";
+type Tab = "dashboard" | "products" | "categories" | "blog";
 
 const TABS: { id: Tab; label: string; icon: React.ComponentType<{ className?: string }> }[] = [
   { id: "dashboard", label: "Panel", icon: LayoutDashboard },
   { id: "products", label: "Ürünler", icon: Package },
   { id: "categories", label: "Kategoriler", icon: Tags },
+  { id: "blog", label: "Blog", icon: Newspaper },
 ];
 
 function PanelShell({ user }: { user: User }) {
   const [tab, setTab] = useState<Tab>("dashboard");
   const { products, loading: productsLoading } = useProducts();
   const { categories, loading: categoriesLoading } = useCategories();
-  const loading = productsLoading || categoriesLoading;
+  const { posts, loading: postsLoading } = useBlogPosts();
+  const loading = productsLoading || categoriesLoading || (tab === "blog" && postsLoading);
 
   return (
     <div className="mx-auto max-w-6xl px-6 py-10">
@@ -153,6 +157,7 @@ function PanelShell({ user }: { user: User }) {
           {tab === "categories" ? (
             <CategoriesTab products={products} categories={categories} />
           ) : null}
+          {tab === "blog" ? <BlogTab posts={posts} /> : null}
         </>
       )}
     </div>

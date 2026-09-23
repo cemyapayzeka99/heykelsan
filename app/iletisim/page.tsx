@@ -3,8 +3,10 @@ import { MapPin, Phone, Mail, Clock, MessageCircle } from "lucide-react";
 import { CONTACT } from "@/lib/contact";
 
 export const metadata: Metadata = {
-  title: "İletişim | Heykelsan",
-  description: "Heykelsan atölyesiyle iletişime geçin.",
+  title: "İletişim",
+  description:
+    "Heykelsan heykel atölyesiyle iletişime geçin. Adres, telefon, WhatsApp ve çalışma saatleri — İstanbul Beyoğlu'ndaki atölyemizi ziyaret edin.",
+  alternates: { canonical: "/iletisim" },
 };
 
 export default function IletisimPage() {

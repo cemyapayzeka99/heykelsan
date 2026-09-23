@@ -3,9 +3,10 @@ import { Suspense } from "react";
 import CatalogClient from "@/components/CatalogClient";
 
 export const metadata: Metadata = {
-  title: "Ürünlerimiz | Heykelsan",
+  title: "Ürünlerimiz",
   description:
-    "Heykel, Atatürk büstü, sütun, rölyef, saksı ve bahçe aksesuarı koleksiyonumuzun tamamını inceleyin.",
+    "Heykel, Atatürk büstü, hayvan heykeli, sütun, rölyef, tuğra, duvar kaplama plakası, saksı ve bahçe aksesuarı koleksiyonumuzun tamamını inceleyin. El işçiliği taş ve bronz eserler.",
+  alternates: { canonical: "/urunler" },
 };
 
 export default function UrunlerPage() {

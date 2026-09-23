@@ -4,12 +4,25 @@ import { useEffect } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { ChevronRight, Ruler, Tag, Hash } from "lucide-react";
-import { getProductBySlug, getProductsByCategory } from "@/lib/products";
+import { getProductBySlug, getProductsByCategory, hasUsableImage } from "@/lib/products";
 import { useProducts } from "@/lib/useProducts";
 import { useCategories, categoryLabelFrom } from "@/lib/categories";
 import ProductGallery from "@/components/ProductGallery";
 import WhatsAppButton from "@/components/WhatsAppButton";
 import ProductCard from "@/components/ProductCard";
+
+const SITE_URL = "https://heykelsan-80dc7.web.app";
+const JSON_LD_SCRIPT_ID = "product-jsonld";
+
+function setMetaTag(attr: "name" | "property", key: string, content: string) {
+  let tag = document.head.querySelector<HTMLMetaElement>(`meta[${attr}="${key}"]`);
+  if (!tag) {
+    tag = document.createElement("meta");
+    tag.setAttribute(attr, key);
+    document.head.appendChild(tag);
+  }
+  tag.setAttribute("content", content);
+}
 
 export default function ProductDetailView() {
   const searchParams = useSearchParams();
@@ -19,10 +32,76 @@ export default function ProductDetailView() {
   const product = getProductBySlug(products, slug);
 
   useEffect(() => {
-    if (product) {
-      document.title = `${product.title} | Heykelsan`;
+    if (!product) return;
+
+    const title = `${product.title} | Heykelsan`;
+    const description =
+      product.description?.trim() ||
+      `${product.title} — ${categoryLabelFrom(categories, product.category)} kategorisinde el işçiliği Heykelsan eseri. Fiyat ve ölçü bilgisi için WhatsApp üzerinden ulaşın.`;
+    const image = hasUsableImage(product)
+      ? product.image_urls[0].startsWith("/")
+        ? `${SITE_URL}${product.image_urls[0]}`
+        : product.image_urls[0]
+      : `${SITE_URL}/images/logo/heykelsan-wordmark-ink.png`;
+    const pageUrl = `${SITE_URL}/urunler/detay?slug=${product.slug}`;
+
+    document.title = title;
+    setMetaTag("name", "description", description);
+    setMetaTag("property", "og:title", title);
+    setMetaTag("property", "og:description", description);
+    setMetaTag("property", "og:image", image);
+    setMetaTag("property", "og:url", pageUrl);
+    setMetaTag("property", "og:type", "product");
+    setMetaTag("name", "twitter:card", "summary_large_image");
+    setMetaTag("name", "twitter:title", title);
+    setMetaTag("name", "twitter:description", description);
+
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: product.title,
+      description,
+      image,
+      sku: product.id,
+      category: categoryLabelFrom(categories, product.category),
+      brand: { "@type": "Brand", name: "Heykelsan" },
+      offers: {
+        "@type": "Offer",
+        availability: "https://schema.org/InStock",
+        url: pageUrl,
+        priceCurrency: "TRY",
+        ...(product.price ? { price: product.price } : {}),
+      },
+    };
+    const breadcrumbJsonLd = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Anasayfa", item: SITE_URL },
+        { "@type": "ListItem", position: 2, name: "Ürünlerimiz", item: `${SITE_URL}/urunler` },
+        {
+          "@type": "ListItem",
+          position: 3,
+          name: categoryLabelFrom(categories, product.category),
+          item: `${SITE_URL}/urunler?kategori=${product.category}`,
+        },
+        { "@type": "ListItem", position: 4, name: product.title, item: pageUrl },
+      ],
+    };
+
+    let script = document.getElementById(JSON_LD_SCRIPT_ID) as HTMLScriptElement | null;
+    if (!script) {
+      script = document.createElement("script");
+      script.id = JSON_LD_SCRIPT_ID;
+      script.type = "application/ld+json";
+      document.head.appendChild(script);
     }
-  }, [product]);
+    script.textContent = JSON.stringify([jsonLd, breadcrumbJsonLd]);
+
+    return () => {
+      script?.remove();
+    };
+  }, [product, categories]);
 
   if (loading) {
     return (

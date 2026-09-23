@@ -4,9 +4,10 @@ import { CONTACT } from "@/lib/contact";
 import CategoryLinks from "@/components/CategoryLinks";
 
 export const metadata: Metadata = {
-  title: "Hakkımızda | Heykelsan",
+  title: "Hakkımızda",
   description:
-    "15 yıllık tecrübeyle taş, bronz ve fiberglas eserler üreten Heykelsan heykel atölyesi.",
+    "15 yıllık tecrübeyle taş, bronz ve fiberglas heykel, Atatürk büstü ve bahçe dekoru üreten Heykelsan heykel atölyesi. El işçiliği ve ustalıkla üretim.",
+  alternates: { canonical: "/hakkimizda" },
 };
 
 export default function HakkimizdaPage() {
