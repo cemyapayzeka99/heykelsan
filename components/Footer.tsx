@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { MapPin, Phone, Mail, Clock, MessageCircle } from "lucide-react";
 import { CONTACT } from "@/lib/contact";
 import { PRIMARY_CATEGORIES, categoryLabel } from "@/lib/products";
@@ -10,9 +11,13 @@ export default function Footer() {
     <footer className="border-t border-line bg-ink text-bone">
       <div className="mx-auto grid max-w-6xl gap-10 px-6 py-14 sm:grid-cols-2 lg:grid-cols-4">
         <div>
-          <span className="font-display text-2xl italic text-bone">
-            Heykelsan
-          </span>
+          <Image
+            src="/images/logo/heykelsan-wordmark-bone.png"
+            alt="Heykelsan"
+            width={220}
+            height={37}
+            className="h-8 w-auto"
+          />
           <p className="mt-3 max-w-xs text-sm leading-relaxed text-bone/60">
             15 yıllık tecrübeyle taş, bronz ve fiberglas eserler üreten heykel
             atölyesi. Sanat, ellerimizde yeniden şekilleniyor.
