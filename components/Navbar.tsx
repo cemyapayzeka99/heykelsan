@@ -1,15 +1,14 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
 import { useState } from "react";
 import { Phone, MessageCircle, Menu, X } from "lucide-react";
 import { CONTACT } from "@/lib/contact";
 
 const NAV_LINKS = [
   { href: "/", label: "Anasayfa" },
-  { href: "/urunler", label: "Katalog" },
-  { href: "/hakkimizda", label: "Atölye" },
+  { href: "/urunler", label: "Ürünlerimiz" },
+  { href: "/hakkimizda", label: "Hakkımızda" },
   { href: "/iletisim", label: "İletişim" },
 ];
 
@@ -19,11 +18,11 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-50">
       {/* Contact strip */}
-      <div className="hidden border-b border-white/10 bg-obsidian text-bone/60 sm:block">
-        <div className="mx-auto flex max-w-6xl items-center justify-end gap-6 px-6 py-2 font-mono text-[11px] uppercase tracking-[0.12em]">
+      <div className="hidden bg-ink text-bone/80 sm:block">
+        <div className="mx-auto flex max-w-6xl items-center justify-end gap-6 px-6 py-1.5 text-xs tracking-wide">
           <a
             href={`tel:${CONTACT.phonePrimaryHref}`}
-            className="flex items-center gap-1.5 transition-colors hover:text-bronze"
+            className="flex items-center gap-1.5 transition-colors hover:text-bronze-light"
           >
             <Phone className="h-3 w-3" strokeWidth={2} />
             {CONTACT.phonePrimary}
@@ -32,40 +31,35 @@ export default function Navbar() {
             href={`https://wa.me/${CONTACT.whatsappNumber}`}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-1.5 transition-colors hover:text-bronze"
+            className="flex items-center gap-1.5 transition-colors hover:text-whatsapp"
           >
             <MessageCircle className="h-3 w-3" strokeWidth={2} />
-            Danışmana Yaz
+            WhatsApp&apos;tan Yaz
           </a>
-          <span className="text-bone/30">
+          <span className="text-bone/40">
             {CONTACT.hoursLabel} · {CONTACT.hours}
           </span>
         </div>
       </div>
 
       {/* Main nav */}
-      <div className="border-b border-white/10 bg-obsidian/95 backdrop-blur supports-[backdrop-filter]:bg-obsidian/85">
-        <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
+      <div className="border-b border-line bg-bone/95 backdrop-blur supports-[backdrop-filter]:bg-bone/85">
+        <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
           <Link href="/" className="group flex flex-col leading-none">
-            <Image
-              src="/images/logo/heykelsan-wordmark.png"
-              alt="Heykelsan"
-              width={220}
-              height={37}
-              priority
-              className="h-7 w-auto"
-            />
-            <span className="mt-1.5 font-mono text-[10px] uppercase tracking-[0.3em] text-bronze">
+            <span className="font-display text-2xl italic tracking-tight text-ink">
+              Heykelsan
+            </span>
+            <span className="mt-0.5 text-[11px] uppercase tracking-[0.25em] text-bronze-dark">
               {CONTACT.tagline}
             </span>
           </Link>
 
-          <nav className="hidden items-center gap-10 md:flex">
+          <nav className="hidden items-center gap-8 md:flex">
             {NAV_LINKS.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-xs font-semibold uppercase tracking-[0.18em] text-bone/60 transition-colors hover:text-bronze"
+                className="text-sm font-medium tracking-wide text-ink-soft transition-colors hover:text-bronze-dark"
               >
                 {link.label}
               </Link>
@@ -77,20 +71,17 @@ export default function Navbar() {
               href={`https://wa.me/${CONTACT.whatsappNumber}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="group flex items-center gap-2 border border-bronze/60 px-5 py-2.5 text-xs font-semibold uppercase tracking-[0.15em] text-bone transition-colors hover:bg-bronze hover:text-obsidian"
+              className="flex items-center gap-2 rounded-full bg-whatsapp px-4 py-2 text-sm font-semibold text-white shadow-sm shadow-whatsapp/30 transition-colors hover:bg-whatsapp-dark"
             >
-              <MessageCircle
-                className="h-3.5 w-3.5 text-whatsapp transition-colors group-hover:text-obsidian"
-                strokeWidth={2.25}
-              />
-              Danışmana Sor
+              <MessageCircle className="h-4 w-4" strokeWidth={2.25} />
+              Sipariş Ver
             </a>
           </div>
 
           <button
             type="button"
             onClick={() => setOpen((v) => !v)}
-            className="flex h-10 w-10 items-center justify-center border border-white/15 text-bone md:hidden"
+            className="flex h-10 w-10 items-center justify-center rounded-full border border-line text-ink md:hidden"
             aria-label={open ? "Menüyü kapat" : "Menüyü aç"}
             aria-expanded={open}
           >
@@ -100,35 +91,35 @@ export default function Navbar() {
 
         {/* Mobile panel */}
         {open && (
-          <div className="border-t border-white/10 bg-obsidian px-6 py-4 md:hidden animate-rise">
+          <div className="border-t border-line bg-bone px-6 py-4 md:hidden animate-rise">
             <nav className="flex flex-col gap-1">
               {NAV_LINKS.map((link) => (
                 <Link
                   key={link.href}
                   href={link.href}
                   onClick={() => setOpen(false)}
-                  className="px-3 py-2.5 text-sm font-semibold uppercase tracking-[0.15em] text-bone/70 transition-colors hover:bg-white/5 hover:text-bronze"
+                  className="rounded-lg px-3 py-2.5 text-base font-medium text-ink-soft transition-colors hover:bg-bone-dim hover:text-bronze-dark"
                 >
                   {link.label}
                 </Link>
               ))}
             </nav>
-            <div className="mt-4 flex flex-col gap-3 border-t border-white/10 pt-4">
+            <div className="mt-4 flex flex-col gap-2 border-t border-line pt-4">
               <a
                 href={`tel:${CONTACT.phonePrimaryHref}`}
-                className="flex items-center gap-2 font-mono text-sm text-bone/70"
+                className="flex items-center gap-2 text-sm text-ink-soft"
               >
-                <Phone className="h-4 w-4 text-bronze" strokeWidth={2} />
+                <Phone className="h-4 w-4 text-bronze-dark" strokeWidth={2} />
                 {CONTACT.phonePrimary}
               </a>
               <a
                 href={`https://wa.me/${CONTACT.whatsappNumber}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mt-1 flex items-center justify-center gap-2 border border-bronze/60 px-4 py-3 text-xs font-semibold uppercase tracking-[0.15em] text-bone transition-colors hover:bg-bronze hover:text-obsidian"
+                className="mt-1 flex items-center justify-center gap-2 rounded-full bg-whatsapp px-4 py-2.5 text-sm font-semibold text-white"
               >
-                <MessageCircle className="h-4 w-4 text-whatsapp" strokeWidth={2.25} />
-                Danışmana Yaz
+                <MessageCircle className="h-4 w-4" strokeWidth={2.25} />
+                WhatsApp&apos;tan Sipariş Ver
               </a>
             </div>
           </div>

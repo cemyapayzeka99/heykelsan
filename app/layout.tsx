@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Fraunces, Instrument_Sans, IBM_Plex_Mono } from "next/font/google";
+import { Fraunces, Instrument_Sans } from "next/font/google";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import "./globals.css";
@@ -8,19 +8,13 @@ const fraunces = Fraunces({
   subsets: ["latin"],
   variable: "--font-fraunces",
   axes: ["opsz", "SOFT", "WONK"],
+  style: ["normal", "italic"],
   display: "swap",
 });
 
 const instrumentSans = Instrument_Sans({
   subsets: ["latin"],
   variable: "--font-instrument",
-  display: "swap",
-});
-
-const catalogMono = IBM_Plex_Mono({
-  subsets: ["latin"],
-  weight: ["400", "500"],
-  variable: "--font-catalog-mono",
   display: "swap",
 });
 
@@ -38,7 +32,7 @@ export default function RootLayout({
   return (
     <html lang="tr">
       <body
-        className={`${fraunces.variable} ${instrumentSans.variable} ${catalogMono.variable} antialiased flex min-h-screen flex-col`}
+        className={`${fraunces.variable} ${instrumentSans.variable} antialiased flex min-h-screen flex-col`}
       >
         <Navbar />
         <main className="flex-1">{children}</main>

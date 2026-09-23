@@ -19,13 +19,13 @@ export default async function UrunlerPage({ searchParams }: UrunlerPageProps) {
   return (
     <div className="mx-auto max-w-6xl px-6 py-14">
       <div className="mb-10 max-w-2xl">
-        <span className="font-mono text-xs uppercase tracking-[0.25em] text-bronze">
+        <span className="text-xs font-semibold uppercase tracking-[0.25em] text-bronze-dark">
           Katalog
         </span>
-        <h1 className="mt-3 font-display text-4xl font-bold uppercase tracking-[0.08em] text-bone sm:text-5xl">
+        <h1 className="mt-2 font-display text-4xl text-ink sm:text-5xl">
           Tüm Eserlerimiz
         </h1>
-        <p className="mt-4 text-bone/60">
+        <p className="mt-4 text-ink-soft">
           {products.length} modelden oluşan koleksiyonumuzda arama yapın veya
           kategoriye göre filtreleyin.
         </p>

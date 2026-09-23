@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { MapPin, Phone, Mail, Clock, MessageCircle, ArrowUpRight } from "lucide-react";
+import { MapPin, Phone, Mail, Clock, MessageCircle } from "lucide-react";
 import { CONTACT } from "@/lib/contact";
 
 export const metadata: Metadata = {
@@ -37,30 +37,30 @@ export default function IletisimPage() {
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
-      <span className="font-mono text-xs uppercase tracking-[0.25em] text-bronze">
+      <span className="text-xs font-semibold uppercase tracking-[0.25em] text-bronze-dark">
         İletişim
       </span>
-      <h1 className="mt-3 font-display text-4xl font-bold uppercase tracking-[0.05em] text-bone sm:text-5xl">
+      <h1 className="mt-2 font-display text-4xl text-ink sm:text-5xl">
         Bize Ulaşın
       </h1>
-      <p className="mt-6 max-w-xl text-balance text-lg leading-relaxed text-bone/60">
+      <p className="mt-6 max-w-xl text-balance text-lg leading-relaxed text-ink-soft">
         Sorularınız, özel sipariş talepleriniz veya proje teklifleriniz için
         bize aşağıdaki kanallardan ulaşabilirsiniz.
       </p>
 
-      <div className="mt-12 grid gap-px border border-white/10 bg-white/10 sm:grid-cols-2">
+      <div className="mt-12 grid gap-4 sm:grid-cols-2">
         {infoItems.map((item, i) => {
           const Icon = item.icon;
           const content = (
-            <div className="flex items-start gap-4 bg-panel p-5 transition-colors hover:bg-white/5">
-              <span className="flex h-10 w-10 shrink-0 items-center justify-center border border-bronze/40 text-bronze">
-                <Icon className="h-5 w-5" strokeWidth={1.5} />
+            <div className="flex items-start gap-4 rounded-2xl border border-line bg-white/40 p-5 transition-colors hover:border-bronze/50">
+              <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-bronze/10 text-bronze-dark">
+                <Icon className="h-5 w-5" strokeWidth={1.75} />
               </span>
               <div>
-                <p className="font-mono text-[10px] font-semibold uppercase tracking-[0.15em] text-bone/40">
+                <p className="text-xs font-semibold uppercase tracking-wide text-ink-soft/60">
                   {item.label}
                 </p>
-                <p className="mt-1 text-bone">{item.value}</p>
+                <p className="mt-1 text-ink">{item.value}</p>
               </div>
             </div>
           );
@@ -75,12 +75,12 @@ export default function IletisimPage() {
         })}
       </div>
 
-      <div className="mt-10 flex flex-col items-start gap-6 border border-bronze/40 bg-charcoal px-8 py-10 sm:flex-row sm:items-center sm:justify-between">
+      <div className="mt-10 flex flex-col items-start gap-4 rounded-3xl bg-ink px-8 py-10 text-bone sm:flex-row sm:items-center sm:justify-between">
         <div>
-          <h2 className="font-display text-xl font-bold uppercase tracking-[0.05em] text-bone">
-            En Hızlı Yanıt WhatsApp&apos;tan
+          <h2 className="font-display text-2xl italic">
+            En hızlı yanıt WhatsApp&apos;tan.
           </h2>
-          <p className="mt-2 text-sm text-bone/50">
+          <p className="mt-2 text-sm text-bone/60">
             Ürün adını yazın, ekibimiz size hemen dönüş yapsın.
           </p>
         </div>
@@ -88,18 +88,10 @@ export default function IletisimPage() {
           href={`https://wa.me/${CONTACT.whatsappNumber}`}
           target="_blank"
           rel="noopener noreferrer"
-          className="group flex shrink-0 items-center gap-3.5 border border-bronze bg-obsidian px-6 py-4 transition-colors duration-300 hover:bg-bronze"
+          className="inline-flex shrink-0 items-center gap-2 rounded-full bg-whatsapp px-6 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-whatsapp-dark"
         >
-          <span className="flex h-9 w-9 shrink-0 items-center justify-center border border-whatsapp/40 text-whatsapp transition-colors group-hover:border-obsidian/30 group-hover:text-obsidian">
-            <MessageCircle className="h-4 w-4" strokeWidth={2.25} />
-          </span>
-          <span className="text-sm font-semibold uppercase tracking-[0.15em] text-bone transition-colors group-hover:text-obsidian">
-            Danışmana Yaz
-          </span>
-          <ArrowUpRight
-            className="h-4 w-4 shrink-0 text-bronze transition-colors group-hover:text-obsidian"
-            strokeWidth={2}
-          />
+          <MessageCircle className="h-4 w-4" strokeWidth={2.25} />
+          WhatsApp&apos;tan Yaz
         </a>
       </div>
     </div>
